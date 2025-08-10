@@ -1,0 +1,2001 @@
+order_id,order_date,category,unit_price,quantity,total_amount,customer_segment,customer_age,sales_channel,region,discount_applied
+ORD_000001,2025-05-20,Electronics,93.83,1,93.83,VIP,26,Store,North,0.05
+ORD_000002,2025-06-27,Beauty,115.13,2,230.26,Regular,20,Online,North,0.15
+ORD_000003,2023-11-08,Clothing,61.88,1,76.93,Premium,53,Store,South,0.0
+ORD_000004,2025-07-23,Sports,140.37,2,326.73,Regular,35,Mobile App,North,0.0
+ORD_000005,2024-01-15,Beauty,68.45,3,205.35,Regular,66,Online,East,0.05
+ORD_000006,2023-11-17,Electronics,790.86,1,911.78,Regular,40,Store,Central,0.0
+ORD_000007,2023-09-18,Beauty,65.47,1,65.47,Regular,23,Store,Central,0.15
+ORD_000008,2024-05-31,Beauty,98.5,1,98.5,Regular,54,Online,South,0.0
+ORD_000009,2025-07-26,Electronics,125.42,1,125.42,Premium,23,Online,South,0.1
+ORD_000010,2023-11-16,Books,21.12,2,49.59,Regular,41,Online,South,0.0
+ORD_000011,2024-03-06,Beauty,51.04,2,102.08,Regular,59,Online,North,0.0
+ORD_000012,2025-04-19,Beauty,38.1,4,152.41,VIP,28,Mobile App,West,0.0
+ORD_000013,2024-08-27,Home & Garden,494.92,1,494.92,Regular,53,Store,South,0.0
+ORD_000014,2025-07-06,Home & Garden,423.78,1,423.78,Regular,32,Store,North,0.0
+ORD_000015,2024-06-23,Books,16.57,1,16.57,VIP,74,Online,East,0.2
+ORD_000016,2024-03-09,Beauty,82.4,2,164.79,Regular,59,Store,West,0.0
+ORD_000017,2023-12-29,Home & Garden,82.72,2,206.7,Regular,52,Mobile App,East,0.0
+ORD_000018,2024-10-16,Sports,128.09,3,384.28,VIP,50,Mobile App,West,0.05
+ORD_000019,2023-11-06,Electronics,1642.69,2,4005.81,VIP,68,Online,West,0.05
+ORD_000020,2024-09-02,Books,33.84,1,33.84,Regular,34,Online,Central,0.0
+ORD_000021,2023-08-16,Beauty,112.3,1,112.3,Regular,52,Mobile App,East,0.0
+ORD_000022,2025-05-22,Home & Garden,69.1,1,69.1,Regular,47,Store,North,0.0
+ORD_000023,2024-04-30,Sports,234.54,1,234.54,Premium,24,Online,East,0.0
+ORD_000024,2025-05-20,Sports,182.84,5,914.22,Premium,52,Online,Central,0.05
+ORD_000025,2023-08-05,Sports,102.73,1,111.55,Premium,74,Store,East,0.1
+ORD_000026,2024-04-07,Sports,242.6,2,485.2,Premium,70,Online,North,0.15
+ORD_000027,2025-01-31,Clothing,43.11,1,43.11,Regular,53,Mobile App,South,0.0
+ORD_000028,2024-05-02,Sports,264.92,2,529.84,Regular,31,Online,Central,0.0
+ORD_000029,2025-07-11,Clothing,148.33,1,165.49,Regular,60,Store,East,0.0
+ORD_000030,2025-01-15,Books,13.36,2,26.71,Premium,19,Store,Central,0.1
+ORD_000031,2025-02-22,Clothing,125.92,1,125.92,Premium,32,Store,North,0.0
+ORD_000032,2023-09-06,Home & Garden,41.96,2,83.92,Premium,31,Store,Central,0.15
+ORD_000033,2023-12-18,Beauty,141.29,2,355.19,Regular,48,Online,South,0.0
+ORD_000034,2024-09-24,Clothing,36.98,1,36.98,Regular,40,Store,West,0.0
+ORD_000035,2024-09-28,Books,44.55,1,44.55,Regular,21,Mobile App,West,0.0
+ORD_000036,2024-07-17,Electronics,454.65,1,454.65,Regular,26,Store,West,0.15
+ORD_000037,2024-02-08,Home & Garden,239.37,1,239.37,Regular,22,Online,West,0.0
+ORD_000038,2025-02-18,Electronics,148.65,1,148.65,VIP,71,Mobile App,North,0.0
+ORD_000039,2023-11-08,Clothing,49.94,2,127.88,Premium,31,Mobile App,West,0.0
+ORD_000040,2024-01-20,Books,10.09,1,10.09,Premium,68,Store,West,0.0
+ORD_000041,2024-05-23,Books,37.86,3,113.59,Premium,68,Online,Central,0.0
+ORD_000042,2025-06-12,Beauty,76.67,1,76.67,Regular,21,Online,Central,0.05
+ORD_000043,2025-02-10,Electronics,1206.84,3,3620.53,Premium,48,Online,Central,0.2
+ORD_000044,2025-01-29,Clothing,30.24,2,60.48,Regular,72,Online,South,0.0
+ORD_000045,2023-10-14,Sports,43.69,1,43.69,Regular,43,Mobile App,North,0.0
+ORD_000046,2025-03-10,Clothing,124.21,1,124.21,Regular,44,Store,Central,0.0
+ORD_000047,2025-03-05,Sports,100.8,1,100.8,VIP,33,Mobile App,East,0.1
+ORD_000048,2024-09-13,Clothing,126.81,1,126.81,Regular,66,Online,North,0.1
+ORD_000049,2023-08-14,Books,34.85,1,34.85,Regular,24,Store,North,0.0
+ORD_000050,2025-02-05,Clothing,99.95,2,199.91,Regular,74,Online,North,0.1
+ORD_000051,2024-04-11,Home & Garden,153.22,4,612.88,Regular,52,Online,East,0.0
+ORD_000052,2025-04-22,Beauty,86.41,1,86.41,VIP,53,Online,East,0.0
+ORD_000053,2025-06-14,Electronics,1880.91,2,3761.83,Premium,74,Online,North,0.0
+ORD_000054,2025-02-21,Clothing,69.02,2,138.05,Regular,63,Store,East,0.0
+ORD_000055,2024-02-29,Beauty,85.53,2,171.06,Regular,34,Online,North,0.15
+ORD_000056,2023-11-07,Beauty,72.18,3,265.8,Regular,39,Online,South,0.0
+ORD_000057,2024-04-29,Clothing,153.42,1,153.42,Regular,45,Store,Central,0.0
+ORD_000058,2023-08-14,Electronics,196.73,1,196.73,Regular,75,Online,South,0.0
+ORD_000059,2025-02-13,Electronics,1677.46,2,3354.92,Regular,27,Store,West,0.0
+ORD_000060,2023-12-13,Electronics,651.1,1,833.27,VIP,68,Online,North,0.0
+ORD_000061,2024-03-07,Beauty,38.95,1,38.95,Regular,74,Mobile App,West,0.2
+ORD_000062,2025-05-01,Beauty,35.86,3,107.59,Regular,73,Store,South,0.0
+ORD_000063,2024-02-02,Books,10.99,3,32.97,Regular,39,Store,West,0.0
+ORD_000064,2025-06-20,Beauty,124.45,1,124.45,Regular,42,Mobile App,North,0.0
+ORD_000065,2024-11-28,Clothing,55.92,4,282.77,Premium,40,Online,East,0.0
+ORD_000066,2024-03-25,Clothing,21.83,1,21.83,Premium,35,Mobile App,North,0.1
+ORD_000067,2024-05-16,Home & Garden,326.12,3,978.36,Premium,71,Store,Central,0.0
+ORD_000068,2024-07-09,Electronics,274.92,1,274.92,Regular,29,Mobile App,Central,0.0
+ORD_000069,2024-05-02,Electronics,261.38,2,522.77,Regular,64,Online,East,0.0
+ORD_000070,2024-10-24,Sports,236.53,2,473.06,Regular,30,Online,East,0.2
+ORD_000071,2023-09-19,Beauty,73.87,2,147.74,Premium,69,Store,Central,0.0
+ORD_000072,2025-07-08,Beauty,141.94,1,141.94,Premium,30,Online,East,0.0
+ORD_000073,2024-10-19,Electronics,1900.31,1,1900.31,Premium,57,Store,East,0.0
+ORD_000074,2025-06-14,Electronics,1453.52,3,4360.56,Premium,37,Store,West,0.0
+ORD_000075,2024-07-04,Books,37.89,1,37.89,Regular,30,Online,West,0.0
+ORD_000076,2025-06-15,Books,37.09,1,37.09,VIP,57,Online,Central,0.0
+ORD_000077,2024-06-08,Books,28.73,3,86.18,Premium,31,Store,West,0.1
+ORD_000078,2025-03-20,Sports,205.04,2,410.09,Regular,46,Store,South,0.0
+ORD_000079,2025-01-09,Books,41.75,1,41.75,Premium,65,Online,South,0.0
+ORD_000080,2025-06-09,Electronics,603.38,1,603.38,Premium,57,Online,East,0.0
+ORD_000081,2023-11-08,Clothing,134.05,4,594.77,VIP,27,Mobile App,North,0.05
+ORD_000082,2024-12-03,Sports,219.88,1,250.41,Regular,74,Mobile App,Central,0.15
+ORD_000083,2025-07-18,Books,29.78,1,29.78,VIP,75,Mobile App,North,0.0
+ORD_000084,2024-10-13,Clothing,51.66,3,154.98,Regular,51,Online,West,0.0
+ORD_000085,2023-09-25,Sports,93.53,3,280.59,Regular,47,Online,South,0.0
+ORD_000086,2024-11-22,Beauty,86.7,2,211.99,VIP,38,Store,West,0.0
+ORD_000087,2025-01-02,Books,43.22,2,86.45,Regular,75,Store,South,0.0
+ORD_000088,2024-12-03,Books,18.33,5,109.7,Regular,67,Store,Central,0.1
+ORD_000089,2024-04-05,Home & Garden,228.34,3,685.01,Premium,33,Store,East,0.0
+ORD_000090,2024-07-13,Home & Garden,425.71,2,851.42,Regular,32,Online,West,0.05
+ORD_000091,2025-07-15,Clothing,125.08,3,420.23,Premium,39,Mobile App,Central,0.15
+ORD_000092,2023-10-07,Clothing,169.92,4,679.68,Regular,67,Store,Central,0.0
+ORD_000093,2025-07-17,Electronics,1720.63,3,5161.88,Premium,42,Store,West,0.0
+ORD_000094,2023-08-11,Home & Garden,159.83,3,479.48,Premium,75,Online,West,0.0
+ORD_000095,2025-02-06,Beauty,114.18,1,114.18,Regular,75,Store,South,0.0
+ORD_000096,2024-12-16,Clothing,69.13,1,85.29,Regular,42,Store,East,0.0
+ORD_000097,2024-09-22,Beauty,37.28,1,37.28,Regular,26,Online,Central,0.0
+ORD_000098,2025-02-01,Electronics,1818.51,1,1818.51,Premium,60,Online,North,0.0
+ORD_000099,2023-10-29,Beauty,72.86,1,72.86,Regular,29,Store,North,0.0
+ORD_000100,2024-04-27,Books,23.09,1,23.09,Premium,39,Online,West,0.0
+ORD_000101,2024-05-15,Books,20.09,1,20.09,Regular,65,Store,Central,0.0
+ORD_000102,2023-09-27,Home & Garden,123.75,2,247.5,Premium,66,Mobile App,North,0.0
+ORD_000103,2024-04-14,Clothing,171.06,2,342.12,Regular,33,Store,South,0.0
+ORD_000104,2024-12-01,Beauty,30.44,1,38.16,Regular,47,Online,East,0.0
+ORD_000105,2024-01-23,Sports,191.99,1,191.99,VIP,25,Mobile App,South,0.0
+ORD_000106,2024-06-18,Electronics,1178.44,2,2356.87,Regular,54,Online,West,0.0
+ORD_000107,2024-09-14,Beauty,41.77,1,41.77,Regular,71,Store,South,0.0
+ORD_000108,2023-11-17,Beauty,119.28,2,300.42,Premium,56,Online,North,0.0
+ORD_000109,2025-03-06,Electronics,727.05,4,2908.19,Premium,41,Store,North,0.0
+ORD_000110,2025-01-04,Beauty,61.07,2,122.13,Regular,70,Online,West,0.0
+ORD_000111,2023-11-21,Books,48.43,1,60.13,Premium,71,Online,West,0.0
+ORD_000112,2024-10-23,Clothing,152.08,1,152.08,Regular,35,Online,Central,0.0
+ORD_000113,2025-02-06,Books,28.59,3,85.78,Premium,55,Store,East,0.0
+ORD_000114,2024-06-30,Clothing,144.1,1,163.62,Regular,33,Store,West,0.15
+ORD_000115,2025-06-19,Books,23.46,1,23.46,Regular,38,Online,South,0.0
+ORD_000116,2024-12-16,Clothing,75.48,2,187.23,Premium,74,Online,Central,0.1
+ORD_000117,2024-05-13,Sports,27.79,1,27.79,Premium,23,Store,South,0.0
+ORD_000118,2024-09-24,Books,27.38,3,82.13,Premium,59,Online,West,0.15
+ORD_000119,2024-11-05,Electronics,219.88,1,258.1,Premium,37,Online,Central,0.05
+ORD_000120,2025-02-21,Sports,119.53,2,239.07,VIP,53,Store,East,0.0
+ORD_000121,2024-07-30,Beauty,76.26,1,76.26,Premium,32,Store,North,0.0
+ORD_000122,2024-02-18,Home & Garden,72.98,2,145.97,VIP,66,Online,South,0.0
+ORD_000123,2024-02-17,Clothing,122.36,4,489.44,VIP,66,Online,Central,0.2
+ORD_000124,2025-04-07,Home & Garden,490.55,1,490.55,Regular,36,Online,South,0.0
+ORD_000125,2024-08-08,Clothing,74.41,1,78.64,Premium,26,Online,East,0.0
+ORD_000126,2023-09-29,Sports,105.34,1,105.34,Premium,58,Online,West,0.0
+ORD_000127,2023-11-18,Electronics,1169.43,3,3988.46,Regular,46,Online,East,0.0
+ORD_000128,2023-09-26,Home & Garden,471.42,2,942.83,Premium,70,Mobile App,North,0.0
+ORD_000129,2024-09-18,Books,12.96,2,25.93,Premium,21,Online,South,0.0
+ORD_000130,2024-01-04,Sports,271.71,1,271.71,Premium,25,Mobile App,Central,0.05
+ORD_000131,2024-10-04,Sports,188.93,5,944.67,Regular,67,Online,Central,0.0
+ORD_000132,2024-08-28,Books,37.07,3,111.22,Regular,45,Mobile App,East,0.2
+ORD_000133,2025-03-09,Sports,41.56,3,124.69,Regular,24,Store,South,0.0
+ORD_000134,2025-05-06,Clothing,64.25,3,192.76,Regular,29,Mobile App,Central,0.05
+ORD_000135,2023-10-20,Clothing,20.48,2,40.96,Premium,56,Online,West,0.0
+ORD_000136,2024-05-29,Electronics,501.38,3,1504.14,Regular,62,Online,West,0.0
+ORD_000137,2023-10-16,Beauty,37.21,4,148.84,Regular,60,Online,South,0.2
+ORD_000138,2024-10-13,Electronics,1111.9,4,4447.59,VIP,35,Store,South,0.0
+ORD_000139,2023-10-17,Electronics,373.55,2,747.1,Regular,65,Online,Central,0.0
+ORD_000140,2024-05-26,Books,14.97,1,14.97,Premium,62,Store,West,0.0
+ORD_000141,2024-05-09,Sports,173.49,3,520.48,Premium,56,Online,North,0.0
+ORD_000142,2024-10-20,Beauty,58.51,1,58.51,Regular,32,Store,Central,0.0
+ORD_000143,2025-03-28,Electronics,1999.17,1,1999.17,Premium,35,Online,Central,0.0
+ORD_000144,2023-09-15,Clothing,104.69,1,104.69,Regular,35,Store,South,0.0
+ORD_000145,2025-03-26,Books,35.39,2,70.78,Regular,23,Online,West,0.0
+ORD_000146,2024-07-26,Books,23.33,2,46.66,Regular,72,Mobile App,South,0.0
+ORD_000147,2024-07-07,Books,32.08,2,64.17,Regular,70,Online,Central,0.15
+ORD_000148,2023-09-11,Books,13.52,5,67.61,Regular,67,Online,West,0.0
+ORD_000149,2025-01-12,Electronics,1332.44,3,3997.31,VIP,44,Mobile App,North,0.0
+ORD_000150,2024-02-13,Sports,124.49,3,373.47,Regular,58,Online,West,0.0
+ORD_000151,2023-09-26,Clothing,61.26,3,183.79,Regular,46,Online,West,0.1
+ORD_000152,2023-12-07,Electronics,1947.64,4,9053.78,Regular,33,Store,South,0.0
+ORD_000153,2023-08-19,Sports,137.2,1,157.39,Regular,47,Online,North,0.0
+ORD_000154,2024-01-09,Books,42.58,1,42.58,Regular,44,Store,West,0.1
+ORD_000155,2024-11-30,Clothing,97.11,2,242.63,Regular,56,Mobile App,Central,0.05
+ORD_000156,2023-12-22,Electronics,588.68,1,757.55,Regular,44,Mobile App,East,0.0
+ORD_000157,2025-01-05,Home & Garden,371.67,1,371.67,VIP,71,Online,Central,0.1
+ORD_000158,2025-03-20,Beauty,64.88,4,259.52,Regular,48,Mobile App,East,0.2
+ORD_000159,2024-07-10,Sports,234.79,2,562.14,VIP,38,Online,South,0.0
+ORD_000160,2024-04-05,Sports,130.32,2,260.63,VIP,44,Store,North,0.0
+ORD_000161,2024-06-25,Beauty,78.85,2,157.7,Premium,42,Store,West,0.0
+ORD_000162,2025-06-14,Beauty,147.41,2,294.82,Regular,20,Mobile App,South,0.0
+ORD_000163,2024-12-31,Sports,98.85,1,126.74,Regular,24,Mobile App,Central,0.15
+ORD_000164,2023-08-20,Beauty,34.46,3,103.38,Regular,27,Store,North,0.0
+ORD_000165,2024-11-27,Home & Garden,179.2,1,227.65,Regular,59,Store,North,0.0
+ORD_000166,2025-06-25,Sports,129.5,1,152.92,Regular,63,Online,West,0.0
+ORD_000167,2023-09-10,Sports,43.82,5,219.08,VIP,36,Store,South,0.0
+ORD_000168,2023-11-05,Books,49.13,2,116.81,Regular,63,Mobile App,North,0.0
+ORD_000169,2025-07-15,Home & Garden,453.16,2,906.32,Regular,36,Mobile App,East,0.0
+ORD_000170,2024-08-22,Books,15.82,3,47.47,VIP,54,Store,South,0.0
+ORD_000171,2024-01-26,Clothing,34.21,2,68.43,Regular,57,Mobile App,South,0.0
+ORD_000172,2024-12-26,Sports,64.36,3,222.24,Regular,34,Online,West,0.0
+ORD_000173,2023-08-14,Books,46.05,1,46.05,Premium,28,Mobile App,North,0.0
+ORD_000174,2024-10-30,Home & Garden,419.91,1,419.91,Regular,62,Online,East,0.15
+ORD_000175,2024-11-14,Home & Garden,111.62,4,512.31,Premium,48,Mobile App,North,0.0
+ORD_000176,2025-03-12,Home & Garden,293.78,1,293.78,Regular,36,Online,North,0.0
+ORD_000177,2025-06-09,Books,20.98,1,20.98,Premium,61,Mobile App,North,0.0
+ORD_000178,2025-04-16,Beauty,82.06,5,410.29,VIP,36,Store,South,0.0
+ORD_000179,2025-04-17,Home & Garden,109.1,3,327.29,VIP,61,Mobile App,South,0.1
+ORD_000180,2025-05-09,Electronics,1811.64,1,1811.64,Regular,37,Online,West,0.0
+ORD_000181,2023-09-08,Sports,112.8,4,451.21,Premium,38,Online,West,0.1
+ORD_000182,2024-01-31,Clothing,43.79,2,87.58,Premium,41,Online,Central,0.0
+ORD_000183,2024-12-30,Home & Garden,355.11,1,443.65,Premium,69,Store,East,0.15
+ORD_000184,2024-07-16,Electronics,915.08,3,2745.25,Regular,73,Mobile App,West,0.05
+ORD_000185,2025-02-25,Home & Garden,58.8,2,117.59,Regular,34,Mobile App,Central,0.0
+ORD_000186,2023-12-09,Books,24.74,1,29.1,Regular,34,Online,Central,0.0
+ORD_000187,2025-05-19,Home & Garden,67.55,3,202.64,Premium,57,Store,Central,0.0
+ORD_000188,2024-07-05,Sports,72.99,1,83.75,Regular,62,Online,East,0.15
+ORD_000189,2023-12-02,Clothing,23.94,1,27.46,Regular,25,Online,North,0.15
+ORD_000190,2025-02-05,Clothing,89.96,1,89.96,VIP,65,Online,Central,0.0
+ORD_000191,2024-10-07,Sports,194.76,2,389.51,Premium,59,Online,North,0.15
+ORD_000192,2024-12-18,Sports,137.23,2,313.84,Premium,20,Mobile App,East,0.0
+ORD_000193,2024-11-02,Clothing,156.58,1,174.14,VIP,52,Store,East,0.1
+ORD_000194,2024-05-13,Clothing,194.28,1,194.28,Regular,70,Mobile App,West,0.0
+ORD_000195,2023-11-06,Beauty,43.63,1,54.86,Regular,19,Store,North,0.0
+ORD_000196,2024-04-10,Clothing,129.32,1,129.32,Regular,31,Online,Central,0.2
+ORD_000197,2024-03-13,Clothing,63.31,1,63.31,Regular,18,Online,East,0.2
+ORD_000198,2023-12-31,Clothing,117.24,2,264.11,Regular,25,Online,North,0.0
+ORD_000199,2024-08-05,Clothing,113.39,3,395.04,Regular,21,Store,South,0.1
+ORD_000200,2025-01-24,Electronics,1504.05,1,1504.05,Regular,67,Online,East,0.0
+ORD_000201,2025-01-11,Sports,54.99,1,54.99,Regular,57,Online,North,0.0
+ORD_000202,2025-06-09,Sports,107.95,1,129.52,Regular,19,Store,North,0.0
+ORD_000203,2024-09-19,Books,37.44,1,37.44,Regular,46,Store,North,0.0
+ORD_000204,2023-10-26,Home & Garden,279.02,2,558.04,Regular,57,Store,Central,0.1
+ORD_000205,2025-02-16,Beauty,58.9,2,117.8,Regular,51,Mobile App,East,0.0
+ORD_000206,2024-11-11,Sports,191.49,4,952.99,Regular,72,Online,Central,0.0
+ORD_000207,2024-03-12,Books,25.26,3,75.77,Premium,70,Online,West,0.1
+ORD_000208,2024-09-16,Books,39.18,1,39.18,Regular,38,Store,East,0.0
+ORD_000209,2024-08-22,Clothing,143.63,2,305.64,Regular,23,Store,North,0.0
+ORD_000210,2023-11-11,Beauty,114.74,2,279.34,Regular,53,Online,North,0.0
+ORD_000211,2025-03-02,Sports,104.09,2,208.17,Premium,73,Store,West,0.1
+ORD_000212,2023-09-26,Home & Garden,306.2,2,612.4,Regular,54,Online,Central,0.0
+ORD_000213,2024-03-09,Clothing,138.21,2,276.43,Regular,40,Online,Central,0.0
+ORD_000214,2024-08-15,Electronics,1537.08,1,1537.08,Regular,69,Online,West,0.0
+ORD_000215,2025-03-01,Sports,193.73,1,193.73,Regular,19,Online,Central,0.0
+ORD_000216,2025-06-08,Beauty,45.99,3,137.98,Regular,39,Store,East,0.1
+ORD_000217,2023-08-11,Clothing,176.58,3,567.49,Regular,43,Online,North,0.0
+ORD_000218,2025-05-14,Electronics,228.93,2,457.85,Regular,42,Store,West,0.0
+ORD_000219,2024-11-11,Home & Garden,91.34,1,111.37,Regular,38,Online,Central,0.0
+ORD_000220,2023-09-27,Clothing,48.33,1,48.33,Premium,61,Store,North,0.0
+ORD_000221,2024-05-09,Books,36.48,1,36.48,VIP,46,Store,West,0.0
+ORD_000222,2024-05-10,Clothing,132.51,1,132.51,Regular,25,Online,East,0.15
+ORD_000223,2025-06-29,Beauty,95.07,1,95.07,Regular,37,Online,North,0.0
+ORD_000224,2024-03-17,Books,46.91,1,46.91,Regular,37,Mobile App,South,0.05
+ORD_000225,2023-12-23,Home & Garden,132.07,1,149.92,Regular,65,Online,West,0.15
+ORD_000226,2024-08-28,Sports,218.51,5,1158.99,Regular,71,Online,East,0.0
+ORD_000227,2023-09-17,Books,10.75,4,43.0,Premium,73,Mobile App,East,0.0
+ORD_000228,2025-03-16,Books,32.94,1,32.94,Regular,44,Store,East,0.0
+ORD_000229,2023-11-30,Books,10.83,4,51.66,Regular,69,Store,Central,0.0
+ORD_000230,2025-07-11,Home & Garden,57.74,1,57.74,Premium,33,Online,West,0.0
+ORD_000231,2025-03-30,Books,30.96,1,30.96,Regular,37,Store,East,0.0
+ORD_000232,2024-03-18,Home & Garden,392.87,1,392.87,Regular,51,Store,Central,0.0
+ORD_000233,2024-02-19,Home & Garden,185.28,1,185.28,Regular,59,Online,South,0.0
+ORD_000234,2024-04-02,Electronics,268.45,1,268.45,Regular,27,Online,North,0.2
+ORD_000235,2024-02-02,Beauty,81.71,1,81.71,Regular,66,Online,Central,0.0
+ORD_000236,2024-11-06,Beauty,139.76,5,813.86,Regular,58,Mobile App,Central,0.0
+ORD_000237,2025-05-08,Home & Garden,74.98,1,74.98,Premium,58,Store,East,0.15
+ORD_000238,2024-05-12,Sports,40.45,2,80.89,Regular,37,Online,West,0.0
+ORD_000239,2024-11-09,Electronics,160.94,1,196.82,VIP,22,Mobile App,North,0.0
+ORD_000240,2025-01-05,Books,28.51,4,114.03,Regular,68,Store,North,0.0
+ORD_000241,2024-11-07,Sports,204.26,4,923.37,Regular,48,Online,Central,0.0
+ORD_000242,2023-10-07,Books,14.14,2,28.28,Regular,39,Mobile App,North,0.0
+ORD_000243,2025-01-02,Beauty,32.55,1,32.55,Premium,46,Online,Central,0.15
+ORD_000244,2025-01-21,Sports,68.66,1,68.66,Regular,36,Mobile App,West,0.0
+ORD_000245,2024-09-26,Home & Garden,309.84,2,619.68,Regular,22,Online,East,0.1
+ORD_000246,2023-11-09,Sports,169.24,3,592.36,Regular,73,Mobile App,South,0.2
+ORD_000247,2025-03-23,Beauty,34.09,1,34.09,Regular,59,Store,West,0.0
+ORD_000248,2023-12-15,Sports,175.94,1,222.15,Premium,42,Store,East,0.2
+ORD_000249,2025-06-21,Beauty,126.91,1,126.91,Premium,61,Online,Central,0.0
+ORD_000250,2023-11-08,Beauty,105.51,2,245.16,VIP,19,Store,East,0.0
+ORD_000251,2024-03-11,Home & Garden,474.62,1,474.62,VIP,32,Store,South,0.0
+ORD_000252,2024-01-10,Electronics,626.79,1,626.79,Regular,50,Store,Central,0.0
+ORD_000253,2025-01-25,Electronics,1340.76,2,2681.52,Regular,57,Mobile App,South,0.0
+ORD_000254,2025-04-07,Books,12.94,3,38.81,Regular,69,Online,South,0.2
+ORD_000255,2024-10-26,Electronics,851.17,1,851.17,Premium,33,Online,West,0.0
+ORD_000256,2025-04-21,Home & Garden,379.91,2,759.82,Premium,32,Mobile App,Central,0.0
+ORD_000257,2024-04-05,Home & Garden,483.31,1,483.31,Premium,75,Online,South,0.0
+ORD_000258,2024-08-15,Beauty,142.86,3,428.59,Regular,47,Online,East,0.0
+ORD_000259,2024-08-30,Sports,170.05,3,596.98,Regular,70,Online,South,0.0
+ORD_000260,2023-12-24,Home & Garden,40.31,2,103.74,Premium,41,Store,Central,0.0
+ORD_000261,2025-08-02,Sports,246.12,2,583.69,Regular,35,Online,West,0.05
+ORD_000262,2024-01-02,Books,13.67,1,13.67,Regular,70,Mobile App,West,0.0
+ORD_000263,2024-07-27,Electronics,859.05,2,1718.1,Regular,41,Store,South,0.0
+ORD_000264,2024-09-03,Electronics,781.08,4,3124.32,Regular,71,Store,East,0.0
+ORD_000265,2024-01-01,Clothing,26.89,2,53.79,Premium,48,Online,South,0.0
+ORD_000266,2025-07-27,Books,27.94,3,83.83,VIP,19,Store,East,0.0
+ORD_000267,2024-03-12,Clothing,118.78,2,237.57,VIP,51,Store,West,0.0
+ORD_000268,2023-11-26,Home & Garden,123.74,1,147.43,Regular,44,Store,Central,0.05
+ORD_000269,2023-11-26,Books,27.1,1,33.7,Premium,54,Mobile App,South,0.2
+ORD_000270,2024-05-29,Books,10.06,4,40.25,Regular,54,Online,West,0.0
+ORD_000271,2024-02-12,Beauty,105.21,5,526.05,Premium,41,Online,North,0.0
+ORD_000272,2025-01-24,Sports,164.52,4,658.06,Premium,53,Store,North,0.0
+ORD_000273,2024-09-07,Books,11.74,2,23.48,Regular,41,Online,East,0.0
+ORD_000274,2023-08-21,Home & Garden,397.43,1,397.43,Premium,64,Online,North,0.0
+ORD_000275,2025-03-22,Beauty,105.44,1,105.44,Regular,52,Store,East,0.1
+ORD_000276,2025-05-24,Clothing,169.47,4,677.88,Regular,62,Online,West,0.0
+ORD_000277,2025-05-12,Clothing,141.16,2,282.32,Regular,20,Online,East,0.15
+ORD_000278,2024-02-27,Electronics,1592.66,1,1592.66,Regular,38,Online,East,0.0
+ORD_000279,2025-01-13,Books,49.56,1,49.56,Regular,34,Mobile App,North,0.0
+ORD_000280,2025-05-28,Clothing,71.5,1,71.5,Regular,21,Store,East,0.0
+ORD_000281,2024-05-10,Electronics,1608.72,1,1608.72,Premium,43,Online,West,0.0
+ORD_000282,2024-09-03,Home & Garden,487.26,4,1949.02,Regular,49,Online,East,0.0
+ORD_000283,2025-01-17,Home & Garden,403.56,1,403.56,VIP,23,Store,West,0.0
+ORD_000284,2025-04-12,Clothing,118.19,2,236.37,Regular,23,Store,East,0.0
+ORD_000285,2025-06-11,Home & Garden,163.65,1,163.65,Premium,45,Online,South,0.0
+ORD_000286,2025-07-11,Books,21.66,1,21.66,Regular,57,Store,West,0.1
+ORD_000287,2024-05-12,Beauty,147.3,2,294.61,Regular,22,Store,West,0.0
+ORD_000288,2024-08-11,Sports,245.3,1,288.79,Regular,19,Online,South,0.0
+ORD_000289,2025-06-29,Books,10.25,1,10.25,Regular,41,Online,West,0.1
+ORD_000290,2025-03-07,Electronics,1229.93,1,1229.93,Premium,41,Mobile App,East,0.0
+ORD_000291,2024-11-01,Electronics,1169.15,1,1437.95,Regular,43,Store,East,0.0
+ORD_000292,2024-04-16,Electronics,80.42,1,80.42,Regular,42,Online,Central,0.2
+ORD_000293,2023-12-03,Home & Garden,390.86,2,904.54,Premium,31,Online,Central,0.0
+ORD_000294,2024-12-19,Clothing,42.07,1,53.84,Regular,46,Store,South,0.0
+ORD_000295,2024-11-02,Electronics,1630.5,1,2024.93,Regular,38,Store,East,0.0
+ORD_000296,2025-02-18,Sports,99.61,1,99.61,Premium,63,Online,South,0.05
+ORD_000297,2024-08-09,Sports,86.67,1,94.08,Regular,68,Store,South,0.0
+ORD_000298,2024-12-22,Electronics,753.75,3,2546.06,Premium,47,Online,Central,0.0
+ORD_000299,2023-11-01,Electronics,653.12,2,1574.19,Regular,64,Online,West,0.0
+ORD_000300,2024-09-27,Sports,45.28,3,135.84,Regular,59,Online,North,0.0
+ORD_000301,2024-11-07,Books,37.2,1,45.69,Regular,74,Online,Central,0.0
+ORD_000302,2024-02-07,Clothing,97.87,2,195.74,Regular,21,Mobile App,North,0.0
+ORD_000303,2025-01-16,Clothing,71.01,3,213.02,Regular,40,Online,Central,0.05
+ORD_000304,2024-05-21,Electronics,538.68,1,538.68,Regular,53,Online,East,0.0
+ORD_000305,2023-12-11,Beauty,55.88,2,136.17,Regular,50,Store,South,0.0
+ORD_000306,2025-03-21,Clothing,50.82,1,50.82,Regular,75,Mobile App,Central,0.0
+ORD_000307,2024-07-15,Sports,36.33,3,129.94,Regular,23,Mobile App,North,0.0
+ORD_000308,2025-03-17,Home & Garden,330.8,1,330.8,Premium,44,Store,Central,0.0
+ORD_000309,2025-05-20,Electronics,1021.17,1,1021.17,Regular,36,Online,East,0.0
+ORD_000310,2024-12-11,Clothing,164.84,2,367.47,Premium,37,Online,West,0.0
+ORD_000311,2023-10-05,Clothing,99.13,1,99.13,Premium,31,Mobile App,East,0.0
+ORD_000312,2025-04-17,Clothing,76.26,2,152.53,Regular,64,Online,East,0.0
+ORD_000313,2024-09-16,Clothing,156.92,1,156.92,VIP,24,Online,East,0.0
+ORD_000314,2024-04-08,Books,14.9,2,29.8,Regular,27,Store,North,0.0
+ORD_000315,2023-09-25,Home & Garden,473.51,2,947.02,Premium,44,Online,South,0.0
+ORD_000316,2024-01-15,Home & Garden,467.87,1,467.87,Regular,30,Mobile App,South,0.0
+ORD_000317,2024-12-27,Sports,153.37,3,514.42,Regular,49,Store,North,0.0
+ORD_000318,2024-09-10,Sports,120.59,2,241.18,Regular,40,Mobile App,North,0.2
+ORD_000319,2023-09-25,Home & Garden,255.02,1,255.02,Regular,59,Store,West,0.0
+ORD_000320,2024-05-23,Sports,25.89,1,25.89,Regular,74,Store,East,0.05
+ORD_000321,2024-08-13,Books,24.64,1,24.64,Premium,54,Online,Central,0.0
+ORD_000322,2024-02-20,Home & Garden,226.65,1,226.65,Regular,46,Online,Central,0.2
+ORD_000323,2024-05-17,Sports,212.11,2,424.22,Regular,43,Store,East,0.0
+ORD_000324,2024-07-17,Sports,283.21,1,319.0,Premium,30,Mobile App,Central,0.0
+ORD_000325,2024-12-29,Electronics,124.51,2,299.78,Regular,69,Online,West,0.1
+ORD_000326,2024-01-04,Sports,216.49,1,216.49,Regular,38,Online,South,0.2
+ORD_000327,2024-09-10,Sports,205.48,1,205.48,Regular,50,Online,Central,0.1
+ORD_000328,2025-01-31,Books,38.35,3,115.05,Regular,41,Online,East,0.0
+ORD_000329,2025-06-24,Electronics,1960.8,2,3921.6,Regular,68,Store,North,0.0
+ORD_000330,2025-04-07,Books,20.62,1,20.62,Regular,67,Mobile App,Central,0.0
+ORD_000331,2025-03-18,Clothing,149.85,3,449.56,Premium,28,Online,Central,0.0
+ORD_000332,2025-05-10,Beauty,98.66,2,197.33,Regular,27,Online,South,0.0
+ORD_000333,2023-09-06,Sports,285.76,4,1143.03,Regular,46,Mobile App,East,0.0
+ORD_000334,2024-10-06,Clothing,75.47,1,75.47,Regular,67,Store,Central,0.2
+ORD_000335,2024-11-29,Beauty,113.2,3,411.65,Premium,51,Mobile App,South,0.0
+ORD_000336,2025-06-13,Books,31.02,2,62.04,Premium,29,Mobile App,West,0.0
+ORD_000337,2025-01-31,Home & Garden,279.94,1,279.94,Regular,73,Online,East,0.0
+ORD_000338,2025-04-20,Books,14.15,5,70.76,VIP,37,Online,South,0.2
+ORD_000339,2024-06-04,Home & Garden,356.88,2,713.75,VIP,49,Online,East,0.0
+ORD_000340,2024-12-08,Home & Garden,286.84,2,664.06,VIP,64,Online,East,0.0
+ORD_000341,2025-03-14,Beauty,88.33,2,176.66,Regular,43,Mobile App,East,0.0
+ORD_000342,2024-01-01,Home & Garden,35.4,5,177.01,VIP,23,Store,East,0.0
+ORD_000343,2024-10-30,Beauty,49.62,3,148.86,Premium,30,Online,Central,0.0
+ORD_000344,2024-05-08,Sports,173.16,3,519.47,Regular,65,Store,Central,0.2
+ORD_000345,2024-04-06,Clothing,29.14,1,29.14,Regular,32,Online,South,0.0
+ORD_000346,2023-09-27,Electronics,855.94,2,1711.88,Regular,24,Store,South,0.0
+ORD_000347,2023-08-10,Sports,249.84,1,290.66,Regular,48,Store,South,0.15
+ORD_000348,2024-05-25,Home & Garden,153.43,3,460.28,Regular,59,Store,Central,0.0
+ORD_000349,2024-03-29,Sports,228.14,3,684.42,Premium,20,Online,South,0.0
+ORD_000350,2024-10-05,Clothing,159.89,1,159.89,Premium,68,Online,West,0.15
+ORD_000351,2024-02-11,Beauty,144.89,3,434.66,Regular,74,Mobile App,North,0.0
+ORD_000352,2023-08-14,Home & Garden,261.42,3,784.25,VIP,36,Online,West,0.1
+ORD_000353,2025-05-22,Sports,169.19,3,507.56,Regular,26,Store,Central,0.0
+ORD_000354,2024-11-26,Home & Garden,103.09,2,253.53,Premium,64,Mobile App,West,0.05
+ORD_000355,2024-02-11,Electronics,1486.4,3,4459.21,Regular,54,Online,South,0.0
+ORD_000356,2024-01-31,Sports,260.44,2,520.88,Regular,70,Online,West,0.0
+ORD_000357,2025-01-13,Home & Garden,57.07,1,57.07,Regular,29,Online,South,0.0
+ORD_000358,2024-12-05,Home & Garden,398.54,1,498.48,Regular,33,Online,West,0.15
+ORD_000359,2024-07-07,Home & Garden,297.49,5,1487.47,Regular,34,Online,East,0.0
+ORD_000360,2025-07-14,Clothing,28.06,2,64.71,Regular,28,Mobile App,West,0.1
+ORD_000361,2025-07-25,Home & Garden,349.79,3,1049.37,Regular,36,Online,East,0.0
+ORD_000362,2025-04-25,Clothing,56.47,3,169.41,VIP,47,Store,Central,0.05
+ORD_000363,2024-08-21,Books,38.08,2,76.16,Regular,66,Mobile App,Central,0.0
+ORD_000364,2025-06-15,Clothing,157.13,1,177.38,VIP,56,Store,North,0.0
+ORD_000365,2025-01-26,Beauty,63.84,2,127.68,Regular,25,Online,North,0.0
+ORD_000366,2025-02-15,Sports,80.59,1,80.59,Regular,28,Online,East,0.0
+ORD_000367,2025-01-18,Books,11.72,3,35.16,Regular,49,Online,North,0.2
+ORD_000368,2025-01-08,Books,42.35,4,169.39,Premium,50,Mobile App,West,0.0
+ORD_000369,2024-11-14,Sports,40.88,5,254.39,Regular,69,Online,East,0.0
+ORD_000370,2024-09-13,Home & Garden,410.98,3,1232.94,Premium,55,Online,North,0.0
+ORD_000371,2023-09-20,Books,23.78,3,71.34,Regular,75,Online,North,0.0
+ORD_000372,2024-11-30,Electronics,579.34,2,1361.31,Regular,67,Store,West,0.05
+ORD_000373,2024-08-30,Books,44.78,1,44.78,Premium,42,Online,North,0.0
+ORD_000374,2025-07-04,Beauty,119.76,1,119.76,Premium,25,Mobile App,South,0.1
+ORD_000375,2025-02-05,Books,31.15,3,93.46,Premium,32,Store,North,0.0
+ORD_000376,2023-08-28,Home & Garden,239.56,2,479.11,Regular,45,Online,Central,0.0
+ORD_000377,2024-08-27,Clothing,64.55,1,76.86,Regular,35,Store,South,0.0
+ORD_000378,2023-11-28,Electronics,1628.48,1,1869.71,Regular,67,Online,North,0.0
+ORD_000379,2023-10-12,Electronics,1208.19,2,2416.38,Regular,61,Mobile App,North,0.0
+ORD_000380,2024-04-11,Beauty,20.97,1,20.97,Regular,52,Store,South,0.0
+ORD_000381,2023-10-01,Clothing,88.56,3,265.68,Regular,38,Store,Central,0.2
+ORD_000382,2025-04-08,Beauty,119.21,2,238.42,Regular,60,Mobile App,Central,0.05
+ORD_000383,2024-03-18,Books,17.62,3,52.85,Premium,74,Mobile App,South,0.2
+ORD_000384,2025-05-07,Beauty,72.67,3,218.02,Premium,40,Mobile App,West,0.0
+ORD_000385,2025-01-23,Home & Garden,352.71,2,705.42,Premium,37,Store,West,0.0
+ORD_000386,2024-02-09,Sports,155.22,3,465.65,Regular,37,Mobile App,South,0.0
+ORD_000387,2024-11-21,Electronics,1146.65,3,3876.21,Regular,53,Mobile App,Central,0.0
+ORD_000388,2024-04-09,Home & Garden,113.62,1,113.62,Regular,46,Store,East,0.0
+ORD_000389,2023-11-07,Sports,201.83,1,246.36,Premium,42,Mobile App,Central,0.1
+ORD_000390,2023-10-18,Clothing,164.84,2,329.67,Regular,60,Online,Central,0.0
+ORD_000391,2024-03-14,Books,18.36,2,36.71,VIP,37,Store,North,0.0
+ORD_000392,2024-03-08,Clothing,164.2,1,164.2,Premium,33,Store,Central,0.15
+ORD_000393,2025-07-25,Clothing,82.25,3,273.19,Regular,67,Store,East,0.1
+ORD_000394,2025-02-01,Beauty,50.8,2,101.6,VIP,74,Online,West,0.2
+ORD_000395,2024-11-24,Electronics,1615.49,2,4144.92,VIP,66,Online,East,0.0
+ORD_000396,2024-08-18,Home & Garden,215.76,4,863.02,Premium,32,Online,South,0.0
+ORD_000397,2023-08-21,Home & Garden,283.36,1,283.36,Premium,64,Online,West,0.0
+ORD_000398,2024-06-02,Clothing,44.25,2,99.56,Regular,71,Store,South,0.2
+ORD_000399,2025-06-05,Beauty,60.57,1,60.57,Premium,49,Mobile App,West,0.0
+ORD_000400,2024-11-18,Clothing,151.9,4,727.7,Premium,26,Online,Central,0.0
+ORD_000401,2025-02-10,Beauty,144.23,3,432.68,Regular,71,Online,North,0.0
+ORD_000402,2025-06-19,Electronics,1540.46,1,1540.46,Regular,71,Store,South,0.0
+ORD_000403,2023-10-13,Beauty,30.08,2,60.16,Regular,41,Online,North,0.15
+ORD_000404,2025-04-28,Beauty,105.01,5,525.06,Regular,48,Store,West,0.0
+ORD_000405,2023-08-21,Electronics,1087.81,1,1087.81,Premium,19,Store,Central,0.0
+ORD_000406,2024-05-12,Sports,249.74,1,249.74,Regular,69,Store,South,0.15
+ORD_000407,2023-11-22,Electronics,858.04,2,2167.49,Regular,51,Mobile App,East,0.2
+ORD_000408,2024-05-04,Books,13.16,1,13.16,Regular,47,Mobile App,Central,0.0
+ORD_000409,2024-04-10,Beauty,45.49,1,45.49,Premium,72,Online,North,0.0
+ORD_000410,2025-06-04,Beauty,99.91,1,99.91,VIP,42,Online,Central,0.15
+ORD_000411,2024-12-04,Electronics,1291.66,3,4917.6,Regular,23,Online,West,0.0
+ORD_000412,2025-05-26,Home & Garden,289.44,1,289.44,Premium,24,Online,Central,0.0
+ORD_000413,2023-09-17,Clothing,58.06,3,174.17,Regular,74,Mobile App,Central,0.0
+ORD_000414,2024-12-03,Home & Garden,33.82,1,41.02,Premium,75,Store,Central,0.1
+ORD_000415,2023-09-07,Clothing,187.18,3,561.53,Premium,31,Store,Central,0.0
+ORD_000416,2023-12-30,Beauty,125.82,2,305.19,Regular,37,Online,South,0.0
+ORD_000417,2025-03-07,Books,37.08,4,148.33,Premium,42,Store,South,0.0
+ORD_000418,2025-07-10,Beauty,25.59,1,25.59,Regular,40,Online,North,0.0
+ORD_000419,2023-11-13,Books,15.43,2,39.84,Regular,67,Online,Central,0.2
+ORD_000420,2024-09-14,Home & Garden,24.96,1,24.96,Regular,49,Store,South,0.15
+ORD_000421,2024-08-03,Sports,283.81,1,326.13,Premium,61,Online,Central,0.0
+ORD_000422,2023-10-31,Sports,106.23,1,106.23,Regular,23,Online,East,0.0
+ORD_000423,2024-01-09,Books,38.47,1,38.47,Regular,65,Store,West,0.0
+ORD_000424,2024-06-24,Home & Garden,60.01,1,60.01,Premium,46,Mobile App,East,0.1
+ORD_000425,2024-05-07,Electronics,262.13,3,786.39,Regular,53,Store,Central,0.15
+ORD_000426,2025-01-10,Books,11.31,1,11.31,Regular,23,Mobile App,Central,0.2
+ORD_000427,2025-04-08,Home & Garden,368.82,1,368.82,Regular,42,Store,North,0.15
+ORD_000428,2025-02-27,Clothing,104.51,2,209.02,Regular,28,Online,South,0.15
+ORD_000429,2024-05-06,Home & Garden,137.92,1,137.92,Regular,45,Online,East,0.05
+ORD_000430,2024-10-09,Home & Garden,224.87,1,224.87,Regular,33,Online,West,0.1
+ORD_000431,2025-04-04,Sports,70.9,1,70.9,Regular,18,Store,West,0.1
+ORD_000432,2024-07-10,Sports,129.47,2,288.61,Premium,46,Online,East,0.0
+ORD_000433,2025-06-01,Sports,62.43,1,70.04,Regular,62,Store,South,0.0
+ORD_000434,2024-02-02,Books,41.44,2,82.87,Regular,54,Mobile App,South,0.15
+ORD_000435,2024-07-03,Books,21.21,1,21.21,Regular,41,Store,North,0.0
+ORD_000436,2025-03-04,Clothing,126.6,3,379.8,Premium,61,Mobile App,Central,0.0
+ORD_000437,2023-09-01,Beauty,77.32,1,77.32,Premium,46,Online,East,0.0
+ORD_000438,2025-07-14,Electronics,1646.98,3,4940.95,Regular,44,Mobile App,West,0.0
+ORD_000439,2023-12-25,Beauty,53.09,1,66.78,Premium,63,Store,West,0.05
+ORD_000440,2023-10-19,Books,49.63,2,99.26,Regular,43,Online,Central,0.0
+ORD_000441,2025-01-04,Beauty,64.32,1,64.32,Regular,62,Mobile App,Central,0.1
+ORD_000442,2025-04-04,Beauty,131.52,1,131.52,VIP,60,Online,East,0.05
+ORD_000443,2024-01-22,Beauty,97.71,1,97.71,Premium,59,Store,West,0.0
+ORD_000444,2024-07-09,Books,13.53,1,13.53,Regular,50,Store,Central,0.05
+ORD_000445,2025-02-26,Sports,192.7,1,192.7,VIP,43,Mobile App,West,0.1
+ORD_000446,2025-06-30,Sports,214.87,2,470.27,Regular,48,Store,North,0.0
+ORD_000447,2023-10-31,Electronics,1671.07,1,1671.07,Regular,40,Online,East,0.0
+ORD_000448,2024-07-21,Books,41.37,1,41.37,Premium,40,Store,West,0.0
+ORD_000449,2023-11-12,Books,38.88,2,86.23,Regular,22,Online,East,0.0
+ORD_000450,2025-08-01,Electronics,94.04,1,94.04,VIP,24,Online,South,0.0
+ORD_000451,2024-04-10,Sports,58.38,3,175.14,Regular,45,Online,West,0.2
+ORD_000452,2024-03-29,Books,29.91,2,59.82,Regular,43,Mobile App,North,0.15
+ORD_000453,2025-04-24,Clothing,100.92,4,403.69,Regular,18,Online,South,0.0
+ORD_000454,2024-03-02,Home & Garden,379.88,2,759.76,VIP,22,Online,Central,0.0
+ORD_000455,2023-11-17,Sports,76.41,2,176.13,Premium,47,Store,North,0.0
+ORD_000456,2024-12-18,Sports,290.63,1,342.51,Premium,42,Mobile App,Central,0.0
+ORD_000457,2023-11-29,Home & Garden,185.71,1,238.41,Regular,29,Mobile App,East,0.0
+ORD_000458,2025-03-31,Electronics,1360.61,1,1360.61,Premium,33,Store,East,0.0
+ORD_000459,2023-12-02,Clothing,74.12,1,83.57,Premium,44,Online,Central,0.15
+ORD_000460,2024-08-31,Books,17.43,2,34.86,Regular,62,Store,South,0.0
+ORD_000461,2025-02-23,Clothing,97.32,1,97.32,Regular,71,Mobile App,West,0.1
+ORD_000462,2025-04-30,Electronics,1737.77,1,1737.77,Premium,49,Online,South,0.0
+ORD_000463,2024-02-20,Books,48.55,3,145.66,Regular,49,Mobile App,West,0.0
+ORD_000464,2025-07-06,Books,26.63,1,26.63,Regular,49,Online,South,0.0
+ORD_000465,2023-10-28,Sports,33.49,1,33.49,Regular,36,Online,North,0.0
+ORD_000466,2024-05-12,Clothing,99.25,3,297.76,Regular,54,Online,West,0.15
+ORD_000467,2025-02-17,Sports,44.91,2,89.81,Premium,70,Online,East,0.2
+ORD_000468,2025-02-10,Electronics,1532.01,1,1532.01,Regular,31,Store,West,0.0
+ORD_000469,2023-11-17,Beauty,127.06,2,302.39,Regular,37,Mobile App,North,0.0
+ORD_000470,2024-07-26,Electronics,906.19,3,2718.56,Regular,67,Mobile App,South,0.0
+ORD_000471,2024-03-06,Beauty,94.37,1,94.37,Regular,63,Online,Central,0.0
+ORD_000472,2025-05-13,Books,15.81,1,15.81,Regular,70,Mobile App,South,0.05
+ORD_000473,2023-10-04,Sports,97.18,1,97.18,Regular,28,Store,East,0.2
+ORD_000474,2025-07-25,Home & Garden,124.26,4,497.05,Regular,75,Store,North,0.2
+ORD_000475,2023-12-21,Books,46.75,1,57.98,Regular,73,Mobile App,South,0.0
+ORD_000476,2023-12-18,Clothing,46.32,4,221.96,Regular,33,Mobile App,West,0.0
+ORD_000477,2025-03-18,Beauty,51.28,2,102.55,Premium,46,Store,North,0.0
+ORD_000478,2025-05-14,Electronics,835.56,2,1671.12,Regular,62,Store,East,0.0
+ORD_000479,2024-11-12,Books,23.09,1,28.33,Regular,64,Online,West,0.0
+ORD_000480,2025-07-19,Home & Garden,427.3,2,854.6,Regular,43,Store,South,0.0
+ORD_000481,2024-10-17,Clothing,109.05,4,436.19,Regular,36,Store,East,0.0
+ORD_000482,2025-02-15,Sports,60.91,1,60.91,Premium,68,Online,East,0.0
+ORD_000483,2025-07-03,Electronics,139.59,2,279.18,Premium,71,Mobile App,West,0.0
+ORD_000484,2023-08-21,Electronics,1583.03,2,3166.07,Regular,18,Store,West,0.15
+ORD_000485,2024-02-28,Beauty,137.77,3,413.31,Regular,37,Online,South,0.0
+ORD_000486,2024-05-11,Electronics,1193.8,4,4775.21,Premium,60,Store,South,0.1
+ORD_000487,2023-09-27,Books,35.02,1,35.02,Premium,66,Online,South,0.0
+ORD_000488,2024-10-17,Beauty,25.95,2,51.89,Regular,48,Store,North,0.05
+ORD_000489,2023-12-18,Sports,87.2,5,540.27,Regular,18,Mobile App,North,0.0
+ORD_000490,2023-12-06,Books,37.76,1,42.21,Premium,32,Store,West,0.0
+ORD_000491,2023-11-17,Electronics,661.04,2,1658.79,Premium,26,Mobile App,West,0.0
+ORD_000492,2023-12-19,Beauty,119.24,1,145.72,Regular,54,Store,North,0.2
+ORD_000493,2024-01-20,Books,22.85,3,68.54,Premium,44,Store,Central,0.05
+ORD_000494,2025-07-08,Books,44.4,1,44.4,Premium,26,Online,North,0.0
+ORD_000495,2025-03-30,Beauty,66.84,2,133.69,Regular,38,Online,South,0.0
+ORD_000496,2024-04-14,Home & Garden,262.11,1,262.11,Regular,56,Store,Central,0.2
+ORD_000497,2024-05-22,Beauty,18.62,1,18.62,Regular,74,Online,East,0.0
+ORD_000498,2024-03-02,Sports,163.12,1,163.12,Regular,36,Online,North,0.15
+ORD_000499,2024-04-06,Books,20.35,2,40.7,Premium,22,Store,Central,0.2
+ORD_000500,2023-08-17,Home & Garden,374.36,1,374.36,Regular,44,Mobile App,East,0.2
+ORD_000501,2025-02-14,Beauty,38.32,2,76.65,Regular,67,Online,North,0.0
+ORD_000502,2023-08-22,Sports,43.57,1,49.06,Regular,21,Online,West,0.0
+ORD_000503,2025-05-09,Beauty,82.64,2,165.28,Regular,62,Store,West,0.0
+ORD_000504,2023-10-28,Beauty,87.44,3,262.31,Premium,35,Store,North,0.0
+ORD_000505,2024-06-17,Electronics,994.69,4,3978.77,Regular,52,Online,East,0.05
+ORD_000506,2024-09-08,Sports,199.43,1,199.43,Premium,61,Mobile App,North,0.0
+ORD_000507,2024-06-17,Beauty,74.06,1,74.06,VIP,33,Online,North,0.0
+ORD_000508,2024-04-11,Electronics,1482.42,4,5929.68,Regular,56,Online,North,0.2
+ORD_000509,2024-06-16,Beauty,115.13,1,115.13,Regular,25,Online,North,0.0
+ORD_000510,2025-07-29,Clothing,131.64,1,153.69,Premium,51,Store,Central,0.1
+ORD_000511,2024-04-26,Clothing,86.94,1,86.94,Premium,73,Store,East,0.0
+ORD_000512,2023-12-03,Electronics,703.27,1,810.58,Regular,51,Online,North,0.0
+ORD_000513,2025-03-17,Beauty,25.4,1,25.4,Premium,41,Online,North,0.0
+ORD_000514,2024-12-28,Sports,70.89,2,175.08,Premium,75,Online,Central,0.0
+ORD_000515,2023-12-01,Clothing,153.34,2,366.29,Regular,33,Mobile App,North,0.0
+ORD_000516,2024-08-31,Clothing,52.21,1,61.11,Premium,20,Store,Central,0.0
+ORD_000517,2025-06-06,Books,17.08,1,17.08,Premium,35,Mobile App,North,0.1
+ORD_000518,2025-03-12,Home & Garden,72.91,2,145.82,Premium,21,Mobile App,South,0.0
+ORD_000519,2024-03-20,Sports,294.89,1,294.89,Regular,22,Store,West,0.0
+ORD_000520,2024-05-20,Home & Garden,173.74,1,173.74,Premium,18,Mobile App,East,0.0
+ORD_000521,2024-02-26,Home & Garden,288.45,1,288.45,Regular,57,Store,South,0.0
+ORD_000522,2024-11-22,Home & Garden,301.97,1,376.4,Premium,67,Online,South,0.0
+ORD_000523,2025-02-14,Clothing,47.1,2,94.2,Regular,19,Store,South,0.0
+ORD_000524,2025-02-09,Home & Garden,323.43,1,323.43,Regular,18,Online,East,0.0
+ORD_000525,2023-08-06,Beauty,65.8,2,131.59,Premium,37,Online,North,0.0
+ORD_000526,2024-03-02,Sports,295.36,1,295.36,Regular,21,Store,South,0.0
+ORD_000527,2025-08-02,Home & Garden,60.12,2,120.24,Regular,75,Online,Central,0.0
+ORD_000528,2024-09-30,Beauty,135.9,1,135.9,Regular,65,Store,North,0.0
+ORD_000529,2025-03-21,Electronics,1035.58,5,5177.92,Regular,43,Store,North,0.0
+ORD_000530,2025-04-02,Sports,42.13,1,42.13,Regular,26,Store,South,0.0
+ORD_000531,2024-05-29,Home & Garden,427.69,2,855.39,VIP,43,Online,East,0.0
+ORD_000532,2024-06-25,Books,19.83,1,19.83,Premium,26,Store,Central,0.05
+ORD_000533,2023-11-24,Clothing,39.02,1,43.86,Regular,38,Online,West,0.0
+ORD_000534,2024-08-05,Clothing,101.35,3,323.36,Regular,72,Online,North,0.0
+ORD_000535,2025-07-07,Home & Garden,415.8,1,415.8,Regular,20,Online,South,0.0
+ORD_000536,2024-07-05,Clothing,32.78,2,69.31,Regular,43,Mobile App,Central,0.1
+ORD_000537,2024-06-06,Home & Garden,350.83,1,350.83,Regular,72,Mobile App,West,0.15
+ORD_000538,2025-02-24,Beauty,89.27,2,178.53,Regular,69,Online,South,0.0
+ORD_000539,2023-12-07,Electronics,170.25,1,194.03,Premium,32,Mobile App,South,0.0
+ORD_000540,2024-09-18,Home & Garden,347.85,2,695.7,Regular,23,Store,Central,0.0
+ORD_000541,2025-03-27,Home & Garden,459.95,1,459.95,Regular,30,Store,West,0.0
+ORD_000542,2023-12-14,Electronics,1814.9,4,8047.56,Regular,39,Store,North,0.0
+ORD_000543,2024-11-19,Electronics,377.58,1,452.8,Regular,70,Online,West,0.0
+ORD_000544,2024-08-30,Beauty,72.6,1,72.6,Premium,29,Online,East,0.0
+ORD_000545,2024-05-17,Books,36.27,2,72.54,Premium,57,Mobile App,South,0.2
+ORD_000546,2025-05-28,Home & Garden,256.96,1,256.96,Regular,48,Online,North,0.0
+ORD_000547,2023-11-02,Home & Garden,200.76,5,1154.21,VIP,59,Store,Central,0.0
+ORD_000548,2025-02-11,Electronics,1979.34,3,5938.01,Regular,40,Store,West,0.0
+ORD_000549,2025-02-12,Books,23.76,1,23.76,Premium,38,Online,West,0.0
+ORD_000550,2024-05-07,Clothing,24.69,3,74.07,Premium,19,Store,East,0.0
+ORD_000551,2023-10-03,Books,31.18,1,31.18,Regular,32,Online,South,0.0
+ORD_000552,2023-11-15,Clothing,138.24,1,167.98,Regular,66,Mobile App,South,0.0
+ORD_000553,2024-09-05,Home & Garden,468.57,2,937.15,Regular,29,Online,South,0.0
+ORD_000554,2024-04-03,Sports,112.45,1,112.45,Premium,40,Store,Central,0.0
+ORD_000555,2023-09-02,Beauty,109.58,4,438.3,Regular,54,Mobile App,South,0.0
+ORD_000556,2025-03-03,Clothing,170.61,3,511.82,Regular,49,Mobile App,Central,0.0
+ORD_000557,2024-06-16,Clothing,102.86,1,108.32,Premium,56,Online,South,0.05
+ORD_000558,2024-12-06,Electronics,696.88,3,2442.19,Premium,69,Mobile App,South,0.0
+ORD_000559,2024-02-02,Home & Garden,41.69,3,125.07,Regular,67,Online,North,0.05
+ORD_000560,2025-01-24,Home & Garden,480.87,1,480.87,Regular,60,Store,West,0.0
+ORD_000561,2025-03-27,Electronics,706.29,1,706.29,VIP,28,Store,West,0.0
+ORD_000562,2025-05-20,Books,28.77,3,86.32,Regular,62,Mobile App,Central,0.2
+ORD_000563,2024-08-04,Clothing,139.8,4,648.71,Regular,42,Store,East,0.0
+ORD_000564,2024-06-01,Clothing,41.59,3,131.61,Regular,43,Store,Central,0.2
+ORD_000565,2025-04-12,Home & Garden,461.7,1,461.7,Regular,32,Online,Central,0.0
+ORD_000566,2023-11-19,Books,15.63,1,20.26,Regular,33,Online,East,0.0
+ORD_000567,2024-01-23,Beauty,121.07,4,484.27,Regular,46,Mobile App,North,0.1
+ORD_000568,2024-05-02,Clothing,58.43,1,58.43,Regular,68,Store,North,0.1
+ORD_000569,2023-08-06,Electronics,802.58,1,802.58,Regular,28,Store,West,0.0
+ORD_000570,2024-12-21,Books,24.05,1,30.25,Premium,71,Store,West,0.0
+ORD_000571,2025-03-18,Beauty,99.76,1,99.76,Regular,22,Store,North,0.15
+ORD_000572,2024-06-01,Electronics,671.5,1,671.5,Regular,22,Mobile App,East,0.0
+ORD_000573,2024-01-26,Books,16.44,1,16.44,Premium,39,Mobile App,Central,0.0
+ORD_000574,2025-04-24,Books,38.18,1,38.18,Regular,59,Online,South,0.0
+ORD_000575,2025-04-17,Books,15.47,1,15.47,Regular,30,Store,West,0.05
+ORD_000576,2025-07-18,Sports,223.56,1,244.71,Regular,34,Mobile App,East,0.0
+ORD_000577,2023-11-11,Electronics,816.16,3,2720.02,Premium,49,Online,South,0.0
+ORD_000578,2023-08-08,Books,13.51,2,27.01,Regular,58,Online,Central,0.0
+ORD_000579,2024-12-08,Clothing,33.71,1,42.77,Premium,23,Online,West,0.1
+ORD_000580,2024-06-15,Books,28.84,1,28.84,Regular,34,Online,North,0.0
+ORD_000581,2025-05-23,Sports,131.57,3,394.71,Premium,42,Store,East,0.0
+ORD_000582,2024-02-12,Books,11.78,1,11.78,Regular,34,Store,South,0.0
+ORD_000583,2024-05-06,Sports,41.95,1,41.95,Regular,60,Store,North,0.0
+ORD_000584,2023-10-31,Beauty,61.41,1,61.41,Regular,66,Online,Central,0.0
+ORD_000585,2024-03-24,Sports,41.77,1,41.77,Regular,51,Mobile App,West,0.0
+ORD_000586,2025-02-03,Beauty,132.03,3,396.09,VIP,74,Store,South,0.0
+ORD_000587,2024-12-04,Home & Garden,53.29,1,63.97,Regular,63,Store,North,0.0
+ORD_000588,2025-01-15,Sports,211.32,3,633.97,Regular,25,Store,West,0.0
+ORD_000589,2024-01-29,Clothing,194.99,1,194.99,Regular,26,Store,North,0.0
+ORD_000590,2024-10-11,Electronics,1977.15,1,1977.15,Regular,70,Online,South,0.0
+ORD_000591,2025-04-05,Home & Garden,170.08,1,170.08,Premium,69,Mobile App,North,0.0
+ORD_000592,2023-11-02,Books,32.25,4,155.33,Premium,72,Online,East,0.0
+ORD_000593,2023-08-17,Beauty,99.11,2,198.23,Regular,44,Online,North,0.0
+ORD_000594,2024-10-02,Clothing,46.68,3,140.03,Regular,66,Mobile App,North,0.0
+ORD_000595,2023-11-21,Sports,239.37,1,305.45,Premium,73,Store,Central,0.0
+ORD_000596,2024-09-28,Home & Garden,200.78,3,602.33,Premium,56,Store,West,0.0
+ORD_000597,2023-09-12,Clothing,55.66,1,55.66,Regular,61,Online,West,0.2
+ORD_000598,2023-09-13,Books,45.58,2,91.17,Regular,33,Store,North,0.0
+ORD_000599,2024-12-03,Home & Garden,405.05,1,513.84,Regular,37,Store,East,0.1
+ORD_000600,2025-07-17,Beauty,28.26,1,28.26,Regular,26,Online,East,0.0
+ORD_000601,2024-10-31,Home & Garden,145.67,4,582.67,Premium,59,Online,North,0.0
+ORD_000602,2024-02-13,Books,18.46,1,18.46,Regular,65,Store,West,0.0
+ORD_000603,2025-01-14,Home & Garden,413.19,2,826.39,Regular,28,Online,North,0.0
+ORD_000604,2024-06-18,Beauty,66.73,1,66.73,Premium,74,Store,Central,0.2
+ORD_000605,2023-09-03,Clothing,54.7,1,54.7,Regular,71,Online,North,0.0
+ORD_000606,2024-04-16,Electronics,940.07,4,3760.3,Regular,63,Store,South,0.0
+ORD_000607,2024-05-11,Home & Garden,414.4,2,828.8,Regular,58,Online,North,0.0
+ORD_000608,2025-07-02,Electronics,521.78,1,521.78,Premium,46,Store,South,0.0
+ORD_000609,2024-12-02,Sports,176.62,2,441.47,Regular,71,Online,East,0.0
+ORD_000610,2025-07-10,Electronics,605.89,4,2423.54,Premium,28,Online,Central,0.0
+ORD_000611,2024-03-11,Clothing,136.53,5,682.64,Premium,35,Store,West,0.0
+ORD_000612,2025-01-11,Electronics,1736.03,2,3472.06,Premium,61,Store,North,0.0
+ORD_000613,2024-12-02,Clothing,136.53,1,157.07,Regular,18,Mobile App,South,0.0
+ORD_000614,2024-06-12,Beauty,145.55,1,145.55,Regular,45,Online,West,0.0
+ORD_000615,2024-07-27,Books,20.08,1,20.08,Premium,61,Mobile App,Central,0.0
+ORD_000616,2025-05-04,Books,30.04,1,30.04,Regular,53,Online,Central,0.1
+ORD_000617,2025-04-19,Home & Garden,159.76,3,479.28,Premium,39,Online,East,0.0
+ORD_000618,2025-05-21,Home & Garden,389.54,3,1168.62,Premium,30,Mobile App,South,0.1
+ORD_000619,2025-01-15,Clothing,181.94,4,727.77,Regular,69,Store,Central,0.0
+ORD_000620,2024-09-21,Beauty,58.14,1,58.14,Premium,59,Store,West,0.0
+ORD_000621,2024-06-02,Home & Garden,454.85,3,1364.56,Premium,65,Online,North,0.0
+ORD_000622,2025-03-24,Beauty,149.29,2,298.58,VIP,39,Mobile App,South,0.0
+ORD_000623,2025-07-07,Sports,200.54,1,225.82,Regular,60,Online,East,0.0
+ORD_000624,2024-01-26,Beauty,133.33,2,266.65,Premium,48,Online,South,0.0
+ORD_000625,2024-04-25,Beauty,124.13,2,248.25,Premium,29,Store,East,0.0
+ORD_000626,2025-06-05,Electronics,435.05,2,870.11,Regular,44,Store,East,0.1
+ORD_000627,2024-08-19,Home & Garden,299.0,1,299.0,Regular,25,Store,West,0.0
+ORD_000628,2023-09-28,Beauty,93.78,3,281.35,Premium,22,Store,West,0.0
+ORD_000629,2024-02-20,Sports,57.95,1,57.95,Regular,51,Online,East,0.0
+ORD_000630,2024-10-01,Electronics,1660.75,1,1660.75,Premium,39,Mobile App,West,0.05
+ORD_000631,2025-03-10,Books,15.73,1,15.73,Regular,29,Mobile App,North,0.0
+ORD_000632,2024-12-16,Home & Garden,321.05,1,370.72,Regular,18,Store,West,0.0
+ORD_000633,2024-01-24,Sports,235.23,2,470.47,Regular,66,Online,North,0.0
+ORD_000634,2023-12-15,Sports,144.27,3,509.27,Regular,45,Online,West,0.0
+ORD_000635,2023-09-12,Sports,79.84,3,239.52,Regular,18,Store,East,0.0
+ORD_000636,2025-01-29,Clothing,22.06,1,22.06,VIP,32,Online,East,0.05
+ORD_000637,2024-06-19,Clothing,38.49,1,40.79,Regular,37,Online,South,0.0
+ORD_000638,2023-09-20,Home & Garden,475.0,3,1425.01,VIP,51,Online,Central,0.0
+ORD_000639,2025-01-22,Home & Garden,225.33,1,225.33,Premium,26,Mobile App,East,0.0
+ORD_000640,2024-12-18,Home & Garden,321.99,2,737.26,Regular,19,Online,South,0.15
+ORD_000641,2023-12-17,Clothing,152.13,2,357.0,Regular,28,Store,North,0.0
+ORD_000642,2025-06-01,Electronics,781.63,1,781.63,Premium,67,Online,Central,0.0
+ORD_000643,2025-05-04,Electronics,1208.15,2,2416.3,Regular,59,Store,North,0.0
+ORD_000644,2023-09-23,Beauty,30.63,1,30.63,Regular,25,Store,Central,0.0
+ORD_000645,2024-04-19,Books,38.07,2,76.15,Premium,37,Store,West,0.0
+ORD_000646,2025-06-12,Electronics,1073.47,3,3220.42,Regular,62,Mobile App,South,0.2
+ORD_000647,2024-10-06,Electronics,1047.59,1,1047.59,Regular,36,Online,North,0.0
+ORD_000648,2023-11-21,Books,16.15,1,20.91,Premium,71,Store,Central,0.1
+ORD_000649,2024-08-05,Beauty,56.25,3,168.76,Regular,49,Online,South,0.2
+ORD_000650,2025-07-09,Books,23.22,1,23.22,Regular,25,Online,Central,0.0
+ORD_000651,2025-06-20,Books,12.77,1,12.77,Regular,22,Store,North,0.2
+ORD_000652,2024-04-23,Beauty,46.21,2,92.41,VIP,36,Mobile App,East,0.0
+ORD_000653,2024-11-22,Electronics,244.63,2,573.43,Regular,72,Store,East,0.0
+ORD_000654,2025-06-28,Home & Garden,221.61,3,664.82,Regular,18,Online,South,0.0
+ORD_000655,2025-06-14,Beauty,38.02,3,114.06,Regular,46,Store,Central,0.0
+ORD_000656,2024-05-05,Beauty,27.55,2,55.1,Regular,29,Online,North,0.0
+ORD_000657,2024-09-18,Books,41.22,1,41.22,Regular,62,Online,West,0.15
+ORD_000658,2024-10-09,Beauty,127.9,3,383.69,Regular,62,Store,North,0.05
+ORD_000659,2024-01-15,Electronics,861.25,1,861.25,VIP,69,Online,Central,0.0
+ORD_000660,2025-06-29,Books,17.25,1,17.25,Premium,40,Mobile App,Central,0.0
+ORD_000661,2023-09-03,Beauty,133.79,1,133.79,Premium,75,Store,South,0.0
+ORD_000662,2024-12-11,Books,14.52,1,16.73,Regular,20,Online,North,0.0
+ORD_000663,2024-06-21,Electronics,1423.91,2,2847.82,Regular,67,Online,Central,0.0
+ORD_000664,2025-03-05,Clothing,196.02,2,392.04,Premium,39,Online,Central,0.0
+ORD_000665,2025-01-21,Beauty,104.1,2,208.2,Regular,48,Store,East,0.05
+ORD_000666,2025-06-14,Beauty,81.27,2,162.54,VIP,75,Online,Central,0.2
+ORD_000667,2023-09-29,Electronics,1108.93,1,1108.93,Regular,72,Online,West,0.15
+ORD_000668,2024-01-21,Electronics,1515.29,1,1515.29,VIP,39,Online,East,0.0
+ORD_000669,2023-09-25,Sports,86.24,1,86.24,Premium,43,Online,South,0.0
+ORD_000670,2023-10-24,Books,27.77,3,83.3,Regular,23,Store,West,0.0
+ORD_000671,2024-11-04,Home & Garden,72.57,1,81.32,Regular,59,Mobile App,North,0.0
+ORD_000672,2024-09-30,Electronics,1136.41,1,1136.41,Regular,68,Online,Central,0.0
+ORD_000673,2025-04-29,Beauty,56.12,1,56.12,Premium,31,Online,West,0.0
+ORD_000674,2024-07-19,Home & Garden,415.28,2,830.55,VIP,72,Store,West,0.0
+ORD_000675,2024-07-09,Sports,236.04,4,1092.76,Regular,63,Online,East,0.0
+ORD_000676,2023-11-29,Electronics,1377.61,1,1666.27,Premium,40,Mobile App,East,0.1
+ORD_000677,2024-08-21,Beauty,29.35,1,29.35,Premium,49,Online,South,0.0
+ORD_000678,2024-09-27,Electronics,545.86,2,1091.73,Regular,72,Mobile App,West,0.0
+ORD_000679,2024-03-12,Books,38.68,2,77.37,Regular,24,Online,West,0.1
+ORD_000680,2023-09-21,Beauty,128.06,1,128.06,Regular,67,Online,West,0.0
+ORD_000681,2024-11-15,Beauty,94.56,3,342.13,Regular,49,Store,North,0.0
+ORD_000682,2023-09-23,Sports,282.21,1,282.21,Premium,48,Store,Central,0.0
+ORD_000683,2024-02-02,Beauty,93.1,1,93.1,Premium,26,Store,North,0.0
+ORD_000684,2024-09-04,Beauty,96.07,1,96.07,Regular,50,Store,West,0.0
+ORD_000685,2024-10-06,Sports,276.88,1,276.88,VIP,35,Mobile App,West,0.0
+ORD_000686,2024-07-21,Home & Garden,199.44,2,398.87,Regular,56,Online,Central,0.15
+ORD_000687,2024-06-06,Beauty,88.95,2,177.91,Regular,65,Online,Central,0.0
+ORD_000688,2025-05-13,Clothing,56.16,2,112.32,Premium,36,Store,East,0.0
+ORD_000689,2025-06-23,Clothing,196.64,1,222.47,Premium,29,Online,Central,0.0
+ORD_000690,2025-05-18,Home & Garden,359.52,1,359.52,Regular,53,Online,West,0.0
+ORD_000691,2025-03-23,Sports,284.24,3,852.71,Regular,61,Online,Central,0.0
+ORD_000692,2024-05-23,Books,42.33,3,127.0,Premium,19,Mobile App,West,0.0
+ORD_000693,2023-12-31,Electronics,1289.15,1,1455.81,Regular,36,Mobile App,East,0.05
+ORD_000694,2023-10-07,Beauty,96.71,3,290.13,Regular,20,Online,East,0.2
+ORD_000695,2024-11-10,Electronics,1251.41,1,1562.37,VIP,53,Store,South,0.0
+ORD_000696,2025-03-01,Books,19.5,1,19.5,Regular,69,Store,East,0.0
+ORD_000697,2025-07-14,Beauty,21.34,3,64.03,Regular,44,Store,East,0.0
+ORD_000698,2025-02-20,Electronics,60.23,4,240.9,Regular,73,Store,West,0.2
+ORD_000699,2024-03-22,Beauty,110.12,1,110.12,Premium,66,Store,Central,0.0
+ORD_000700,2025-02-14,Beauty,96.46,2,192.91,Premium,30,Online,East,0.0
+ORD_000701,2024-11-06,Clothing,187.17,4,841.42,Regular,65,Online,Central,0.05
+ORD_000702,2023-09-15,Books,20.11,2,40.21,Premium,55,Online,East,0.05
+ORD_000703,2023-08-10,Home & Garden,241.17,3,723.51,VIP,20,Online,South,0.0
+ORD_000704,2024-06-30,Sports,38.99,5,219.02,Regular,57,Online,East,0.0
+ORD_000705,2025-03-13,Sports,123.47,1,123.47,Premium,38,Store,Central,0.0
+ORD_000706,2024-03-17,Clothing,113.71,1,113.71,Regular,28,Store,West,0.0
+ORD_000707,2025-02-11,Sports,135.94,1,135.94,Premium,74,Mobile App,South,0.0
+ORD_000708,2025-06-14,Home & Garden,140.45,2,280.91,VIP,51,Online,West,0.2
+ORD_000709,2025-03-01,Beauty,16.19,5,80.94,Premium,46,Store,South,0.0
+ORD_000710,2025-05-23,Sports,277.62,1,277.62,Premium,61,Online,East,0.0
+ORD_000711,2024-08-29,Electronics,802.46,1,802.46,Regular,36,Store,North,0.0
+ORD_000712,2025-01-15,Home & Garden,264.44,2,528.88,Premium,49,Mobile App,North,0.0
+ORD_000713,2024-06-03,Beauty,40.99,1,40.99,Premium,24,Online,South,0.0
+ORD_000714,2025-02-05,Sports,25.67,3,77.0,Premium,73,Store,West,0.05
+ORD_000715,2023-11-19,Clothing,116.8,2,287.16,Regular,65,Store,West,0.0
+ORD_000716,2023-10-17,Beauty,96.85,3,290.56,Regular,20,Online,North,0.1
+ORD_000717,2023-10-19,Electronics,397.08,1,397.08,Premium,54,Online,South,0.0
+ORD_000718,2024-04-25,Books,25.52,1,25.52,Premium,45,Mobile App,East,0.0
+ORD_000719,2023-08-22,Books,36.93,1,36.93,Regular,59,Online,Central,0.0
+ORD_000720,2023-10-08,Beauty,94.06,1,94.06,Regular,22,Store,East,0.0
+ORD_000721,2024-12-31,Electronics,615.18,2,1422.67,Premium,56,Online,North,0.0
+ORD_000722,2024-10-26,Books,25.8,3,77.41,Regular,48,Mobile App,South,0.0
+ORD_000723,2025-02-01,Clothing,44.55,2,89.1,Regular,69,Store,Central,0.0
+ORD_000724,2024-06-02,Beauty,34.45,1,34.45,Premium,68,Online,East,0.0
+ORD_000725,2023-08-16,Sports,265.56,1,302.61,Premium,18,Online,Central,0.0
+ORD_000726,2025-02-05,Sports,285.42,3,856.26,Regular,65,Store,East,0.0
+ORD_000727,2024-03-08,Books,46.23,2,92.45,Regular,27,Online,South,0.0
+ORD_000728,2024-02-09,Clothing,131.04,1,131.04,Regular,29,Online,Central,0.0
+ORD_000729,2023-09-29,Sports,151.85,2,303.7,VIP,36,Mobile App,North,0.0
+ORD_000730,2024-04-17,Electronics,434.96,3,1304.89,Premium,39,Store,East,0.0
+ORD_000731,2023-12-14,Beauty,82.79,1,96.33,VIP,22,Store,South,0.2
+ORD_000732,2024-11-08,Home & Garden,313.93,2,761.65,Regular,55,Online,South,0.0
+ORD_000733,2024-08-12,Home & Garden,431.95,1,431.95,Premium,33,Store,South,0.1
+ORD_000734,2025-08-03,Beauty,91.36,1,91.36,VIP,26,Online,East,0.1
+ORD_000735,2024-12-08,Books,27.81,1,31.2,Regular,49,Store,Central,0.0
+ORD_000736,2025-05-27,Sports,45.17,4,180.66,Regular,75,Mobile App,Central,0.05
+ORD_000737,2024-02-22,Home & Garden,370.77,1,370.77,VIP,64,Store,North,0.0
+ORD_000738,2023-08-24,Sports,198.7,3,694.67,Regular,55,Mobile App,West,0.0
+ORD_000739,2024-03-09,Electronics,1125.61,2,2251.22,Regular,52,Mobile App,West,0.0
+ORD_000740,2025-06-04,Clothing,68.68,1,73.49,Premium,64,Online,East,0.2
+ORD_000741,2024-12-30,Sports,49.9,2,126.71,Regular,18,Online,South,0.0
+ORD_000742,2025-04-24,Beauty,37.39,1,37.39,Regular,46,Store,South,0.0
+ORD_000743,2024-02-04,Sports,285.9,1,285.9,Regular,27,Online,West,0.0
+ORD_000744,2024-08-06,Electronics,476.7,1,476.7,Premium,22,Online,East,0.0
+ORD_000745,2024-08-17,Clothing,24.93,4,118.46,Premium,42,Store,West,0.1
+ORD_000746,2023-09-21,Electronics,1962.15,2,3924.3,Premium,63,Online,Central,0.0
+ORD_000747,2025-05-14,Home & Garden,335.93,1,335.93,Regular,54,Store,South,0.2
+ORD_000748,2024-08-24,Beauty,66.1,1,66.1,Regular,75,Mobile App,North,0.0
+ORD_000749,2025-01-15,Home & Garden,197.52,3,592.56,Regular,51,Online,West,0.0
+ORD_000750,2024-07-31,Home & Garden,251.13,3,753.38,Regular,56,Online,North,0.0
+ORD_000751,2024-12-30,Clothing,79.35,1,90.64,VIP,59,Store,East,0.2
+ORD_000752,2024-02-12,Clothing,85.2,3,255.6,Premium,25,Store,South,0.0
+ORD_000753,2024-10-02,Home & Garden,364.32,2,728.65,Regular,48,Online,West,0.0
+ORD_000754,2024-03-07,Sports,69.34,1,69.34,Premium,19,Store,South,0.0
+ORD_000755,2023-09-18,Clothing,98.58,3,295.75,Regular,20,Store,Central,0.2
+ORD_000756,2024-01-02,Electronics,374.37,2,748.73,Regular,51,Store,West,0.0
+ORD_000757,2025-04-09,Sports,200.35,1,200.35,Regular,64,Online,East,0.0
+ORD_000758,2023-10-31,Clothing,100.86,1,100.86,Regular,73,Store,West,0.0
+ORD_000759,2024-01-26,Clothing,169.47,4,677.86,Premium,68,Store,Central,0.0
+ORD_000760,2024-02-07,Sports,185.76,2,371.53,Premium,47,Online,Central,0.1
+ORD_000761,2025-03-31,Electronics,498.14,1,498.14,Regular,24,Store,North,0.0
+ORD_000762,2024-02-28,Sports,261.39,1,261.39,Regular,44,Online,South,0.0
+ORD_000763,2025-04-16,Electronics,395.97,5,1979.87,Regular,56,Store,North,0.0
+ORD_000764,2025-01-30,Sports,220.31,1,220.31,Premium,75,Online,Central,0.05
+ORD_000765,2025-02-07,Electronics,1799.09,1,1799.09,Regular,59,Online,West,0.0
+ORD_000766,2025-01-20,Books,19.85,1,19.85,Regular,45,Online,South,0.2
+ORD_000767,2024-12-10,Books,24.02,1,26.89,Regular,66,Mobile App,Central,0.0
+ORD_000768,2023-12-20,Home & Garden,246.41,2,628.53,Regular,36,Online,Central,0.0
+ORD_000769,2024-09-26,Home & Garden,106.68,4,426.7,Regular,68,Online,North,0.0
+ORD_000770,2025-03-18,Sports,54.53,2,109.07,Regular,62,Online,East,0.05
+ORD_000771,2024-09-26,Home & Garden,66.69,2,133.39,Premium,55,Store,East,0.0
+ORD_000772,2024-04-28,Sports,141.48,2,282.96,VIP,35,Online,West,0.0
+ORD_000773,2024-02-29,Books,32.08,1,32.08,Regular,29,Online,East,0.0
+ORD_000774,2025-02-27,Sports,158.03,1,158.03,VIP,54,Store,East,0.0
+ORD_000775,2025-07-27,Books,39.43,2,78.86,Regular,60,Mobile App,North,0.0
+ORD_000776,2024-03-27,Books,41.32,4,165.3,Premium,24,Online,South,0.0
+ORD_000777,2025-01-06,Books,41.44,2,82.89,Regular,57,Online,North,0.0
+ORD_000778,2024-01-16,Books,48.58,1,48.58,Premium,70,Store,South,0.0
+ORD_000779,2024-11-29,Sports,137.49,1,167.99,Regular,41,Store,North,0.05
+ORD_000780,2024-09-01,Books,34.56,1,34.56,Regular,63,Online,Central,0.0
+ORD_000781,2023-10-02,Clothing,135.25,3,405.76,Regular,30,Online,Central,0.0
+ORD_000782,2024-05-23,Clothing,26.05,1,26.05,VIP,51,Store,South,0.0
+ORD_000783,2025-04-25,Clothing,141.32,2,282.65,Regular,59,Store,North,0.0
+ORD_000784,2024-01-13,Electronics,1993.79,1,1993.79,Premium,40,Mobile App,West,0.0
+ORD_000785,2024-09-23,Sports,80.09,2,160.17,Premium,23,Store,Central,0.0
+ORD_000786,2024-05-22,Beauty,127.02,1,127.02,VIP,40,Online,East,0.0
+ORD_000787,2024-05-14,Clothing,109.77,2,219.55,Regular,54,Online,North,0.15
+ORD_000788,2024-04-28,Clothing,93.28,1,93.28,Regular,50,Store,East,0.0
+ORD_000789,2024-07-18,Electronics,1615.74,2,3231.47,Regular,74,Online,Central,0.0
+ORD_000790,2025-03-15,Home & Garden,351.68,2,703.37,Regular,54,Store,West,0.0
+ORD_000791,2024-04-10,Home & Garden,481.2,2,962.4,Premium,47,Store,Central,0.0
+ORD_000792,2023-09-02,Books,13.92,1,13.92,Premium,61,Online,South,0.05
+ORD_000793,2024-06-23,Books,48.22,1,48.22,Premium,18,Online,East,0.0
+ORD_000794,2024-04-15,Home & Garden,60.11,3,180.33,Premium,70,Mobile App,East,0.0
+ORD_000795,2023-10-21,Sports,281.13,4,1124.54,Regular,40,Online,South,0.0
+ORD_000796,2025-03-14,Home & Garden,103.65,2,207.3,Regular,30,Store,West,0.0
+ORD_000797,2024-02-25,Clothing,152.38,2,304.75,Premium,31,Online,South,0.0
+ORD_000798,2024-02-28,Clothing,170.54,1,170.54,Regular,67,Online,North,0.0
+ORD_000799,2023-12-05,Electronics,1367.83,3,5141.07,Regular,57,Online,North,0.0
+ORD_000800,2025-02-09,Electronics,1703.62,1,1703.62,Premium,38,Store,West,0.0
+ORD_000801,2025-03-15,Home & Garden,253.04,1,253.04,Regular,50,Online,East,0.0
+ORD_000802,2024-09-15,Clothing,124.02,1,124.02,Premium,69,Store,West,0.2
+ORD_000803,2024-12-06,Sports,33.95,1,40.45,Regular,73,Mobile App,South,0.0
+ORD_000804,2023-12-06,Beauty,84.96,1,104.91,Premium,18,Online,North,0.0
+ORD_000805,2024-08-27,Sports,52.71,1,56.82,Regular,73,Store,East,0.0
+ORD_000806,2024-04-30,Clothing,68.49,4,273.97,Regular,39,Online,East,0.0
+ORD_000807,2024-02-09,Books,26.96,1,26.96,Regular,66,Online,East,0.0
+ORD_000808,2024-08-12,Books,20.13,1,20.13,Premium,54,Store,South,0.05
+ORD_000809,2023-11-15,Beauty,43.73,1,49.81,VIP,72,Online,West,0.15
+ORD_000810,2024-01-05,Books,35.89,4,143.57,Regular,26,Mobile App,Central,0.15
+ORD_000811,2025-02-01,Beauty,57.62,2,115.25,Premium,34,Mobile App,Central,0.0
+ORD_000812,2025-03-08,Electronics,826.88,1,826.88,VIP,21,Online,South,0.0
+ORD_000813,2024-04-21,Books,39.2,1,39.2,Regular,34,Store,East,0.1
+ORD_000814,2024-08-07,Sports,178.31,1,198.24,Regular,40,Store,North,0.0
+ORD_000815,2024-07-29,Beauty,116.02,3,348.05,Premium,59,Online,Central,0.2
+ORD_000816,2024-01-30,Home & Garden,187.23,1,187.23,Regular,49,Online,West,0.0
+ORD_000817,2023-10-24,Books,34.55,1,34.55,Regular,27,Online,South,0.0
+ORD_000818,2025-05-21,Home & Garden,219.58,4,878.32,Regular,43,Online,North,0.0
+ORD_000819,2023-10-25,Clothing,81.85,2,163.71,Regular,59,Online,East,0.0
+ORD_000820,2025-08-01,Home & Garden,308.61,2,617.22,Regular,74,Online,West,0.0
+ORD_000821,2024-08-10,Beauty,94.23,5,471.17,Premium,44,Store,South,0.0
+ORD_000822,2024-02-09,Electronics,264.45,2,528.89,Premium,65,Online,North,0.1
+ORD_000823,2024-03-07,Clothing,77.75,1,77.75,Regular,53,Store,North,0.15
+ORD_000824,2023-08-31,Books,30.96,2,61.92,Regular,24,Mobile App,East,0.0
+ORD_000825,2025-04-28,Clothing,35.18,4,140.7,Premium,42,Store,East,0.0
+ORD_000826,2024-03-26,Clothing,152.77,3,458.3,Regular,26,Store,South,0.0
+ORD_000827,2025-01-25,Clothing,25.14,1,25.14,Premium,73,Online,East,0.0
+ORD_000828,2024-12-04,Books,49.0,3,174.78,VIP,35,Online,Central,0.0
+ORD_000829,2025-07-19,Sports,73.69,1,82.18,VIP,58,Store,Central,0.0
+ORD_000830,2025-05-21,Beauty,87.06,3,261.18,Regular,48,Online,Central,0.0
+ORD_000831,2024-03-24,Electronics,911.63,1,911.63,Regular,34,Store,South,0.0
+ORD_000832,2024-06-10,Electronics,50.18,1,50.18,Regular,72,Store,South,0.0
+ORD_000833,2024-07-22,Home & Garden,206.18,2,412.35,Premium,66,Mobile App,West,0.15
+ORD_000834,2024-06-06,Electronics,1543.44,1,1543.44,Premium,56,Store,South,0.0
+ORD_000835,2023-08-12,Sports,127.75,2,283.41,VIP,53,Online,West,0.0
+ORD_000836,2024-01-19,Beauty,114.51,1,114.51,Premium,42,Online,South,0.0
+ORD_000837,2024-04-30,Electronics,698.69,3,2096.08,Premium,69,Online,East,0.2
+ORD_000838,2024-05-22,Beauty,115.3,3,345.89,Regular,44,Store,South,0.0
+ORD_000839,2023-10-14,Clothing,37.9,2,75.81,VIP,57,Online,West,0.15
+ORD_000840,2024-05-09,Beauty,99.07,1,99.07,Premium,27,Store,North,0.0
+ORD_000841,2025-02-02,Electronics,371.32,2,742.64,Regular,26,Online,West,0.1
+ORD_000842,2023-08-13,Clothing,34.42,1,37.75,Premium,39,Online,West,0.05
+ORD_000843,2024-12-27,Home & Garden,239.89,1,304.35,VIP,39,Online,North,0.0
+ORD_000844,2024-01-01,Electronics,569.68,5,2848.41,Premium,52,Mobile App,West,0.0
+ORD_000845,2024-02-06,Clothing,154.04,1,154.04,Regular,71,Store,North,0.15
+ORD_000846,2023-12-07,Beauty,48.61,3,181.93,Premium,46,Online,South,0.0
+ORD_000847,2023-09-08,Clothing,102.95,3,308.85,Premium,51,Store,South,0.0
+ORD_000848,2024-12-01,Books,37.26,3,137.02,Premium,38,Store,South,0.0
+ORD_000849,2023-09-17,Beauty,141.55,1,141.55,Regular,34,Online,West,0.0
+ORD_000850,2025-05-19,Home & Garden,111.38,1,111.38,Regular,73,Online,South,0.0
+ORD_000851,2023-11-28,Clothing,133.92,1,162.98,Regular,28,Mobile App,East,0.0
+ORD_000852,2024-09-13,Clothing,18.37,4,73.47,Regular,62,Mobile App,Central,0.15
+ORD_000853,2024-01-10,Home & Garden,330.51,2,661.02,Regular,23,Online,Central,0.15
+ORD_000854,2024-07-16,Beauty,23.11,2,46.21,Premium,27,Store,Central,0.0
+ORD_000855,2023-11-22,Clothing,107.81,1,135.96,Regular,53,Online,East,0.0
+ORD_000856,2024-10-27,Beauty,41.05,1,41.05,Regular,40,Online,South,0.0
+ORD_000857,2024-04-17,Electronics,996.34,3,2989.02,VIP,36,Online,Central,0.0
+ORD_000858,2025-07-18,Books,15.83,4,63.33,Regular,38,Store,West,0.1
+ORD_000859,2024-05-12,Sports,276.48,1,276.48,Premium,22,Mobile App,Central,0.0
+ORD_000860,2024-01-10,Books,19.64,2,39.29,Regular,47,Store,North,0.1
+ORD_000861,2025-05-19,Sports,129.24,1,129.24,Premium,57,Store,East,0.0
+ORD_000862,2025-05-01,Clothing,62.18,1,62.18,Regular,70,Store,West,0.2
+ORD_000863,2024-02-15,Sports,212.89,1,212.89,Premium,27,Online,Central,0.0
+ORD_000864,2024-05-20,Home & Garden,213.76,2,427.51,Premium,24,Mobile App,Central,0.0
+ORD_000865,2025-06-09,Electronics,135.37,2,270.73,Regular,29,Online,North,0.0
+ORD_000866,2024-02-27,Electronics,797.18,3,2391.53,Regular,59,Store,West,0.2
+ORD_000867,2025-06-08,Books,31.03,1,31.03,Regular,34,Store,North,0.0
+ORD_000868,2024-08-14,Clothing,122.62,1,145.82,Premium,59,Online,West,0.05
+ORD_000869,2023-10-25,Books,33.63,1,33.63,Regular,65,Online,West,0.2
+ORD_000870,2024-08-16,Beauty,22.87,1,22.87,Premium,51,Online,North,0.0
+ORD_000871,2023-10-16,Home & Garden,42.24,3,126.72,Regular,24,Online,North,0.2
+ORD_000872,2024-03-28,Sports,124.42,2,248.84,Regular,54,Online,South,0.05
+ORD_000873,2025-02-26,Beauty,90.35,1,90.35,Regular,67,Mobile App,Central,0.0
+ORD_000874,2024-08-05,Beauty,76.93,1,76.93,Premium,74,Mobile App,North,0.0
+ORD_000875,2024-01-22,Clothing,118.99,1,118.99,VIP,60,Online,South,0.0
+ORD_000876,2025-02-01,Sports,146.83,4,587.31,Regular,38,Store,Central,0.0
+ORD_000877,2024-07-02,Home & Garden,214.99,1,214.99,Regular,70,Store,East,0.0
+ORD_000878,2025-04-19,Clothing,97.09,2,194.19,Regular,65,Online,East,0.2
+ORD_000879,2024-08-07,Books,27.9,2,55.8,Premium,64,Mobile App,North,0.0
+ORD_000880,2024-05-22,Sports,26.53,3,79.6,VIP,18,Store,East,0.1
+ORD_000881,2024-03-19,Clothing,156.63,1,156.63,Regular,53,Store,Central,0.1
+ORD_000882,2025-02-24,Sports,279.63,2,559.26,Regular,47,Online,East,0.0
+ORD_000883,2024-01-11,Clothing,67.7,4,270.79,Regular,33,Online,South,0.0
+ORD_000884,2024-04-23,Home & Garden,59.57,1,59.57,Regular,31,Online,North,0.0
+ORD_000885,2024-07-02,Books,16.92,1,16.92,Regular,62,Store,Central,0.0
+ORD_000886,2023-11-10,Sports,161.3,1,202.59,Premium,42,Mobile App,North,0.2
+ORD_000887,2024-07-12,Home & Garden,441.7,1,441.7,Premium,73,Store,North,0.0
+ORD_000888,2024-03-24,Beauty,103.13,3,309.38,Regular,18,Store,West,0.0
+ORD_000889,2023-09-29,Home & Garden,269.33,2,538.65,Regular,54,Online,South,0.0
+ORD_000890,2024-07-04,Sports,184.35,2,418.96,Premium,46,Online,Central,0.15
+ORD_000891,2023-11-05,Clothing,97.75,2,228.19,Regular,27,Store,South,0.0
+ORD_000892,2024-12-04,Sports,229.96,1,271.29,Premium,34,Online,North,0.0
+ORD_000893,2024-10-22,Beauty,26.08,1,26.08,Regular,30,Online,West,0.2
+ORD_000894,2024-09-12,Beauty,92.13,2,184.26,Regular,65,Mobile App,Central,0.0
+ORD_000895,2024-04-13,Clothing,32.9,1,32.9,Regular,38,Online,Central,0.0
+ORD_000896,2023-11-04,Electronics,1359.91,1,1583.13,Regular,40,Online,South,0.0
+ORD_000897,2025-04-04,Beauty,18.27,1,18.27,Regular,40,Store,Central,0.0
+ORD_000898,2024-10-30,Sports,61.85,2,123.69,Regular,30,Store,East,0.05
+ORD_000899,2024-01-11,Beauty,130.12,4,520.49,Regular,33,Store,Central,0.0
+ORD_000900,2024-01-03,Home & Garden,21.66,1,21.66,Premium,25,Store,East,0.0
+ORD_000901,2024-11-07,Books,8.73,2,21.11,VIP,31,Online,South,0.2
+ORD_000902,2024-04-25,Sports,157.83,1,157.83,Premium,27,Mobile App,North,0.0
+ORD_000903,2024-08-24,Sports,274.16,1,290.34,Regular,34,Online,South,0.0
+ORD_000904,2024-02-26,Beauty,98.43,1,98.43,Premium,22,Store,West,0.0
+ORD_000905,2025-06-11,Home & Garden,336.55,1,336.55,Regular,41,Online,North,0.0
+ORD_000906,2023-08-24,Home & Garden,435.69,1,435.69,Premium,32,Mobile App,West,0.0
+ORD_000907,2025-01-06,Beauty,28.45,3,85.34,Regular,73,Mobile App,Central,0.0
+ORD_000908,2025-01-30,Electronics,413.51,3,1240.54,Premium,47,Store,Central,0.0
+ORD_000909,2025-08-03,Electronics,127.52,1,127.52,Regular,37,Online,East,0.0
+ORD_000910,2024-12-18,Books,35.8,1,41.07,Regular,40,Store,East,0.1
+ORD_000911,2024-12-30,Home & Garden,408.77,2,1044.88,Regular,74,Online,West,0.0
+ORD_000912,2023-09-04,Sports,257.41,4,1029.63,VIP,75,Store,West,0.1
+ORD_000913,2025-06-07,Clothing,35.8,5,211.4,Regular,61,Mobile App,Central,0.0
+ORD_000914,2025-07-07,Clothing,95.12,1,112.86,Regular,45,Online,East,0.0
+ORD_000915,2024-07-07,Books,30.1,1,30.1,Regular,55,Store,Central,0.05
+ORD_000916,2025-07-05,Clothing,175.27,3,623.82,Regular,63,Online,Central,0.0
+ORD_000917,2024-10-18,Clothing,138.12,3,414.37,Premium,28,Online,East,0.0
+ORD_000918,2023-10-13,Sports,171.56,2,343.13,Regular,29,Online,East,0.0
+ORD_000919,2024-01-01,Beauty,18.98,4,75.92,Regular,44,Store,West,0.0
+ORD_000920,2024-06-10,Books,39.82,3,119.47,Premium,58,Online,East,0.0
+ORD_000921,2024-01-07,Clothing,31.38,1,31.38,Regular,57,Store,East,0.2
+ORD_000922,2025-04-16,Sports,193.4,1,193.4,Regular,32,Mobile App,North,0.0
+ORD_000923,2024-08-06,Electronics,1391.88,2,2783.75,Regular,50,Store,Central,0.0
+ORD_000924,2024-11-27,Beauty,87.29,2,196.83,Regular,49,Online,West,0.15
+ORD_000925,2024-02-18,Clothing,25.8,3,77.4,Regular,18,Store,East,0.0
+ORD_000926,2024-09-30,Clothing,153.63,1,153.63,Regular,66,Online,South,0.0
+ORD_000927,2023-10-11,Clothing,186.88,1,186.88,Regular,73,Online,Central,0.0
+ORD_000928,2024-12-18,Beauty,58.86,3,208.54,VIP,33,Store,West,0.0
+ORD_000929,2023-09-16,Sports,227.22,3,681.65,Regular,38,Mobile App,West,0.0
+ORD_000930,2025-04-22,Beauty,92.21,1,92.21,VIP,59,Mobile App,North,0.0
+ORD_000931,2025-01-19,Electronics,930.64,2,1861.28,VIP,20,Store,South,0.0
+ORD_000932,2025-01-17,Sports,133.79,1,133.79,Regular,53,Store,West,0.0
+ORD_000933,2025-01-14,Beauty,123.21,1,123.21,Premium,43,Mobile App,East,0.15
+ORD_000934,2024-05-23,Books,16.66,1,16.66,Premium,62,Mobile App,Central,0.0
+ORD_000935,2023-12-28,Books,43.2,4,193.97,VIP,64,Store,Central,0.0
+ORD_000936,2025-03-26,Beauty,88.76,5,443.82,Premium,38,Online,West,0.0
+ORD_000937,2023-08-30,Clothing,101.66,1,120.2,Premium,75,Online,South,0.0
+ORD_000938,2023-11-05,Home & Garden,172.18,2,428.26,Premium,63,Online,South,0.0
+ORD_000939,2023-12-09,Electronics,272.62,2,656.89,Premium,41,Store,North,0.0
+ORD_000940,2024-09-01,Beauty,121.79,1,121.79,Regular,28,Online,West,0.0
+ORD_000941,2025-02-18,Books,10.58,4,42.32,Regular,54,Store,South,0.1
+ORD_000942,2024-01-18,Clothing,52.2,1,52.2,Regular,44,Mobile App,East,0.0
+ORD_000943,2024-06-16,Beauty,118.77,2,237.53,Regular,58,Online,South,0.0
+ORD_000944,2023-12-03,Clothing,173.59,1,208.23,Regular,18,Store,West,0.1
+ORD_000945,2024-12-27,Sports,247.05,1,282.47,Regular,49,Online,South,0.0
+ORD_000946,2025-06-10,Books,28.15,4,112.6,VIP,56,Online,Central,0.0
+ORD_000947,2023-08-11,Clothing,143.03,3,453.7,Regular,70,Online,South,0.2
+ORD_000948,2024-01-03,Electronics,1323.89,3,3971.67,VIP,60,Mobile App,Central,0.0
+ORD_000949,2025-04-13,Home & Garden,175.59,2,351.18,Regular,44,Store,South,0.0
+ORD_000950,2024-01-17,Beauty,53.39,1,53.39,Regular,62,Online,Central,0.0
+ORD_000951,2025-03-13,Sports,73.79,2,147.58,Regular,55,Online,East,0.0
+ORD_000952,2023-09-10,Electronics,1548.6,4,6194.39,Regular,75,Store,West,0.0
+ORD_000953,2023-10-13,Books,37.17,1,37.17,Regular,26,Online,North,0.15
+ORD_000954,2025-07-16,Home & Garden,174.67,1,174.67,Premium,31,Online,South,0.0
+ORD_000955,2025-04-22,Electronics,263.14,4,1052.56,Regular,58,Online,Central,0.0
+ORD_000956,2023-11-02,Books,38.96,2,92.37,Regular,68,Store,East,0.0
+ORD_000957,2024-06-24,Home & Garden,269.81,1,269.81,Regular,40,Mobile App,South,0.0
+ORD_000958,2025-04-25,Sports,161.51,4,646.04,Premium,49,Online,West,0.0
+ORD_000959,2024-02-05,Sports,84.55,3,253.65,Regular,18,Store,North,0.05
+ORD_000960,2023-08-29,Books,33.27,1,33.27,Regular,69,Online,Central,0.05
+ORD_000961,2024-10-02,Books,11.82,1,11.82,Premium,69,Online,South,0.0
+ORD_000962,2023-08-16,Beauty,42.16,1,42.16,Regular,37,Mobile App,East,0.0
+ORD_000963,2025-01-04,Sports,102.67,2,205.34,Regular,39,Mobile App,West,0.1
+ORD_000964,2025-03-09,Sports,289.03,3,867.09,Regular,30,Store,East,0.0
+ORD_000965,2024-07-16,Beauty,79.68,3,239.04,Premium,20,Online,South,0.0
+ORD_000966,2024-12-10,Clothing,132.9,3,475.43,Regular,52,Online,East,0.0
+ORD_000967,2024-10-01,Beauty,22.56,1,22.56,Regular,54,Online,East,0.0
+ORD_000968,2025-02-23,Sports,30.15,3,90.44,Regular,39,Online,East,0.0
+ORD_000969,2023-10-11,Clothing,59.91,2,119.82,Regular,58,Mobile App,Central,0.15
+ORD_000970,2024-01-21,Sports,191.56,1,191.56,Regular,73,Online,East,0.0
+ORD_000971,2025-07-27,Home & Garden,359.27,1,359.27,Regular,49,Store,South,0.0
+ORD_000972,2024-08-19,Books,43.18,4,172.71,Regular,51,Store,East,0.0
+ORD_000973,2024-01-31,Electronics,740.73,2,1481.47,Premium,23,Online,West,0.05
+ORD_000974,2025-01-04,Electronics,1608.1,1,1608.1,Regular,27,Store,South,0.0
+ORD_000975,2024-07-18,Books,39.3,3,117.89,Regular,67,Online,East,0.0
+ORD_000976,2023-12-29,Electronics,1653.17,4,7545.32,Premium,61,Mobile App,South,0.0
+ORD_000977,2023-09-11,Books,25.5,3,76.51,Regular,25,Store,North,0.0
+ORD_000978,2024-06-18,Electronics,1389.75,2,2779.5,Regular,23,Store,East,0.0
+ORD_000979,2024-11-25,Electronics,251.05,2,554.57,Regular,65,Store,East,0.0
+ORD_000980,2024-06-19,Beauty,135.44,2,270.88,VIP,30,Online,East,0.0
+ORD_000981,2024-05-14,Sports,112.77,1,112.77,Premium,25,Online,East,0.0
+ORD_000982,2024-01-04,Clothing,55.4,2,110.81,Premium,53,Online,Central,0.2
+ORD_000983,2023-11-17,Clothing,117.66,2,303.23,Regular,35,Online,South,0.0
+ORD_000984,2024-05-21,Sports,73.86,4,295.45,Premium,75,Store,East,0.2
+ORD_000985,2025-02-08,Books,12.03,2,24.06,Regular,24,Mobile App,West,0.0
+ORD_000986,2023-09-29,Electronics,705.29,2,1410.57,Premium,75,Mobile App,Central,0.2
+ORD_000987,2025-05-10,Beauty,109.41,1,109.41,Premium,37,Online,East,0.0
+ORD_000988,2024-02-23,Beauty,117.38,1,117.38,Regular,23,Mobile App,West,0.0
+ORD_000989,2025-03-08,Clothing,36.72,3,110.17,Premium,62,Store,West,0.0
+ORD_000990,2023-11-12,Books,22.42,2,53.53,VIP,67,Store,West,0.0
+ORD_000991,2024-03-21,Clothing,175.0,1,175.0,Regular,41,Store,West,0.0
+ORD_000992,2024-02-08,Beauty,138.83,2,277.66,Regular,73,Online,East,0.0
+ORD_000993,2024-11-11,Books,11.21,3,40.1,Regular,40,Store,West,0.0
+ORD_000994,2024-01-26,Home & Garden,387.45,5,1937.26,Regular,26,Online,Central,0.0
+ORD_000995,2023-11-18,Books,42.7,2,105.04,Premium,38,Store,Central,0.0
+ORD_000996,2024-06-09,Sports,151.77,4,659.62,Regular,33,Store,Central,0.0
+ORD_000997,2024-01-14,Books,25.35,2,50.71,Premium,70,Online,Central,0.0
+ORD_000998,2024-10-19,Books,32.69,3,98.07,Regular,62,Online,South,0.0
+ORD_000999,2024-01-29,Beauty,105.4,1,105.4,Premium,63,Online,Central,0.0
+ORD_001000,2024-12-15,Electronics,1204.72,1,1523.25,Regular,53,Mobile App,North,0.0
+ORD_001001,2024-02-01,Home & Garden,478.6,2,957.21,Premium,61,Online,Central,0.0
+ORD_001002,2024-08-27,Home & Garden,254.73,2,509.47,Regular,23,Mobile App,South,0.0
+ORD_001003,2023-12-25,Sports,273.4,4,1347.49,Regular,18,Store,South,0.0
+ORD_001004,2024-11-10,Sports,105.16,1,120.01,Regular,46,Online,South,0.0
+ORD_001005,2024-06-24,Home & Garden,291.58,1,291.58,Regular,37,Store,West,0.0
+ORD_001006,2024-07-22,Electronics,1186.32,1,1186.32,Premium,50,Online,West,0.0
+ORD_001007,2023-12-13,Home & Garden,45.27,1,56.16,Premium,21,Online,North,0.0
+ORD_001008,2024-08-06,Electronics,1729.43,1,1729.43,Premium,33,Online,West,0.0
+ORD_001009,2025-07-24,Sports,133.42,1,147.73,Regular,42,Mobile App,West,0.0
+ORD_001010,2025-02-13,Clothing,139.25,2,278.5,Premium,30,Store,Central,0.0
+ORD_001011,2024-09-01,Home & Garden,401.26,1,401.26,Regular,26,Store,North,0.05
+ORD_001012,2023-10-17,Beauty,17.12,1,17.12,Regular,49,Online,West,0.0
+ORD_001013,2023-12-22,Electronics,317.58,1,406.09,VIP,73,Online,West,0.0
+ORD_001014,2025-07-17,Sports,280.84,2,625.49,Regular,47,Mobile App,Central,0.0
+ORD_001015,2024-11-07,Books,19.37,1,23.24,Regular,18,Store,Central,0.2
+ORD_001016,2024-04-03,Beauty,82.73,2,165.47,Regular,52,Online,Central,0.0
+ORD_001017,2024-08-14,Electronics,1957.56,1,1957.56,Regular,63,Online,East,0.0
+ORD_001018,2023-11-28,Sports,157.42,1,204.13,Regular,27,Online,Central,0.0
+ORD_001019,2024-05-17,Books,30.68,2,61.36,VIP,57,Store,North,0.0
+ORD_001020,2024-04-12,Books,35.23,1,35.23,Regular,60,Mobile App,North,0.0
+ORD_001021,2025-07-05,Beauty,87.79,1,87.79,Regular,57,Store,North,0.0
+ORD_001022,2024-07-21,Sports,239.09,2,543.27,Premium,50,Online,West,0.0
+ORD_001023,2024-07-09,Books,24.12,1,24.12,VIP,36,Online,East,0.0
+ORD_001024,2024-01-23,Electronics,1405.35,2,2810.7,Premium,37,Store,Central,0.0
+ORD_001025,2024-04-27,Electronics,1277.14,1,1277.14,Regular,54,Store,North,0.0
+ORD_001026,2025-06-07,Home & Garden,407.31,3,1221.94,VIP,36,Online,West,0.0
+ORD_001027,2023-10-28,Clothing,111.01,1,111.01,VIP,35,Store,East,0.0
+ORD_001028,2023-12-18,Sports,102.27,3,374.53,Regular,18,Store,North,0.0
+ORD_001029,2025-04-01,Beauty,35.4,2,70.81,Premium,69,Online,South,0.0
+ORD_001030,2024-04-28,Beauty,37.51,1,37.51,Regular,73,Online,North,0.2
+ORD_001031,2024-07-21,Electronics,1936.32,1,1936.32,VIP,70,Online,South,0.0
+ORD_001032,2024-12-24,Books,34.69,3,118.87,Regular,64,Store,South,0.15
+ORD_001033,2024-07-23,Electronics,1302.41,5,6512.05,Regular,25,Online,North,0.0
+ORD_001034,2024-01-23,Books,25.95,1,25.95,Regular,65,Store,Central,0.0
+ORD_001035,2024-03-31,Books,37.34,4,149.36,Regular,34,Online,South,0.0
+ORD_001036,2025-01-29,Books,10.47,1,10.47,Premium,46,Online,West,0.0
+ORD_001037,2025-06-29,Home & Garden,481.45,2,962.91,Premium,20,Store,North,0.0
+ORD_001038,2025-01-30,Beauty,62.77,1,62.77,Premium,57,Online,East,0.0
+ORD_001039,2024-07-13,Home & Garden,115.63,1,115.63,Premium,43,Store,West,0.2
+ORD_001040,2025-06-26,Beauty,47.64,1,47.64,Regular,67,Online,South,0.0
+ORD_001041,2025-01-18,Home & Garden,343.69,1,343.69,Regular,38,Online,Central,0.0
+ORD_001042,2023-08-15,Beauty,13.72,1,13.72,Premium,24,Store,Central,0.15
+ORD_001043,2023-11-19,Beauty,67.68,2,149.82,Regular,34,Mobile App,South,0.1
+ORD_001044,2025-04-30,Electronics,160.92,3,482.76,Premium,75,Mobile App,South,0.0
+ORD_001045,2025-04-09,Beauty,31.44,4,125.77,Regular,23,Online,Central,0.0
+ORD_001046,2023-12-16,Books,36.26,2,92.76,Premium,54,Store,South,0.0
+ORD_001047,2025-07-17,Clothing,65.6,2,155.92,Regular,22,Online,West,0.0
+ORD_001048,2024-05-14,Books,37.69,4,150.76,Regular,67,Store,East,0.0
+ORD_001049,2024-04-24,Clothing,160.53,1,160.53,Regular,42,Mobile App,West,0.0
+ORD_001050,2024-07-10,Electronics,553.57,2,1107.13,Premium,29,Store,West,0.0
+ORD_001051,2023-10-15,Books,41.8,2,83.6,Regular,29,Store,West,0.15
+ORD_001052,2023-11-24,Clothing,117.31,1,150.46,Regular,57,Store,North,0.0
+ORD_001053,2024-04-26,Electronics,106.18,4,424.72,Regular,67,Mobile App,West,0.1
+ORD_001054,2023-08-24,Books,15.95,1,15.95,Regular,20,Online,West,0.0
+ORD_001055,2024-05-03,Clothing,146.01,1,146.01,Regular,54,Online,North,0.0
+ORD_001056,2025-01-13,Beauty,141.89,1,141.89,VIP,45,Online,West,0.0
+ORD_001057,2023-10-15,Sports,87.11,3,261.32,Regular,62,Store,West,0.0
+ORD_001058,2023-12-07,Sports,172.21,1,203.23,Regular,39,Online,East,0.0
+ORD_001059,2025-05-13,Beauty,27.24,1,27.24,Regular,39,Store,North,0.0
+ORD_001060,2024-11-17,Home & Garden,329.18,3,1145.32,Premium,42,Store,South,0.0
+ORD_001061,2024-09-07,Electronics,1279.7,1,1279.7,Regular,23,Online,West,0.0
+ORD_001062,2024-02-15,Clothing,21.14,1,21.14,Regular,33,Store,West,0.2
+ORD_001063,2024-09-06,Electronics,1595.84,1,1595.84,Regular,49,Mobile App,Central,0.0
+ORD_001064,2024-11-07,Electronics,122.23,3,418.89,Regular,43,Mobile App,North,0.0
+ORD_001065,2025-06-04,Beauty,85.62,4,342.48,Regular,73,Online,Central,0.0
+ORD_001066,2024-01-04,Beauty,93.21,2,186.42,VIP,20,Mobile App,South,0.0
+ORD_001067,2024-12-17,Beauty,17.57,1,20.18,Regular,57,Store,North,0.0
+ORD_001068,2025-05-30,Clothing,22.59,2,45.17,Regular,75,Mobile App,East,0.0
+ORD_001069,2023-11-12,Books,34.45,2,77.36,Premium,22,Mobile App,North,0.0
+ORD_001070,2025-04-05,Sports,85.66,2,171.31,Regular,45,Store,East,0.0
+ORD_001071,2025-06-29,Books,22.97,1,22.97,Premium,54,Online,Central,0.0
+ORD_001072,2023-12-23,Home & Garden,420.67,2,1025.26,Regular,66,Online,North,0.0
+ORD_001073,2024-07-13,Electronics,242.64,1,242.64,Regular,28,Store,East,0.15
+ORD_001074,2025-02-21,Clothing,98.96,2,197.92,Regular,20,Online,South,0.0
+ORD_001075,2023-11-15,Beauty,97.68,1,109.02,Regular,19,Online,West,0.0
+ORD_001076,2023-08-12,Clothing,186.7,3,623.09,Regular,55,Online,East,0.0
+ORD_001077,2024-12-04,Beauty,28.92,1,34.19,Regular,51,Store,West,0.1
+ORD_001078,2024-01-30,Sports,215.21,2,430.42,Regular,63,Online,West,0.0
+ORD_001079,2025-04-22,Electronics,1273.02,1,1273.02,Regular,40,Online,West,0.0
+ORD_001080,2023-08-09,Sports,71.84,4,317.33,Premium,24,Store,Central,0.2
+ORD_001081,2025-02-07,Sports,85.3,1,85.3,Regular,60,Store,South,0.0
+ORD_001082,2024-05-14,Electronics,427.75,2,855.5,Premium,61,Online,West,0.0
+ORD_001083,2024-12-26,Clothing,48.76,2,112.82,Regular,21,Mobile App,East,0.0
+ORD_001084,2024-10-23,Home & Garden,177.13,2,354.27,Regular,66,Online,West,0.0
+ORD_001085,2023-09-18,Electronics,1493.81,2,2987.63,Regular,29,Online,South,0.0
+ORD_001086,2023-09-03,Books,29.07,1,29.07,Premium,64,Online,West,0.05
+ORD_001087,2025-04-02,Sports,103.18,1,103.18,Premium,32,Online,North,0.1
+ORD_001088,2024-07-03,Clothing,37.65,2,83.31,Regular,73,Online,South,0.0
+ORD_001089,2024-03-17,Electronics,968.43,3,2905.29,Regular,74,Store,West,0.0
+ORD_001090,2023-12-31,Clothing,187.02,2,421.65,Premium,42,Store,East,0.0
+ORD_001091,2024-02-19,Beauty,57.07,1,57.07,Regular,26,Store,North,0.1
+ORD_001092,2025-07-13,Sports,35.19,2,75.71,Premium,47,Mobile App,West,0.15
+ORD_001093,2024-07-21,Clothing,179.55,3,638.76,Regular,68,Online,Central,0.0
+ORD_001094,2025-03-18,Sports,208.1,3,624.3,Regular,49,Online,South,0.2
+ORD_001095,2025-04-01,Books,36.96,3,110.87,Premium,65,Store,South,0.15
+ORD_001096,2024-04-14,Home & Garden,180.49,1,180.49,Regular,27,Mobile App,Central,0.2
+ORD_001097,2023-08-10,Books,41.83,4,167.31,Regular,64,Online,Central,0.15
+ORD_001098,2023-09-08,Books,31.24,3,93.73,Regular,69,Store,North,0.0
+ORD_001099,2024-11-10,Books,19.62,4,101.24,Regular,18,Store,West,0.0
+ORD_001100,2023-12-18,Home & Garden,158.46,1,189.51,Regular,23,Mobile App,North,0.0
+ORD_001101,2024-06-12,Clothing,146.59,1,154.46,VIP,65,Store,Central,0.0
+ORD_001102,2024-11-12,Books,40.87,1,51.42,Regular,43,Online,South,0.0
+ORD_001103,2024-08-18,Beauty,77.68,1,77.68,Regular,73,Online,North,0.0
+ORD_001104,2024-09-02,Beauty,50.95,1,50.95,Premium,66,Store,East,0.15
+ORD_001105,2025-07-19,Sports,174.17,2,398.18,Regular,68,Online,North,0.0
+ORD_001106,2024-07-13,Beauty,140.85,2,281.71,Regular,61,Online,East,0.0
+ORD_001107,2023-09-26,Electronics,796.76,3,2390.29,Premium,20,Store,East,0.0
+ORD_001108,2024-08-14,Clothing,136.67,1,146.34,Premium,53,Store,South,0.0
+ORD_001109,2024-07-12,Clothing,117.13,3,414.89,Premium,65,Mobile App,Central,0.0
+ORD_001110,2025-07-24,Clothing,155.57,2,368.61,Regular,38,Store,East,0.0
+ORD_001111,2025-01-01,Beauty,64.89,2,129.77,Premium,40,Online,West,0.1
+ORD_001112,2024-12-14,Sports,135.87,1,173.9,Premium,61,Store,Central,0.2
+ORD_001113,2024-11-09,Sports,126.24,4,574.48,Premium,62,Store,North,0.0
+ORD_001114,2024-11-15,Electronics,206.33,2,462.96,Premium,36,Store,North,0.0
+ORD_001115,2024-05-13,Electronics,1409.31,2,2818.62,Regular,73,Store,South,0.0
+ORD_001116,2025-01-19,Beauty,18.06,2,36.13,Regular,61,Online,Central,0.0
+ORD_001117,2023-12-18,Books,23.87,1,27.65,Regular,59,Online,North,0.0
+ORD_001118,2023-10-08,Electronics,1400.0,1,1400.0,VIP,59,Store,East,0.2
+ORD_001119,2024-09-29,Sports,119.27,1,119.27,Regular,38,Store,West,0.0
+ORD_001120,2025-04-03,Beauty,109.08,1,109.08,Premium,46,Store,West,0.0
+ORD_001121,2024-06-11,Sports,61.29,3,199.31,Regular,28,Store,East,0.0
+ORD_001122,2024-08-19,Home & Garden,349.5,1,349.5,VIP,36,Store,West,0.1
+ORD_001123,2024-01-22,Sports,279.14,1,279.14,Regular,36,Online,South,0.0
+ORD_001124,2024-01-31,Beauty,108.54,2,217.07,Regular,27,Store,South,0.0
+ORD_001125,2024-04-04,Electronics,130.25,1,130.25,Premium,26,Mobile App,West,0.0
+ORD_001126,2024-04-27,Home & Garden,104.48,3,313.44,Premium,20,Online,East,0.0
+ORD_001127,2024-07-22,Clothing,87.12,1,95.42,Premium,28,Online,Central,0.0
+ORD_001128,2023-08-30,Books,47.24,1,47.24,Regular,47,Online,East,0.0
+ORD_001129,2024-01-11,Electronics,1941.79,1,1941.79,Premium,50,Online,East,0.0
+ORD_001130,2025-05-28,Beauty,54.9,2,109.8,Regular,66,Store,Central,0.0
+ORD_001131,2025-06-17,Clothing,163.92,1,189.07,Premium,46,Mobile App,East,0.0
+ORD_001132,2024-12-07,Electronics,321.88,1,379.92,VIP,37,Mobile App,North,0.0
+ORD_001133,2024-03-17,Books,24.3,3,72.89,Premium,56,Online,South,0.0
+ORD_001134,2025-03-24,Sports,86.09,2,172.18,Regular,35,Online,South,0.0
+ORD_001135,2023-08-28,Electronics,1099.9,5,5499.52,Regular,60,Store,North,0.0
+ORD_001136,2025-01-10,Books,17.78,3,53.33,Premium,56,Mobile App,Central,0.0
+ORD_001137,2023-10-01,Beauty,54.18,1,54.18,Regular,41,Online,West,0.15
+ORD_001138,2024-08-20,Electronics,605.07,1,605.07,Regular,46,Online,Central,0.0
+ORD_001139,2023-11-02,Clothing,151.01,3,524.5,Regular,44,Online,West,0.0
+ORD_001140,2024-10-12,Beauty,108.81,2,217.63,Regular,56,Online,North,0.2
+ORD_001141,2023-12-30,Clothing,74.58,3,249.08,Premium,51,Store,East,0.0
+ORD_001142,2025-03-31,Books,13.54,1,13.54,Premium,35,Store,West,0.0
+ORD_001143,2024-01-31,Sports,152.08,2,304.17,Premium,26,Mobile App,South,0.0
+ORD_001144,2024-02-11,Books,21.58,2,43.16,Regular,70,Mobile App,East,0.0
+ORD_001145,2025-03-26,Home & Garden,254.64,3,763.92,Regular,32,Store,North,0.0
+ORD_001146,2023-08-07,Clothing,67.28,1,71.9,Regular,71,Store,West,0.0
+ORD_001147,2025-06-16,Home & Garden,217.32,4,869.28,VIP,62,Online,South,0.0
+ORD_001148,2023-09-03,Electronics,1541.2,2,3082.4,Regular,22,Mobile App,Central,0.0
+ORD_001149,2024-08-09,Sports,157.13,5,939.77,Premium,34,Mobile App,West,0.0
+ORD_001150,2023-12-05,Home & Garden,263.58,2,597.03,Regular,72,Online,East,0.0
+ORD_001151,2023-10-03,Clothing,77.54,1,77.54,Premium,26,Store,East,0.0
+ORD_001152,2024-01-19,Electronics,581.71,1,581.71,VIP,40,Online,North,0.0
+ORD_001153,2024-05-27,Home & Garden,271.86,2,543.72,Premium,50,Store,South,0.0
+ORD_001154,2025-05-09,Clothing,157.64,2,315.29,Regular,28,Online,Central,0.0
+ORD_001155,2024-06-30,Home & Garden,416.01,2,832.02,Regular,37,Online,East,0.0
+ORD_001156,2025-07-06,Beauty,86.34,2,172.68,Regular,40,Store,South,0.2
+ORD_001157,2023-08-18,Clothing,113.27,3,374.15,Regular,49,Online,West,0.0
+ORD_001158,2024-01-18,Electronics,474.86,3,1424.58,Premium,71,Store,South,0.0
+ORD_001159,2025-02-27,Sports,214.65,3,643.96,Premium,72,Mobile App,Central,0.0
+ORD_001160,2025-08-03,Sports,218.12,2,518.0,Regular,44,Online,West,0.0
+ORD_001161,2023-12-02,Clothing,186.21,1,210.01,Regular,37,Online,East,0.0
+ORD_001162,2024-10-30,Sports,168.86,4,675.43,Regular,29,Store,East,0.0
+ORD_001163,2023-09-03,Beauty,118.72,1,118.72,Regular,62,Online,South,0.05
+ORD_001164,2024-06-14,Clothing,57.77,1,61.33,Regular,45,Store,North,0.0
+ORD_001165,2024-12-12,Books,9.36,3,33.52,Premium,55,Store,North,0.2
+ORD_001166,2024-04-20,Electronics,179.18,1,179.18,Premium,66,Mobile App,North,0.0
+ORD_001167,2023-12-09,Sports,81.49,1,90.11,Premium,29,Online,East,0.0
+ORD_001168,2024-01-01,Beauty,142.15,3,426.45,VIP,40,Online,East,0.0
+ORD_001169,2024-01-16,Sports,239.72,3,719.16,Premium,50,Mobile App,Central,0.0
+ORD_001170,2023-10-13,Electronics,1648.19,1,1648.19,Premium,51,Online,South,0.0
+ORD_001171,2024-02-17,Home & Garden,98.31,1,98.31,Regular,18,Mobile App,North,0.0
+ORD_001172,2024-03-11,Sports,259.11,3,777.32,Premium,62,Mobile App,Central,0.0
+ORD_001173,2024-02-10,Books,33.25,1,33.25,Regular,42,Online,West,0.1
+ORD_001174,2024-03-11,Sports,78.82,1,78.82,Regular,25,Store,West,0.1
+ORD_001175,2023-11-25,Sports,62.38,1,75.56,Regular,63,Online,East,0.0
+ORD_001176,2023-09-15,Electronics,620.84,1,620.84,VIP,47,Store,Central,0.1
+ORD_001177,2024-06-19,Beauty,146.78,4,587.14,Regular,53,Online,West,0.0
+ORD_001178,2024-05-28,Books,14.92,3,44.76,Regular,61,Online,East,0.15
+ORD_001179,2024-02-04,Electronics,1997.51,1,1997.51,Regular,24,Online,West,0.0
+ORD_001180,2024-10-26,Sports,195.8,1,195.8,Premium,43,Online,West,0.05
+ORD_001181,2025-07-16,Sports,293.83,1,311.38,Premium,75,Online,South,0.0
+ORD_001182,2024-02-24,Home & Garden,112.13,1,112.13,Premium,43,Online,North,0.0
+ORD_001183,2024-03-30,Books,31.21,1,31.21,Regular,55,Online,East,0.2
+ORD_001184,2025-05-25,Books,24.24,2,48.49,Premium,43,Online,West,0.0
+ORD_001185,2025-01-09,Home & Garden,86.48,2,172.95,Regular,25,Online,East,0.0
+ORD_001186,2024-12-18,Books,19.23,2,47.99,Regular,19,Store,North,0.0
+ORD_001187,2023-10-13,Books,37.12,1,37.12,Regular,42,Online,Central,0.0
+ORD_001188,2025-06-30,Home & Garden,89.08,3,267.23,Regular,24,Online,North,0.0
+ORD_001189,2025-06-11,Sports,236.08,1,271.33,Premium,30,Store,East,0.0
+ORD_001190,2024-12-19,Sports,96.96,2,234.51,Premium,73,Mobile App,Central,0.0
+ORD_001191,2023-09-06,Books,38.42,1,38.42,Regular,38,Mobile App,West,0.15
+ORD_001192,2024-10-31,Books,10.3,5,51.48,Premium,74,Online,South,0.1
+ORD_001193,2024-12-20,Books,15.38,1,18.67,Regular,49,Store,North,0.0
+ORD_001194,2024-12-19,Beauty,89.76,1,108.83,Regular,48,Mobile App,West,0.0
+ORD_001195,2024-01-12,Sports,32.26,1,32.26,Premium,42,Online,Central,0.2
+ORD_001196,2025-06-27,Home & Garden,386.74,1,386.74,Regular,19,Store,Central,0.0
+ORD_001197,2023-09-20,Clothing,170.65,1,170.65,Regular,65,Mobile App,Central,0.0
+ORD_001198,2023-09-01,Beauty,54.96,1,54.96,Regular,40,Store,West,0.1
+ORD_001199,2024-07-29,Electronics,1205.48,1,1205.48,Premium,55,Online,North,0.1
+ORD_001200,2025-07-09,Electronics,1657.21,2,3314.42,Regular,19,Store,Central,0.05
+ORD_001201,2024-07-03,Electronics,948.77,1,948.77,Regular,54,Online,Central,0.0
+ORD_001202,2024-10-09,Home & Garden,24.9,1,24.9,Regular,19,Online,East,0.0
+ORD_001203,2024-08-25,Sports,132.33,3,422.81,Regular,69,Mobile App,West,0.0
+ORD_001204,2025-06-26,Clothing,80.47,4,346.04,Regular,66,Online,East,0.0
+ORD_001205,2024-06-06,Home & Garden,485.17,1,485.17,Premium,71,Online,Central,0.0
+ORD_001206,2024-03-11,Home & Garden,114.88,1,114.88,Regular,43,Mobile App,South,0.2
+ORD_001207,2025-05-05,Beauty,144.32,3,432.97,Regular,55,Store,North,0.0
+ORD_001208,2025-04-02,Home & Garden,147.58,1,147.58,Regular,51,Mobile App,West,0.0
+ORD_001209,2024-10-15,Clothing,74.27,1,74.27,Regular,50,Online,East,0.1
+ORD_001210,2024-10-21,Beauty,74.71,3,224.13,Premium,34,Store,Central,0.15
+ORD_001211,2025-01-13,Books,36.86,3,110.59,Regular,74,Store,North,0.0
+ORD_001212,2025-05-08,Beauty,71.99,1,71.99,Regular,31,Store,West,0.15
+ORD_001213,2024-05-05,Beauty,86.92,4,347.67,Regular,67,Online,West,0.0
+ORD_001214,2025-03-06,Beauty,99.61,1,99.61,Regular,41,Mobile App,West,0.0
+ORD_001215,2024-01-03,Clothing,47.09,1,47.09,Regular,37,Store,West,0.0
+ORD_001216,2024-09-28,Home & Garden,432.19,1,432.19,Regular,58,Online,South,0.0
+ORD_001217,2024-09-30,Home & Garden,414.5,2,829.0,VIP,34,Store,Central,0.0
+ORD_001218,2024-04-02,Books,19.54,1,19.54,Premium,33,Online,East,0.0
+ORD_001219,2024-11-22,Books,32.39,1,36.94,Regular,59,Online,North,0.0
+ORD_001220,2024-05-10,Clothing,25.25,2,50.49,Premium,35,Mobile App,Central,0.0
+ORD_001221,2024-02-01,Beauty,130.09,2,260.18,Regular,49,Online,North,0.0
+ORD_001222,2023-09-30,Electronics,662.11,1,662.11,Regular,75,Online,West,0.0
+ORD_001223,2024-08-11,Beauty,98.57,3,295.7,Regular,33,Online,North,0.05
+ORD_001224,2025-03-11,Beauty,66.03,1,66.03,Regular,67,Online,Central,0.2
+ORD_001225,2024-04-18,Books,45.38,2,90.77,Regular,67,Store,East,0.0
+ORD_001226,2024-07-07,Sports,227.74,1,271.08,Regular,65,Online,South,0.0
+ORD_001227,2024-03-15,Clothing,35.3,3,105.91,Regular,46,Store,West,0.1
+ORD_001228,2024-04-21,Sports,40.38,1,40.38,Premium,62,Online,North,0.0
+ORD_001229,2024-06-24,Sports,141.54,2,312.65,Regular,35,Mobile App,South,0.0
+ORD_001230,2024-08-15,Home & Garden,25.22,1,25.22,Regular,56,Online,North,0.0
+ORD_001231,2025-06-13,Electronics,1396.83,3,4190.49,Regular,33,Store,East,0.0
+ORD_001232,2025-02-20,Books,22.37,1,22.37,Regular,41,Online,North,0.0
+ORD_001233,2025-02-02,Clothing,174.38,4,697.51,Premium,43,Mobile App,East,0.0
+ORD_001234,2024-06-08,Electronics,1875.83,1,1875.83,Premium,37,Store,South,0.0
+ORD_001235,2024-01-16,Books,35.25,1,35.25,Premium,67,Mobile App,West,0.0
+ORD_001236,2023-09-08,Home & Garden,435.23,3,1305.68,Premium,49,Online,West,0.0
+ORD_001237,2024-09-30,Home & Garden,362.93,1,362.93,VIP,70,Online,North,0.0
+ORD_001238,2024-01-16,Beauty,42.7,2,85.39,Premium,56,Store,Central,0.15
+ORD_001239,2024-07-04,Books,37.81,5,189.04,Regular,59,Online,South,0.0
+ORD_001240,2025-05-11,Books,35.39,1,35.39,Regular,30,Online,East,0.15
+ORD_001241,2024-06-21,Sports,38.09,1,44.83,Premium,63,Mobile App,South,0.2
+ORD_001242,2025-07-07,Books,41.71,1,41.71,Regular,48,Mobile App,South,0.0
+ORD_001243,2024-04-27,Clothing,143.74,1,143.74,Regular,69,Online,East,0.0
+ORD_001244,2024-02-24,Electronics,729.53,2,1459.06,Regular,71,Mobile App,Central,0.15
+ORD_001245,2024-03-21,Electronics,1898.81,1,1898.81,Regular,59,Online,Central,0.0
+ORD_001246,2025-05-07,Clothing,183.23,1,183.23,Premium,30,Store,East,0.0
+ORD_001247,2025-07-23,Clothing,28.96,3,93.17,Regular,56,Mobile App,East,0.0
+ORD_001248,2024-08-15,Clothing,152.4,3,536.8,Premium,45,Online,West,0.2
+ORD_001249,2024-12-23,Electronics,438.97,1,516.41,Regular,36,Store,West,0.1
+ORD_001250,2024-10-19,Clothing,128.01,1,128.01,Regular,36,Mobile App,South,0.0
+ORD_001251,2024-10-06,Clothing,84.18,3,252.54,VIP,34,Online,South,0.1
+ORD_001252,2025-04-28,Books,46.29,2,92.59,Regular,61,Online,West,0.0
+ORD_001253,2023-10-31,Electronics,964.32,1,964.32,Regular,62,Online,West,0.0
+ORD_001254,2025-07-08,Clothing,148.4,3,484.57,Regular,65,Store,Central,0.0
+ORD_001255,2023-11-10,Sports,41.16,2,105.5,Regular,33,Store,West,0.0
+ORD_001256,2025-04-16,Beauty,145.57,1,145.57,Regular,65,Online,North,0.0
+ORD_001257,2023-08-10,Home & Garden,259.7,1,259.7,Regular,43,Store,East,0.0
+ORD_001258,2023-12-18,Sports,34.49,4,177.45,Regular,50,Store,West,0.05
+ORD_001259,2024-11-26,Clothing,36.14,2,83.26,VIP,45,Mobile App,South,0.0
+ORD_001260,2024-06-20,Electronics,1958.11,2,3916.21,Premium,71,Mobile App,East,0.0
+ORD_001261,2024-08-08,Books,21.32,1,21.32,Regular,57,Online,East,0.0
+ORD_001262,2025-01-15,Home & Garden,192.4,3,577.2,Premium,66,Online,South,0.15
+ORD_001263,2025-02-24,Beauty,100.95,2,201.9,Regular,30,Online,South,0.0
+ORD_001264,2023-09-29,Clothing,52.97,5,264.83,Regular,28,Online,West,0.0
+ORD_001265,2024-10-24,Electronics,1990.64,2,3981.29,Premium,20,Online,West,0.0
+ORD_001266,2024-08-04,Beauty,90.72,2,181.43,Regular,25,Online,South,0.0
+ORD_001267,2023-12-09,Home & Garden,60.39,1,75.48,Regular,29,Online,South,0.0
+ORD_001268,2024-05-10,Sports,270.0,4,1079.98,Premium,55,Mobile App,North,0.0
+ORD_001269,2025-01-24,Sports,74.66,1,74.66,VIP,33,Online,West,0.0
+ORD_001270,2025-06-28,Electronics,1780.37,1,1780.37,Regular,43,Online,East,0.0
+ORD_001271,2025-03-31,Electronics,1682.11,2,3364.21,Regular,47,Online,West,0.0
+ORD_001272,2024-11-11,Beauty,143.95,2,372.54,Regular,18,Store,East,0.0
+ORD_001273,2025-06-06,Sports,286.5,1,306.38,Premium,64,Mobile App,Central,0.0
+ORD_001274,2023-09-23,Beauty,53.2,1,53.2,Regular,65,Online,North,0.0
+ORD_001275,2025-02-15,Sports,129.88,3,389.65,Regular,29,Online,South,0.0
+ORD_001276,2024-09-16,Electronics,76.5,1,76.5,Regular,67,Store,West,0.15
+ORD_001277,2024-05-22,Beauty,116.6,3,349.79,Regular,25,Online,East,0.0
+ORD_001278,2024-12-19,Books,39.44,3,133.24,Premium,75,Online,Central,0.0
+ORD_001279,2025-06-16,Electronics,1672.5,1,1672.5,Regular,49,Mobile App,West,0.0
+ORD_001280,2024-09-05,Books,20.74,1,20.74,VIP,23,Store,West,0.0
+ORD_001281,2024-08-16,Sports,76.25,2,171.86,Regular,23,Store,North,0.0
+ORD_001282,2024-11-21,Beauty,45.27,1,54.57,Regular,27,Store,West,0.0
+ORD_001283,2025-05-28,Sports,48.09,5,240.46,Regular,23,Store,West,0.0
+ORD_001284,2024-06-07,Clothing,197.15,1,222.48,Regular,37,Online,South,0.0
+ORD_001285,2024-06-02,Sports,38.13,2,85.9,VIP,50,Store,North,0.0
+ORD_001286,2024-09-30,Electronics,956.08,1,956.08,Regular,70,Store,East,0.0
+ORD_001287,2024-08-02,Home & Garden,299.0,1,299.0,Premium,19,Mobile App,North,0.0
+ORD_001288,2025-06-12,Books,14.6,2,29.21,Regular,20,Online,North,0.15
+ORD_001289,2024-10-04,Beauty,55.18,1,55.18,Regular,47,Online,West,0.0
+ORD_001290,2025-05-04,Home & Garden,180.55,2,361.09,Premium,69,Online,South,0.0
+ORD_001291,2024-03-08,Clothing,34.08,1,34.08,Regular,34,Online,North,0.0
+ORD_001292,2024-10-22,Sports,29.93,3,89.78,Regular,18,Online,South,0.0
+ORD_001293,2025-06-06,Books,28.41,1,28.41,Premium,60,Store,Central,0.0
+ORD_001294,2024-12-15,Home & Garden,314.97,1,397.16,Regular,41,Store,West,0.0
+ORD_001295,2023-11-02,Clothing,44.32,4,225.47,Regular,62,Mobile App,South,0.0
+ORD_001296,2024-03-06,Books,35.94,4,143.78,VIP,45,Store,Central,0.0
+ORD_001297,2024-02-16,Electronics,636.79,2,1273.58,Regular,48,Store,West,0.0
+ORD_001298,2023-08-27,Electronics,317.82,2,635.64,Premium,49,Online,West,0.15
+ORD_001299,2023-08-25,Books,26.73,2,53.45,Premium,71,Online,West,0.2
+ORD_001300,2023-09-26,Home & Garden,18.82,3,56.46,Regular,63,Mobile App,West,0.0
+ORD_001301,2024-10-03,Books,39.48,1,39.48,Regular,53,Mobile App,East,0.0
+ORD_001302,2023-09-11,Books,25.99,1,25.99,Premium,64,Store,Central,0.0
+ORD_001303,2025-06-29,Books,19.28,2,38.55,Regular,45,Store,Central,0.0
+ORD_001304,2024-06-23,Sports,42.47,1,45.33,Regular,44,Online,West,0.0
+ORD_001305,2025-05-03,Beauty,61.81,1,61.81,VIP,19,Mobile App,South,0.0
+ORD_001306,2024-05-25,Beauty,40.95,1,40.95,Premium,32,Online,Central,0.0
+ORD_001307,2024-03-16,Sports,274.99,2,549.99,Premium,56,Mobile App,West,0.0
+ORD_001308,2023-12-17,Home & Garden,365.65,1,460.43,Premium,44,Online,East,0.0
+ORD_001309,2024-01-17,Sports,81.98,5,409.91,Regular,23,Store,West,0.0
+ORD_001310,2023-12-15,Clothing,55.91,2,144.09,Premium,24,Online,West,0.0
+ORD_001311,2024-12-22,Home & Garden,128.84,4,657.69,Regular,19,Store,East,0.0
+ORD_001312,2024-08-04,Beauty,36.41,1,36.41,Regular,75,Store,Central,0.0
+ORD_001313,2023-09-06,Electronics,673.15,1,673.15,Regular,25,Online,Central,0.05
+ORD_001314,2024-03-21,Books,20.31,1,20.31,Premium,40,Mobile App,North,0.0
+ORD_001315,2025-02-25,Home & Garden,449.71,1,449.71,Regular,73,Online,Central,0.0
+ORD_001316,2025-04-14,Beauty,24.7,1,24.7,Premium,69,Store,West,0.15
+ORD_001317,2023-11-26,Electronics,1574.22,1,1990.95,Regular,72,Online,North,0.0
+ORD_001318,2023-09-16,Sports,53.99,3,161.96,VIP,73,Online,South,0.0
+ORD_001319,2024-08-09,Clothing,151.1,1,169.95,Premium,66,Mobile App,Central,0.0
+ORD_001320,2023-11-14,Clothing,136.48,1,173.29,Regular,26,Online,North,0.0
+ORD_001321,2024-10-27,Books,34.65,2,69.31,Regular,39,Online,East,0.15
+ORD_001322,2025-01-03,Clothing,35.34,2,70.68,Regular,66,Store,West,0.0
+ORD_001323,2024-08-08,Beauty,83.82,1,83.82,Regular,44,Store,South,0.2
+ORD_001324,2023-12-24,Books,26.54,1,33.41,VIP,47,Store,Central,0.0
+ORD_001325,2024-08-09,Electronics,913.03,1,913.03,Premium,63,Online,Central,0.0
+ORD_001326,2023-10-15,Electronics,709.69,4,2838.77,Regular,67,Store,South,0.0
+ORD_001327,2024-10-22,Electronics,776.03,1,776.03,Regular,75,Mobile App,Central,0.05
+ORD_001328,2023-10-03,Beauty,147.31,3,441.92,Regular,74,Online,Central,0.0
+ORD_001329,2024-06-02,Books,26.08,3,78.24,VIP,53,Online,East,0.0
+ORD_001330,2024-06-21,Home & Garden,15.07,1,15.07,Regular,57,Mobile App,South,0.2
+ORD_001331,2025-07-22,Books,22.28,1,22.28,Regular,57,Store,Central,0.2
+ORD_001332,2025-06-02,Books,37.9,1,37.9,Regular,68,Online,West,0.0
+ORD_001333,2024-02-23,Home & Garden,55.88,1,55.88,Regular,42,Store,South,0.0
+ORD_001334,2025-01-18,Sports,82.46,1,82.46,Regular,37,Mobile App,Central,0.2
+ORD_001335,2024-07-18,Beauty,29.28,3,87.85,Regular,55,Online,East,0.2
+ORD_001336,2024-04-08,Home & Garden,367.36,1,367.36,Regular,25,Online,North,0.0
+ORD_001337,2024-08-20,Home & Garden,319.09,2,638.18,Regular,21,Online,North,0.0
+ORD_001338,2024-11-06,Home & Garden,263.37,1,319.5,Premium,33,Online,Central,0.1
+ORD_001339,2025-05-08,Beauty,86.99,2,173.99,Regular,40,Mobile App,East,0.0
+ORD_001340,2024-05-22,Beauty,120.95,3,362.84,Regular,61,Online,South,0.0
+ORD_001341,2024-08-25,Sports,182.25,1,213.86,Regular,55,Store,South,0.2
+ORD_001342,2024-08-08,Books,13.92,3,41.76,Premium,71,Mobile App,West,0.0
+ORD_001343,2023-10-27,Electronics,171.28,1,171.28,Regular,48,Store,South,0.0
+ORD_001344,2024-11-03,Electronics,770.12,1,927.07,Premium,55,Online,Central,0.0
+ORD_001345,2024-09-12,Home & Garden,298.39,1,298.39,VIP,46,Online,West,0.0
+ORD_001346,2024-10-04,Clothing,39.08,5,195.42,VIP,26,Store,Central,0.15
+ORD_001347,2025-01-27,Electronics,1404.22,2,2808.44,Regular,20,Mobile App,South,0.0
+ORD_001348,2025-02-27,Home & Garden,392.72,1,392.72,Regular,25,Store,North,0.15
+ORD_001349,2024-08-17,Sports,104.64,1,114.66,Regular,25,Online,East,0.0
+ORD_001350,2024-08-22,Home & Garden,149.7,2,299.4,Premium,27,Online,Central,0.05
+ORD_001351,2024-10-09,Electronics,1876.8,4,7507.2,Premium,36,Mobile App,South,0.0
+ORD_001352,2024-02-08,Beauty,72.89,2,145.78,Premium,22,Online,North,0.1
+ORD_001353,2024-10-05,Books,32.92,3,98.77,Regular,75,Mobile App,East,0.0
+ORD_001354,2024-08-25,Books,43.38,5,216.89,Regular,26,Online,South,0.0
+ORD_001355,2025-01-02,Beauty,77.23,3,231.68,Regular,46,Mobile App,South,0.0
+ORD_001356,2024-07-03,Electronics,1609.63,1,1609.63,Regular,44,Mobile App,West,0.0
+ORD_001357,2024-03-30,Books,20.03,2,40.05,Premium,65,Online,East,0.15
+ORD_001358,2025-05-27,Electronics,1738.61,2,3477.22,Regular,54,Store,East,0.0
+ORD_001359,2025-03-01,Beauty,31.71,2,63.42,Regular,30,Online,Central,0.0
+ORD_001360,2025-02-09,Sports,233.34,1,233.34,Premium,51,Online,South,0.0
+ORD_001361,2024-12-04,Sports,217.31,2,501.98,Regular,29,Store,North,0.2
+ORD_001362,2024-03-02,Clothing,169.34,2,338.69,Regular,55,Online,West,0.0
+ORD_001363,2023-10-30,Sports,191.89,1,191.89,Premium,20,Mobile App,West,0.0
+ORD_001364,2023-08-28,Home & Garden,226.95,1,226.95,Premium,73,Online,Central,0.0
+ORD_001365,2024-06-24,Books,20.29,1,20.29,VIP,52,Online,South,0.0
+ORD_001366,2024-05-23,Clothing,52.88,1,52.88,Regular,27,Online,East,0.0
+ORD_001367,2024-09-25,Beauty,37.84,1,37.84,Regular,38,Store,South,0.0
+ORD_001368,2023-09-01,Beauty,22.9,1,22.9,Regular,38,Online,South,0.0
+ORD_001369,2024-09-30,Home & Garden,140.1,1,140.1,Premium,75,Mobile App,North,0.0
+ORD_001370,2023-09-27,Clothing,63.13,1,63.13,Premium,33,Store,West,0.0
+ORD_001371,2025-01-06,Sports,130.89,2,261.78,Regular,38,Online,West,0.0
+ORD_001372,2025-02-21,Books,11.99,1,11.99,Premium,74,Online,North,0.05
+ORD_001373,2024-05-06,Sports,289.96,4,1159.82,Regular,33,Online,Central,0.0
+ORD_001374,2025-06-02,Clothing,74.83,2,161.71,Regular,23,Store,Central,0.0
+ORD_001375,2023-12-28,Home & Garden,263.26,2,680.4,VIP,52,Store,West,0.05
+ORD_001376,2025-02-23,Books,11.67,2,23.34,Premium,71,Mobile App,Central,0.0
+ORD_001377,2024-05-27,Beauty,124.3,1,124.3,Regular,35,Online,Central,0.15
+ORD_001378,2024-04-17,Beauty,66.32,1,66.32,Premium,58,Store,South,0.0
+ORD_001379,2025-03-26,Sports,81.89,2,163.78,Regular,54,Store,North,0.2
+ORD_001380,2024-06-07,Electronics,779.8,1,779.8,Premium,64,Store,Central,0.05
+ORD_001381,2024-05-17,Books,18.43,1,18.43,Regular,69,Online,East,0.0
+ORD_001382,2025-07-03,Home & Garden,323.06,3,969.17,VIP,63,Store,West,0.0
+ORD_001383,2024-05-10,Clothing,139.21,1,139.21,Regular,31,Store,West,0.0
+ORD_001384,2025-04-09,Home & Garden,22.7,3,68.1,Regular,59,Online,North,0.0
+ORD_001385,2025-04-19,Books,9.66,2,19.33,Regular,44,Online,Central,0.05
+ORD_001386,2025-07-18,Beauty,81.01,1,81.01,Regular,23,Mobile App,North,0.0
+ORD_001387,2025-02-06,Electronics,1790.52,4,7162.06,Regular,46,Store,North,0.0
+ORD_001388,2024-07-31,Books,43.1,1,43.1,Regular,29,Online,North,0.0
+ORD_001389,2023-12-10,Books,24.82,2,62.13,Regular,32,Online,North,0.0
+ORD_001390,2025-07-01,Beauty,50.64,1,50.64,Regular,58,Online,East,0.2
+ORD_001391,2024-03-18,Clothing,196.42,1,196.42,VIP,20,Online,East,0.0
+ORD_001392,2024-12-21,Beauty,104.92,2,235.48,Premium,70,Mobile App,West,0.05
+ORD_001393,2024-05-15,Sports,154.46,2,308.92,Premium,60,Online,Central,0.05
+ORD_001394,2025-06-23,Beauty,77.12,1,77.12,Regular,26,Store,North,0.2
+ORD_001395,2023-12-13,Home & Garden,467.78,2,1165.5,Regular,74,Online,Central,0.0
+ORD_001396,2024-05-11,Clothing,138.06,2,276.13,Regular,57,Store,East,0.2
+ORD_001397,2025-07-02,Sports,227.68,2,536.44,Premium,59,Store,North,0.15
+ORD_001398,2024-06-30,Books,43.77,3,131.32,Regular,25,Store,Central,0.0
+ORD_001399,2024-11-24,Books,24.46,2,54.27,Regular,74,Online,South,0.0
+ORD_001400,2024-10-08,Sports,141.02,1,141.02,Regular,39,Store,North,0.05
+ORD_001401,2025-03-12,Electronics,1683.86,3,5051.59,Regular,22,Online,South,0.15
+ORD_001402,2024-02-22,Clothing,79.26,4,317.04,Regular,19,Store,West,0.0
+ORD_001403,2024-10-20,Electronics,1205.44,2,2410.87,Regular,39,Online,East,0.0
+ORD_001404,2024-04-14,Electronics,973.47,1,973.47,Regular,71,Store,North,0.0
+ORD_001405,2024-07-11,Sports,243.38,2,556.34,Regular,67,Store,Central,0.0
+ORD_001406,2023-11-10,Beauty,75.27,3,262.54,Regular,20,Store,West,0.0
+ORD_001407,2025-07-15,Electronics,1339.74,2,2679.47,Regular,21,Online,East,0.15
+ORD_001408,2025-04-21,Beauty,73.3,2,146.6,Premium,53,Mobile App,North,0.0
+ORD_001409,2024-06-01,Books,26.07,2,52.13,Premium,44,Online,South,0.0
+ORD_001410,2025-04-09,Beauty,99.24,2,198.48,Regular,47,Online,West,0.0
+ORD_001411,2025-05-01,Sports,52.85,2,105.7,Regular,61,Online,North,0.0
+ORD_001412,2024-11-11,Sports,115.25,4,572.88,Regular,18,Online,Central,0.0
+ORD_001413,2025-04-03,Clothing,146.23,1,146.23,Premium,34,Store,East,0.2
+ORD_001414,2024-10-09,Books,38.98,1,38.98,Premium,33,Online,South,0.0
+ORD_001415,2023-09-19,Electronics,298.98,3,896.93,Regular,50,Online,East,0.0
+ORD_001416,2024-06-18,Sports,268.44,4,1177.15,Regular,27,Online,West,0.0
+ORD_001417,2024-07-21,Home & Garden,155.11,2,310.21,VIP,60,Online,South,0.2
+ORD_001418,2023-10-02,Clothing,111.28,1,111.28,Regular,72,Store,North,0.0
+ORD_001419,2024-10-10,Home & Garden,104.28,1,104.28,Premium,68,Mobile App,North,0.05
+ORD_001420,2024-07-19,Clothing,140.21,1,161.79,Regular,47,Online,Central,0.0
+ORD_001421,2025-03-19,Sports,289.84,1,289.84,Premium,44,Online,East,0.0
+ORD_001422,2024-01-18,Electronics,935.89,1,935.89,Premium,20,Online,West,0.0
+ORD_001423,2024-03-16,Electronics,1295.6,2,2591.19,Regular,47,Mobile App,Central,0.0
+ORD_001424,2024-03-10,Clothing,106.53,4,426.14,Premium,70,Mobile App,East,0.0
+ORD_001425,2024-08-23,Clothing,92.06,1,96.8,Regular,18,Store,East,0.0
+ORD_001426,2024-08-05,Electronics,961.9,2,1923.8,Regular,30,Online,Central,0.15
+ORD_001427,2024-08-07,Electronics,1756.67,1,1756.67,Regular,29,Online,South,0.1
+ORD_001428,2024-04-29,Beauty,38.53,2,77.06,Regular,33,Online,South,0.0
+ORD_001429,2024-02-21,Electronics,393.35,2,786.7,Regular,19,Mobile App,South,0.0
+ORD_001430,2024-08-27,Beauty,115.24,2,230.47,Regular,37,Mobile App,West,0.05
+ORD_001431,2024-04-06,Home & Garden,407.6,2,815.2,Regular,51,Store,Central,0.0
+ORD_001432,2024-10-22,Beauty,22.63,4,90.54,Regular,68,Online,South,0.05
+ORD_001433,2024-02-17,Sports,129.0,1,129.0,Regular,56,Online,West,0.0
+ORD_001434,2025-05-17,Clothing,185.78,2,371.56,Regular,55,Mobile App,South,0.0
+ORD_001435,2025-02-03,Home & Garden,397.95,3,1193.85,Regular,21,Mobile App,East,0.0
+ORD_001436,2023-12-12,Sports,291.31,1,366.15,Regular,31,Store,North,0.0
+ORD_001437,2025-06-14,Sports,42.84,3,142.16,Premium,66,Online,Central,0.0
+ORD_001438,2025-01-17,Books,17.16,4,68.64,Regular,51,Mobile App,West,0.0
+ORD_001439,2024-12-23,Books,20.73,5,127.51,Regular,68,Store,Central,0.0
+ORD_001440,2024-03-04,Clothing,181.08,1,181.08,Regular,33,Store,West,0.0
+ORD_001441,2024-03-15,Home & Garden,221.14,2,442.27,VIP,28,Store,East,0.0
+ORD_001442,2024-04-21,Sports,48.31,1,48.31,Premium,36,Mobile App,West,0.0
+ORD_001443,2025-01-17,Home & Garden,101.31,1,101.31,VIP,57,Online,East,0.2
+ORD_001444,2024-10-14,Books,28.7,3,86.11,Regular,69,Online,West,0.0
+ORD_001445,2024-06-24,Home & Garden,190.43,1,190.43,Premium,34,Online,North,0.05
+ORD_001446,2024-08-06,Electronics,624.31,1,624.31,Regular,52,Mobile App,North,0.0
+ORD_001447,2024-05-14,Clothing,37.71,1,37.71,Regular,52,Online,South,0.0
+ORD_001448,2024-07-11,Clothing,127.37,1,152.8,Premium,30,Mobile App,Central,0.1
+ORD_001449,2025-02-11,Home & Garden,17.23,2,34.45,Regular,68,Store,West,0.1
+ORD_001450,2024-09-23,Sports,186.72,2,373.43,Premium,66,Store,South,0.2
+ORD_001451,2024-09-15,Clothing,60.85,3,182.54,Regular,48,Online,South,0.0
+ORD_001452,2025-01-14,Sports,241.14,4,964.57,Regular,64,Store,West,0.0
+ORD_001453,2024-07-18,Electronics,561.42,1,561.42,Premium,31,Store,West,0.15
+ORD_001454,2024-11-07,Sports,31.61,1,37.94,Regular,37,Store,North,0.05
+ORD_001455,2025-06-09,Home & Garden,179.81,3,539.44,Regular,61,Online,West,0.0
+ORD_001456,2025-07-12,Sports,107.4,2,255.25,Regular,54,Online,North,0.0
+ORD_001457,2024-01-09,Home & Garden,290.57,1,290.57,Regular,56,Online,Central,0.0
+ORD_001458,2024-09-08,Books,18.17,1,18.17,Regular,52,Online,West,0.0
+ORD_001459,2024-02-13,Books,14.35,2,28.69,Regular,46,Online,East,0.0
+ORD_001460,2023-11-08,Clothing,38.78,3,139.33,Regular,20,Store,Central,0.0
+ORD_001461,2024-02-12,Clothing,32.51,1,32.51,Regular,36,Store,South,0.0
+ORD_001462,2024-03-30,Home & Garden,334.89,2,669.78,Premium,41,Store,Central,0.0
+ORD_001463,2023-08-16,Clothing,78.82,4,377.84,Regular,43,Online,South,0.0
+ORD_001464,2023-12-15,Sports,140.06,1,157.71,Regular,42,Store,South,0.0
+ORD_001465,2024-03-02,Home & Garden,224.62,2,449.23,Regular,48,Mobile App,South,0.0
+ORD_001466,2025-04-14,Sports,283.27,3,849.8,Regular,50,Online,West,0.0
+ORD_001467,2024-05-13,Clothing,21.34,1,21.34,Regular,70,Online,West,0.0
+ORD_001468,2025-04-15,Clothing,114.65,2,229.31,Regular,74,Online,West,0.0
+ORD_001469,2024-11-18,Books,33.05,5,193.21,Premium,36,Mobile App,West,0.0
+ORD_001470,2025-08-02,Home & Garden,204.68,1,204.68,Regular,72,Store,South,0.0
+ORD_001471,2024-10-03,Clothing,52.32,1,52.32,Regular,45,Store,West,0.0
+ORD_001472,2024-09-01,Beauty,39.76,2,79.53,Regular,43,Store,North,0.0
+ORD_001473,2024-04-06,Clothing,69.28,1,69.28,Regular,36,Online,North,0.0
+ORD_001474,2025-07-19,Beauty,95.65,1,95.65,Regular,44,Mobile App,Central,0.15
+ORD_001475,2023-12-07,Home & Garden,46.91,2,106.29,Premium,44,Online,West,0.1
+ORD_001476,2024-03-04,Sports,31.68,1,31.68,Regular,42,Online,East,0.15
+ORD_001477,2024-09-16,Clothing,91.4,1,91.4,Premium,63,Store,South,0.0
+ORD_001478,2024-07-04,Beauty,116.07,2,232.14,Regular,22,Mobile App,North,0.0
+ORD_001479,2025-02-16,Beauty,47.71,1,47.71,Regular,26,Online,West,0.0
+ORD_001480,2024-05-16,Clothing,50.71,3,152.12,VIP,29,Online,East,0.0
+ORD_001481,2023-12-10,Sports,228.9,3,776.44,Premium,61,Online,East,0.0
+ORD_001482,2024-08-05,Clothing,47.2,1,54.49,Regular,31,Mobile App,West,0.2
+ORD_001483,2025-05-16,Sports,201.28,1,201.28,Premium,75,Online,North,0.0
+ORD_001484,2024-09-07,Beauty,56.62,2,113.25,Regular,21,Store,West,0.0
+ORD_001485,2024-02-27,Clothing,87.44,3,262.31,Premium,19,Mobile App,West,0.0
+ORD_001486,2023-09-02,Electronics,707.38,1,707.38,Premium,32,Online,North,0.0
+ORD_001487,2025-06-15,Clothing,120.26,1,132.09,Regular,24,Online,East,0.2
+ORD_001488,2025-05-07,Clothing,132.44,2,264.88,VIP,43,Online,West,0.0
+ORD_001489,2023-12-06,Clothing,58.48,2,138.06,Regular,29,Online,North,0.0
+ORD_001490,2024-06-23,Electronics,808.91,1,808.91,VIP,22,Mobile App,East,0.0
+ORD_001491,2025-05-31,Sports,120.15,4,480.58,VIP,44,Online,East,0.05
+ORD_001492,2025-04-09,Books,39.46,1,39.46,Premium,68,Store,Central,0.2
+ORD_001493,2024-01-27,Home & Garden,480.13,1,480.13,Regular,58,Store,West,0.0
+ORD_001494,2025-06-29,Beauty,29.65,2,59.3,Regular,72,Store,West,0.1
+ORD_001495,2023-10-13,Home & Garden,23.56,2,47.12,Regular,46,Online,West,0.0
+ORD_001496,2025-01-09,Beauty,115.14,2,230.29,Regular,63,Online,North,0.0
+ORD_001497,2024-03-30,Electronics,1251.88,3,3755.64,Regular,37,Online,South,0.0
+ORD_001498,2024-10-16,Clothing,118.4,2,236.8,Regular,49,Store,East,0.1
+ORD_001499,2024-02-27,Clothing,87.63,2,175.27,Premium,33,Store,Central,0.0
+ORD_001500,2024-11-01,Beauty,120.1,1,144.62,Regular,59,Online,North,0.1
+ORD_001501,2024-10-02,Beauty,124.72,2,249.43,Regular,32,Online,East,0.0
+ORD_001502,2024-07-20,Clothing,54.19,1,61.85,Regular,69,Online,South,0.05
+ORD_001503,2024-08-29,Sports,113.45,2,267.85,Regular,18,Store,North,0.0
+ORD_001504,2023-10-15,Clothing,29.38,4,117.52,Regular,31,Store,South,0.0
+ORD_001505,2023-11-06,Clothing,126.67,1,152.2,Premium,31,Store,South,0.0
+ORD_001506,2024-10-14,Beauty,74.15,1,74.15,Regular,33,Mobile App,West,0.05
+ORD_001507,2024-02-01,Sports,79.45,1,79.45,Regular,58,Mobile App,South,0.15
+ORD_001508,2024-05-09,Books,13.2,2,26.4,Premium,43,Store,West,0.0
+ORD_001509,2024-01-23,Books,27.66,3,82.97,Regular,65,Store,West,0.0
+ORD_001510,2024-01-11,Books,10.79,4,43.17,Regular,72,Online,North,0.0
+ORD_001511,2024-06-07,Sports,172.73,1,191.22,Regular,29,Online,East,0.0
+ORD_001512,2024-06-13,Books,21.33,1,21.33,Regular,48,Store,North,0.0
+ORD_001513,2024-07-11,Clothing,141.24,1,166.56,Premium,18,Online,North,0.05
+ORD_001514,2024-08-22,Books,26.18,1,26.18,Regular,43,Store,East,0.0
+ORD_001515,2024-09-01,Books,22.31,1,22.31,Regular,22,Online,West,0.0
+ORD_001516,2023-09-13,Electronics,800.41,3,2401.23,Regular,30,Store,West,0.0
+ORD_001517,2024-04-22,Beauty,62.06,2,124.12,Premium,58,Mobile App,East,0.0
+ORD_001518,2025-07-18,Electronics,1319.27,1,1319.27,Regular,65,Mobile App,South,0.0
+ORD_001519,2024-04-09,Books,11.38,1,11.38,Regular,58,Store,North,0.0
+ORD_001520,2025-07-19,Beauty,86.8,2,173.6,VIP,61,Mobile App,South,0.15
+ORD_001521,2024-04-21,Clothing,128.39,2,256.77,Regular,71,Mobile App,South,0.0
+ORD_001522,2023-08-17,Electronics,1553.4,1,1553.4,Regular,42,Mobile App,West,0.0
+ORD_001523,2025-07-28,Sports,278.25,1,299.08,Regular,74,Online,West,0.05
+ORD_001524,2024-10-15,Home & Garden,350.54,3,1051.62,Regular,52,Store,West,0.0
+ORD_001525,2025-03-27,Home & Garden,370.96,1,370.96,Premium,64,Store,North,0.0
+ORD_001526,2023-11-24,Beauty,92.3,1,106.5,Regular,70,Online,South,0.0
+ORD_001527,2024-03-06,Beauty,68.73,5,343.63,Premium,28,Mobile App,West,0.0
+ORD_001528,2023-08-06,Electronics,186.19,1,186.19,Premium,51,Store,West,0.0
+ORD_001529,2025-06-05,Home & Garden,333.47,2,666.95,VIP,29,Online,South,0.1
+ORD_001530,2024-02-23,Books,17.28,1,17.28,Premium,46,Store,Central,0.0
+ORD_001531,2024-03-09,Clothing,56.17,2,112.34,Regular,69,Store,South,0.0
+ORD_001532,2024-04-26,Books,27.63,1,27.63,Regular,24,Store,South,0.0
+ORD_001533,2023-10-25,Home & Garden,56.57,2,113.14,Regular,39,Online,North,0.0
+ORD_001534,2025-03-26,Clothing,106.02,1,106.02,Regular,24,Store,North,0.0
+ORD_001535,2023-10-06,Home & Garden,303.7,4,1214.79,Regular,68,Store,North,0.2
+ORD_001536,2023-11-12,Clothing,91.22,3,352.03,Premium,51,Online,East,0.2
+ORD_001537,2024-12-01,Home & Garden,308.12,4,1602.09,Regular,61,Online,East,0.0
+ORD_001538,2024-04-06,Home & Garden,337.56,1,337.56,Regular,21,Online,East,0.0
+ORD_001539,2024-07-08,Electronics,56.02,1,56.02,Regular,43,Mobile App,South,0.0
+ORD_001540,2023-08-31,Sports,58.8,3,194.96,Regular,62,Mobile App,South,0.0
+ORD_001541,2025-04-29,Beauty,103.95,3,311.84,Premium,44,Online,South,0.0
+ORD_001542,2023-08-08,Beauty,144.27,2,288.54,VIP,19,Store,East,0.0
+ORD_001543,2023-09-20,Beauty,58.95,1,58.95,Regular,56,Store,West,0.0
+ORD_001544,2024-09-17,Beauty,83.04,2,166.09,Regular,48,Online,North,0.15
+ORD_001545,2024-09-02,Home & Garden,309.48,3,928.44,Premium,73,Online,Central,0.0
+ORD_001546,2025-03-12,Beauty,83.13,4,332.5,Regular,37,Store,Central,0.0
+ORD_001547,2024-11-25,Clothing,181.35,3,624.68,Premium,48,Mobile App,Central,0.0
+ORD_001548,2024-03-08,Clothing,155.59,1,155.59,Premium,23,Online,North,0.0
+ORD_001549,2024-10-23,Beauty,18.94,2,37.89,Premium,38,Store,West,0.0
+ORD_001550,2024-05-18,Clothing,149.45,1,149.45,Premium,75,Online,North,0.0
+ORD_001551,2025-06-16,Clothing,186.09,1,217.6,Premium,49,Store,North,0.0
+ORD_001552,2024-07-10,Clothing,187.72,3,645.72,Regular,56,Online,North,0.0
+ORD_001553,2024-08-25,Beauty,115.3,3,345.9,Regular,59,Online,Central,0.0
+ORD_001554,2024-10-25,Clothing,60.24,2,120.48,Regular,25,Store,North,0.0
+ORD_001555,2024-07-18,Beauty,94.95,1,94.95,Premium,54,Mobile App,East,0.0
+ORD_001556,2023-12-13,Home & Garden,477.72,2,1062.82,Regular,18,Mobile App,East,0.0
+ORD_001557,2025-02-03,Clothing,172.48,2,344.96,Premium,38,Online,East,0.0
+ORD_001558,2025-06-30,Clothing,113.56,3,377.9,Premium,32,Online,North,0.0
+ORD_001559,2025-02-06,Books,22.64,1,22.64,Premium,36,Online,South,0.0
+ORD_001560,2024-12-28,Beauty,76.53,4,373.4,Premium,27,Store,North,0.0
+ORD_001561,2024-06-16,Sports,237.87,1,267.43,Regular,48,Mobile App,South,0.2
+ORD_001562,2025-07-26,Books,12.35,1,12.35,Premium,27,Online,South,0.0
+ORD_001563,2024-03-22,Beauty,114.32,1,114.32,Regular,67,Store,South,0.0
+ORD_001564,2024-12-16,Beauty,67.89,5,440.7,Regular,60,Online,South,0.0
+ORD_001565,2025-02-16,Books,23.5,1,23.5,Regular,40,Online,West,0.0
+ORD_001566,2024-09-08,Electronics,1025.33,3,3076.0,Regular,62,Store,Central,0.05
+ORD_001567,2024-09-11,Electronics,305.26,1,305.26,VIP,55,Online,North,0.0
+ORD_001568,2025-07-31,Home & Garden,225.06,1,225.06,Premium,46,Store,West,0.05
+ORD_001569,2024-05-29,Clothing,57.76,1,57.76,Regular,30,Store,North,0.0
+ORD_001570,2024-08-09,Beauty,124.05,1,124.05,Premium,42,Store,West,0.05
+ORD_001571,2025-06-30,Clothing,158.68,1,169.4,Regular,29,Online,North,0.15
+ORD_001572,2025-01-13,Beauty,60.7,3,182.09,Regular,27,Online,West,0.0
+ORD_001573,2024-04-11,Electronics,281.66,2,563.33,VIP,37,Online,Central,0.0
+ORD_001574,2024-01-28,Beauty,115.6,4,462.41,Regular,68,Online,North,0.0
+ORD_001575,2024-11-21,Beauty,66.58,1,73.4,Regular,46,Online,East,0.0
+ORD_001576,2023-12-02,Electronics,288.0,1,318.13,VIP,50,Mobile App,South,0.0
+ORD_001577,2025-03-13,Sports,156.86,2,313.72,Regular,24,Online,Central,0.0
+ORD_001578,2024-02-06,Books,29.37,1,29.37,Premium,45,Mobile App,East,0.0
+ORD_001579,2025-03-12,Clothing,30.32,1,30.32,Regular,29,Store,West,0.2
+ORD_001580,2025-07-22,Electronics,817.9,1,817.9,Regular,68,Store,Central,0.0
+ORD_001581,2024-12-17,Electronics,1061.86,2,2656.13,Regular,63,Online,North,0.0
+ORD_001582,2024-03-04,Beauty,108.94,5,544.71,Regular,62,Online,South,0.2
+ORD_001583,2023-08-10,Sports,147.99,1,168.15,Regular,20,Online,South,0.0
+ORD_001584,2025-06-03,Clothing,35.81,3,120.95,Regular,23,Online,North,0.0
+ORD_001585,2024-08-11,Sports,72.19,2,156.98,Regular,60,Mobile App,North,0.0
+ORD_001586,2023-09-21,Sports,219.02,3,657.05,Regular,46,Store,South,0.2
+ORD_001587,2025-03-17,Books,37.8,1,37.8,VIP,40,Store,Central,0.0
+ORD_001588,2025-02-06,Sports,82.71,5,413.53,Premium,33,Online,North,0.0
+ORD_001589,2024-02-13,Clothing,73.95,2,147.9,VIP,26,Mobile App,Central,0.0
+ORD_001590,2025-02-20,Clothing,101.22,1,101.22,Premium,45,Online,North,0.2
+ORD_001591,2025-02-18,Home & Garden,141.43,1,141.43,Regular,28,Online,West,0.0
+ORD_001592,2024-11-14,Electronics,1892.24,3,6852.84,Regular,62,Mobile App,South,0.0
+ORD_001593,2023-10-16,Beauty,113.91,1,113.91,Regular,62,Online,South,0.0
+ORD_001594,2024-08-20,Sports,205.76,1,229.0,Regular,56,Online,South,0.0
+ORD_001595,2024-01-09,Home & Garden,496.34,2,992.68,Regular,19,Online,Central,0.0
+ORD_001596,2024-04-14,Electronics,576.74,1,576.74,Premium,61,Mobile App,Central,0.0
+ORD_001597,2024-09-24,Electronics,623.02,1,623.02,Regular,67,Online,East,0.1
+ORD_001598,2024-01-01,Clothing,65.79,4,263.17,Regular,42,Online,North,0.05
+ORD_001599,2023-12-09,Clothing,114.77,1,128.44,Regular,55,Online,West,0.0
+ORD_001600,2024-07-27,Beauty,83.02,3,249.05,Regular,56,Store,North,0.1
+ORD_001601,2023-09-23,Clothing,77.24,1,77.24,Regular,29,Mobile App,East,0.0
+ORD_001602,2025-06-29,Sports,176.71,1,201.25,Premium,43,Store,West,0.0
+ORD_001603,2024-04-26,Electronics,1388.98,1,1388.98,VIP,60,Online,South,0.0
+ORD_001604,2023-12-29,Books,29.43,3,109.1,Regular,63,Mobile App,South,0.1
+ORD_001605,2024-10-06,Beauty,76.8,1,76.8,Regular,40,Store,West,0.0
+ORD_001606,2024-12-31,Home & Garden,148.77,4,690.93,VIP,63,Mobile App,South,0.0
+ORD_001607,2023-11-02,Home & Garden,212.16,3,709.89,Regular,23,Online,North,0.0
+ORD_001608,2024-04-06,Electronics,334.77,1,334.77,Regular,53,Online,West,0.1
+ORD_001609,2023-08-15,Books,37.08,2,74.16,Regular,26,Store,West,0.0
+ORD_001610,2024-12-26,Sports,213.41,1,252.06,Regular,52,Store,North,0.0
+ORD_001611,2025-04-27,Clothing,183.96,3,551.88,Premium,63,Store,West,0.0
+ORD_001612,2025-07-24,Sports,184.93,1,195.35,Regular,61,Online,Central,0.2
+ORD_001613,2024-11-06,Clothing,141.41,1,160.5,Regular,51,Online,South,0.0
+ORD_001614,2024-08-14,Clothing,112.46,1,124.48,VIP,45,Mobile App,West,0.0
+ORD_001615,2024-08-21,Electronics,709.02,1,709.02,Regular,71,Online,Central,0.0
+ORD_001616,2023-12-03,Home & Garden,152.1,1,179.28,VIP,18,Online,Central,0.05
+ORD_001617,2024-06-12,Beauty,84.6,3,253.79,Regular,47,Mobile App,Central,0.0
+ORD_001618,2024-12-16,Electronics,743.7,1,870.71,Premium,39,Online,East,0.0
+ORD_001619,2023-08-10,Home & Garden,402.07,2,804.14,Regular,18,Online,North,0.1
+ORD_001620,2024-10-19,Books,17.9,4,71.61,VIP,75,Mobile App,South,0.0
+ORD_001621,2024-09-28,Electronics,1647.51,2,3295.01,Premium,32,Online,West,0.1
+ORD_001622,2024-09-12,Home & Garden,160.15,1,160.15,Regular,29,Store,Central,0.0
+ORD_001623,2024-05-06,Electronics,1979.27,1,1979.27,Regular,46,Store,South,0.0
+ORD_001624,2023-12-26,Home & Garden,358.47,3,1244.24,Regular,25,Online,South,0.05
+ORD_001625,2023-12-19,Books,26.84,1,33.1,Regular,20,Online,South,0.0
+ORD_001626,2024-12-07,Beauty,125.54,2,316.35,Premium,53,Store,West,0.15
+ORD_001627,2023-12-13,Home & Garden,379.28,1,472.28,Premium,43,Online,Central,0.0
+ORD_001628,2024-09-06,Clothing,39.75,1,39.75,Premium,26,Online,South,0.0
+ORD_001629,2024-07-22,Sports,28.75,1,32.04,Premium,21,Online,East,0.0
+ORD_001630,2025-04-07,Beauty,16.08,2,32.17,Regular,36,Store,West,0.0
+ORD_001631,2023-10-28,Books,15.93,1,15.93,Regular,29,Store,South,0.2
+ORD_001632,2024-05-18,Electronics,1735.13,1,1735.13,Regular,33,Online,West,0.0
+ORD_001633,2024-02-24,Books,38.26,1,38.26,Regular,62,Online,Central,0.0
+ORD_001634,2025-04-21,Clothing,53.96,4,215.84,Regular,58,Store,South,0.0
+ORD_001635,2024-03-26,Electronics,292.58,1,292.58,Regular,27,Mobile App,West,0.05
+ORD_001636,2023-08-23,Sports,79.9,1,90.19,VIP,42,Online,West,0.0
+ORD_001637,2025-07-21,Beauty,125.22,2,250.44,Regular,48,Mobile App,North,0.15
+ORD_001638,2025-01-08,Books,35.75,2,71.51,Regular,35,Online,East,0.0
+ORD_001639,2024-05-18,Home & Garden,360.12,1,360.12,VIP,29,Online,North,0.0
+ORD_001640,2023-08-05,Electronics,1337.84,1,1337.84,Premium,36,Online,West,0.0
+ORD_001641,2024-05-17,Sports,44.8,4,179.21,Premium,41,Store,East,0.15
+ORD_001642,2024-06-11,Electronics,191.14,3,573.43,Regular,67,Online,South,0.2
+ORD_001643,2024-07-09,Home & Garden,374.53,1,374.53,Regular,67,Store,Central,0.0
+ORD_001644,2025-01-27,Sports,127.19,4,508.75,Regular,31,Online,Central,0.0
+ORD_001645,2024-09-01,Electronics,1424.02,4,5696.09,Regular,25,Store,North,0.2
+ORD_001646,2025-03-27,Beauty,106.55,1,106.55,VIP,24,Store,North,0.15
+ORD_001647,2025-02-14,Sports,119.3,3,357.89,Premium,66,Online,South,0.0
+ORD_001648,2025-02-01,Beauty,30.38,1,30.38,Premium,53,Online,East,0.15
+ORD_001649,2025-02-28,Home & Garden,449.03,3,1347.1,VIP,63,Store,North,0.0
+ORD_001650,2024-10-24,Electronics,991.5,2,1983.0,Premium,50,Mobile App,North,0.0
+ORD_001651,2024-01-22,Sports,100.39,1,100.39,Regular,36,Online,North,0.0
+ORD_001652,2025-03-06,Electronics,1599.06,2,3198.12,Regular,65,Store,West,0.0
+ORD_001653,2024-12-23,Beauty,86.88,1,103.18,Premium,22,Online,South,0.0
+ORD_001654,2025-01-07,Books,32.5,2,65.0,Regular,56,Online,East,0.0
+ORD_001655,2024-03-03,Clothing,20.65,1,20.65,Premium,55,Store,North,0.0
+ORD_001656,2025-01-11,Books,30.15,1,30.15,VIP,34,Store,East,0.0
+ORD_001657,2024-03-17,Home & Garden,358.5,4,1434.01,Regular,28,Store,South,0.0
+ORD_001658,2023-09-20,Sports,85.98,3,257.95,Regular,74,Store,East,0.05
+ORD_001659,2023-12-19,Home & Garden,416.66,1,502.88,Regular,70,Online,South,0.05
+ORD_001660,2023-08-06,Beauty,61.91,1,61.91,Regular,41,Online,East,0.0
+ORD_001661,2023-10-29,Beauty,127.62,5,638.11,Regular,44,Store,Central,0.05
+ORD_001662,2024-06-01,Home & Garden,492.85,3,1478.56,Regular,18,Online,East,0.0
+ORD_001663,2024-03-16,Beauty,145.31,2,290.61,Premium,52,Store,Central,0.0
+ORD_001664,2023-11-21,Beauty,115.68,3,442.13,VIP,59,Store,East,0.0
+ORD_001665,2025-05-15,Sports,176.49,1,176.49,Premium,32,Online,East,0.0
+ORD_001666,2024-05-06,Clothing,124.7,3,374.1,Regular,66,Online,West,0.0
+ORD_001667,2024-01-11,Books,19.27,3,57.81,Regular,41,Online,South,0.0
+ORD_001668,2024-12-07,Electronics,1017.12,1,1157.26,Premium,70,Online,South,0.0
+ORD_001669,2024-12-19,Beauty,35.42,3,134.26,Regular,28,Store,South,0.1
+ORD_001670,2025-07-08,Sports,65.16,3,231.91,Regular,33,Online,West,0.15
+ORD_001671,2024-09-20,Electronics,1462.4,1,1462.4,Premium,56,Store,North,0.0
+ORD_001672,2024-08-25,Books,10.83,2,21.66,Regular,66,Online,North,0.0
+ORD_001673,2023-12-18,Clothing,126.9,1,163.89,Regular,18,Store,North,0.2
+ORD_001674,2023-11-21,Sports,227.44,3,778.15,Premium,63,Online,North,0.0
+ORD_001675,2024-12-08,Sports,270.41,4,1293.39,Premium,37,Mobile App,East,0.0
+ORD_001676,2024-04-10,Electronics,887.9,2,1775.8,Regular,25,Online,North,0.2
+ORD_001677,2023-09-19,Electronics,945.24,2,1890.49,Regular,27,Online,North,0.15
+ORD_001678,2024-03-21,Electronics,492.02,2,984.03,Regular,40,Store,East,0.0
+ORD_001679,2024-03-23,Beauty,66.94,1,66.94,Regular,70,Store,North,0.0
+ORD_001680,2024-12-20,Clothing,178.5,4,873.34,Premium,40,Mobile App,North,0.1
+ORD_001681,2023-12-04,Home & Garden,462.81,3,1695.14,Regular,75,Online,North,0.0
+ORD_001682,2024-02-03,Books,31.22,2,62.44,Premium,61,Store,West,0.0
+ORD_001683,2024-01-05,Beauty,107.77,1,107.77,Regular,36,Online,East,0.0
+ORD_001684,2023-11-19,Home & Garden,459.37,2,1155.57,Regular,34,Mobile App,North,0.0
+ORD_001685,2024-01-04,Beauty,29.57,1,29.57,Regular,64,Online,West,0.15
+ORD_001686,2023-10-12,Electronics,1176.79,2,2353.59,Regular,35,Online,South,0.0
+ORD_001687,2023-11-05,Home & Garden,422.84,2,1013.85,Regular,40,Mobile App,East,0.15
+ORD_001688,2024-12-09,Beauty,146.33,4,660.05,Regular,58,Online,East,0.0
+ORD_001689,2025-06-04,Clothing,88.97,2,199.99,Regular,52,Store,Central,0.0
+ORD_001690,2025-02-04,Clothing,89.23,1,89.23,VIP,44,Online,Central,0.0
+ORD_001691,2025-03-18,Beauty,124.52,2,249.05,Premium,33,Store,East,0.0
+ORD_001692,2023-08-07,Clothing,159.12,1,189.06,VIP,48,Store,South,0.2
+ORD_001693,2023-10-05,Home & Garden,190.02,2,380.03,Regular,67,Store,South,0.0
+ORD_001694,2024-06-01,Books,15.77,1,15.77,Regular,44,Online,South,0.0
+ORD_001695,2024-03-07,Clothing,28.55,3,85.66,Regular,42,Online,North,0.05
+ORD_001696,2025-07-17,Books,24.87,2,49.73,Premium,60,Online,Central,0.0
+ORD_001697,2023-10-19,Books,43.5,2,86.99,Regular,19,Online,South,0.0
+ORD_001698,2024-08-13,Clothing,27.38,1,29.36,Premium,71,Online,West,0.2
+ORD_001699,2024-02-07,Books,39.74,1,39.74,Regular,62,Mobile App,East,0.0
+ORD_001700,2024-11-28,Books,38.9,1,45.02,Regular,59,Online,North,0.0
+ORD_001701,2024-01-11,Electronics,1679.84,1,1679.84,Regular,50,Store,South,0.05
+ORD_001702,2023-08-16,Books,43.31,1,43.31,Regular,74,Online,West,0.0
+ORD_001703,2025-02-22,Beauty,126.98,1,126.98,Regular,50,Store,East,0.0
+ORD_001704,2025-07-31,Clothing,96.26,4,460.78,VIP,51,Mobile App,West,0.0
+ORD_001705,2023-12-11,Beauty,43.6,2,99.13,Premium,32,Online,West,0.0
+ORD_001706,2025-02-27,Sports,256.47,2,512.94,Regular,47,Store,West,0.0
+ORD_001707,2024-06-20,Beauty,101.66,3,304.97,Regular,28,Online,North,0.0
+ORD_001708,2024-08-19,Beauty,72.27,4,289.08,Regular,22,Store,East,0.0
+ORD_001709,2025-04-13,Home & Garden,22.88,4,91.53,Premium,24,Store,North,0.2
+ORD_001710,2024-03-08,Sports,28.02,1,28.02,Regular,30,Mobile App,Central,0.0
+ORD_001711,2024-02-27,Beauty,140.44,2,280.88,Regular,54,Online,Central,0.0
+ORD_001712,2023-09-19,Sports,296.29,1,296.29,VIP,21,Online,East,0.0
+ORD_001713,2023-11-08,Home & Garden,19.11,2,45.87,Regular,36,Store,West,0.0
+ORD_001714,2024-06-22,Books,39.03,4,156.11,Regular,62,Online,North,0.0
+ORD_001715,2024-07-09,Books,45.86,2,91.72,Premium,50,Online,South,0.0
+ORD_001716,2023-08-29,Sports,243.92,3,800.19,Premium,73,Mobile App,North,0.0
+ORD_001717,2024-01-07,Beauty,77.52,2,155.04,Regular,23,Online,South,0.0
+ORD_001718,2024-03-12,Beauty,103.32,1,103.32,VIP,28,Store,Central,0.0
+ORD_001719,2025-01-14,Beauty,97.18,2,194.36,Regular,67,Online,East,0.0
+ORD_001720,2024-11-05,Clothing,81.02,3,269.32,Regular,72,Online,West,0.0
+ORD_001721,2025-08-03,Beauty,53.86,2,107.73,Regular,56,Online,North,0.2
+ORD_001722,2024-01-08,Sports,197.64,1,197.64,Regular,69,Mobile App,North,0.0
+ORD_001723,2023-12-29,Home & Garden,280.36,1,336.37,Regular,68,Online,North,0.0
+ORD_001724,2024-11-12,Home & Garden,97.31,3,342.35,Regular,35,Store,Central,0.0
+ORD_001725,2023-11-04,Electronics,399.41,1,517.52,Regular,34,Online,West,0.0
+ORD_001726,2024-10-30,Beauty,139.76,3,419.29,Premium,54,Online,West,0.0
+ORD_001727,2023-09-14,Home & Garden,431.62,2,863.23,VIP,72,Online,Central,0.0
+ORD_001728,2025-07-01,Clothing,99.35,3,329.66,Regular,57,Mobile App,East,0.0
+ORD_001729,2025-07-03,Books,30.24,3,90.71,VIP,57,Store,North,0.0
+ORD_001730,2024-04-11,Beauty,125.87,1,125.87,VIP,36,Online,West,0.0
+ORD_001731,2024-01-14,Sports,114.58,1,114.58,Premium,73,Store,West,0.15
+ORD_001732,2025-06-20,Electronics,730.43,4,2921.72,Regular,52,Store,West,0.0
+ORD_001733,2023-11-24,Electronics,341.3,2,778.1,Regular,67,Online,West,0.15
+ORD_001734,2024-07-06,Electronics,668.71,1,668.71,Regular,49,Mobile App,South,0.0
+ORD_001735,2025-07-24,Beauty,79.29,2,158.58,Premium,52,Mobile App,South,0.0
+ORD_001736,2024-11-28,Clothing,135.24,1,169.7,Premium,20,Online,Central,0.0
+ORD_001737,2023-10-07,Home & Garden,397.94,3,1193.81,Regular,31,Mobile App,North,0.0
+ORD_001738,2024-03-08,Electronics,1907.66,1,1907.66,Regular,35,Store,East,0.0
+ORD_001739,2025-05-16,Clothing,29.79,1,29.79,Premium,23,Online,East,0.15
+ORD_001740,2025-08-03,Books,44.85,2,89.7,Regular,60,Online,East,0.0
+ORD_001741,2024-02-09,Electronics,230.26,1,230.26,Regular,39,Online,East,0.0
+ORD_001742,2024-01-20,Clothing,82.87,1,82.87,Regular,48,Online,Central,0.0
+ORD_001743,2025-07-10,Clothing,193.81,2,429.62,Premium,62,Online,Central,0.0
+ORD_001744,2023-08-15,Sports,240.34,2,549.18,Premium,22,Online,Central,0.0
+ORD_001745,2024-07-01,Beauty,148.16,2,296.32,Regular,65,Store,East,0.0
+ORD_001746,2023-08-19,Clothing,181.37,1,193.53,Premium,49,Store,East,0.0
+ORD_001747,2025-06-25,Books,20.51,1,20.51,Regular,46,Mobile App,South,0.0
+ORD_001748,2025-05-15,Books,35.56,1,35.56,Regular,20,Mobile App,South,0.0
+ORD_001749,2024-02-13,Books,37.86,2,75.72,Regular,56,Store,West,0.0
+ORD_001750,2024-03-13,Home & Garden,93.39,3,280.16,Regular,18,Store,East,0.2
+ORD_001751,2024-08-11,Electronics,638.79,1,638.79,VIP,70,Store,North,0.0
+ORD_001752,2025-07-21,Books,35.96,1,35.96,Premium,44,Store,East,0.0
+ORD_001753,2024-07-30,Sports,142.11,1,168.96,Regular,39,Online,North,0.0
+ORD_001754,2024-11-16,Books,24.92,3,88.77,Regular,28,Mobile App,Central,0.0
+ORD_001755,2024-05-22,Beauty,107.95,2,215.91,Regular,36,Mobile App,Central,0.0
+ORD_001756,2023-11-14,Electronics,1621.58,2,3634.73,Regular,57,Store,West,0.0
+ORD_001757,2025-05-04,Sports,52.42,3,157.25,Regular,55,Online,North,0.0
+ORD_001758,2025-06-18,Home & Garden,363.87,1,363.87,Regular,53,Store,West,0.15
+ORD_001759,2023-11-30,Clothing,174.14,1,205.94,Regular,40,Online,West,0.0
+ORD_001760,2025-05-26,Beauty,120.93,1,120.93,VIP,41,Online,South,0.0
+ORD_001761,2025-01-05,Home & Garden,144.79,5,723.95,Regular,37,Online,West,0.0
+ORD_001762,2025-06-24,Clothing,20.75,3,65.6,Regular,20,Store,North,0.0
+ORD_001763,2024-08-22,Sports,250.51,5,1495.38,Regular,39,Online,South,0.0
+ORD_001764,2024-10-18,Clothing,120.03,2,240.07,Regular,57,Online,West,0.0
+ORD_001765,2023-09-26,Sports,143.0,1,143.0,Regular,42,Store,South,0.0
+ORD_001766,2024-09-20,Home & Garden,265.88,1,265.88,Regular,24,Store,South,0.0
+ORD_001767,2025-01-02,Electronics,1281.31,1,1281.31,Regular,71,Store,East,0.0
+ORD_001768,2025-02-21,Clothing,190.77,1,190.77,Premium,19,Mobile App,West,0.0
+ORD_001769,2023-08-16,Beauty,95.16,1,95.16,Regular,63,Store,Central,0.2
+ORD_001770,2023-10-24,Sports,130.16,1,130.16,Premium,26,Mobile App,West,0.0
+ORD_001771,2025-05-15,Beauty,113.98,1,113.98,Premium,37,Mobile App,South,0.05
+ORD_001772,2025-02-03,Clothing,150.74,4,602.95,Regular,42,Store,East,0.0
+ORD_001773,2025-06-10,Electronics,586.18,1,586.18,VIP,58,Online,North,0.0
+ORD_001774,2025-05-19,Sports,210.73,2,421.45,Regular,25,Online,North,0.2
+ORD_001775,2023-12-28,Home & Garden,142.07,1,182.21,VIP,49,Online,East,0.0
+ORD_001776,2024-03-04,Books,14.03,2,28.05,Regular,44,Online,North,0.0
+ORD_001777,2024-12-15,Beauty,25.3,1,31.04,Regular,42,Online,East,0.0
+ORD_001778,2024-11-08,Clothing,49.75,1,61.0,Regular,60,Online,Central,0.05
+ORD_001779,2023-09-06,Electronics,1953.04,4,7812.14,VIP,48,Online,Central,0.0
+ORD_001780,2025-04-10,Sports,26.38,2,52.76,VIP,34,Online,North,0.0
+ORD_001781,2024-02-18,Sports,26.5,3,79.51,VIP,66,Online,South,0.2
+ORD_001782,2024-03-13,Home & Garden,63.61,1,63.61,VIP,26,Store,South,0.1
+ORD_001783,2023-10-29,Beauty,97.53,1,97.53,Regular,48,Online,South,0.1
+ORD_001784,2023-11-07,Home & Garden,358.42,2,851.04,Premium,47,Mobile App,West,0.0
+ORD_001785,2024-09-17,Clothing,58.52,1,58.52,Regular,43,Store,North,0.1
+ORD_001786,2025-03-24,Sports,110.69,1,110.69,Regular,64,Mobile App,West,0.0
+ORD_001787,2024-10-21,Books,26.95,3,80.85,Regular,70,Store,East,0.0
+ORD_001788,2025-05-03,Electronics,1234.23,1,1234.23,Regular,54,Store,East,0.0
+ORD_001789,2024-08-21,Beauty,125.61,2,251.22,VIP,74,Store,North,0.0
+ORD_001790,2025-01-09,Home & Garden,239.71,1,239.71,Premium,40,Online,West,0.2
+ORD_001791,2023-09-04,Electronics,400.81,1,400.81,Regular,68,Online,South,0.0
+ORD_001792,2024-08-05,Clothing,33.08,3,115.79,Regular,41,Store,South,0.0
+ORD_001793,2023-12-08,Electronics,604.12,2,1466.2,Regular,31,Mobile App,West,0.1
+ORD_001794,2024-06-29,Clothing,121.1,1,136.73,Regular,56,Store,South,0.0
+ORD_001795,2023-11-18,Sports,101.46,1,123.26,Regular,74,Store,North,0.0
+ORD_001796,2025-05-27,Books,37.29,2,74.57,Regular,70,Mobile App,East,0.0
+ORD_001797,2024-02-23,Clothing,28.94,2,57.88,Premium,20,Online,East,0.0
+ORD_001798,2024-10-09,Electronics,262.78,2,525.57,Premium,55,Store,West,0.1
+ORD_001799,2024-04-03,Sports,24.68,2,49.36,Regular,18,Online,West,0.2
+ORD_001800,2024-05-22,Clothing,171.5,1,171.5,Regular,75,Mobile App,Central,0.0
+ORD_001801,2025-01-26,Electronics,601.72,1,601.72,VIP,24,Mobile App,West,0.15
+ORD_001802,2024-06-08,Home & Garden,168.84,1,168.84,Regular,23,Mobile App,Central,0.0
+ORD_001803,2024-06-20,Books,34.49,4,137.97,Regular,62,Online,West,0.0
+ORD_001804,2024-12-22,Beauty,131.01,2,289.75,Premium,57,Online,North,0.1
+ORD_001805,2023-09-22,Electronics,320.53,2,641.06,Regular,73,Online,West,0.0
+ORD_001806,2024-03-23,Clothing,35.84,1,35.84,Regular,69,Online,East,0.0
+ORD_001807,2025-02-05,Electronics,1871.52,1,1871.52,Regular,34,Online,North,0.0
+ORD_001808,2023-11-26,Electronics,1707.24,1,2148.26,VIP,62,Online,Central,0.1
+ORD_001809,2024-08-27,Home & Garden,353.85,1,353.85,Regular,55,Mobile App,West,0.0
+ORD_001810,2023-12-05,Clothing,61.98,1,76.08,Premium,74,Store,West,0.2
+ORD_001811,2025-06-19,Electronics,907.32,2,1814.65,Regular,60,Store,West,0.15
+ORD_001812,2024-05-18,Home & Garden,389.73,1,389.73,Regular,23,Store,East,0.0
+ORD_001813,2024-06-03,Beauty,26.18,1,26.18,Premium,73,Online,South,0.0
+ORD_001814,2025-06-10,Beauty,114.26,3,342.78,Regular,22,Online,West,0.0
+ORD_001815,2023-10-05,Clothing,19.01,1,19.01,VIP,30,Online,West,0.15
+ORD_001816,2023-11-20,Home & Garden,116.2,1,147.77,Regular,51,Store,Central,0.0
+ORD_001817,2024-06-19,Beauty,61.03,2,122.07,Regular,24,Online,South,0.2
+ORD_001818,2024-03-16,Home & Garden,202.0,1,202.0,Regular,57,Online,Central,0.0
+ORD_001819,2024-02-28,Books,16.64,2,33.28,Regular,61,Online,East,0.05
+ORD_001820,2025-03-18,Beauty,28.78,1,28.78,VIP,24,Mobile App,North,0.0
+ORD_001821,2024-04-07,Electronics,1793.49,3,5380.47,Regular,48,Online,Central,0.0
+ORD_001822,2024-11-10,Home & Garden,143.81,1,170.6,Regular,23,Store,East,0.0
+ORD_001823,2024-01-06,Books,30.09,3,90.26,Premium,21,Mobile App,West,0.0
+ORD_001824,2024-05-10,Home & Garden,62.44,1,62.44,Premium,64,Online,West,0.0
+ORD_001825,2024-02-19,Home & Garden,96.19,1,96.19,Premium,51,Online,Central,0.1
+ORD_001826,2024-12-22,Sports,144.23,1,186.32,Regular,59,Store,South,0.0
+ORD_001827,2024-03-16,Electronics,138.26,3,414.77,Regular,33,Mobile App,North,0.1
+ORD_001828,2025-01-30,Electronics,587.15,1,587.15,Regular,62,Store,West,0.0
+ORD_001829,2024-09-09,Books,14.05,2,28.1,VIP,74,Online,East,0.0
+ORD_001830,2024-12-24,Clothing,45.71,2,105.82,Premium,63,Mobile App,Central,0.1
+ORD_001831,2023-08-08,Electronics,410.9,1,410.9,Premium,57,Store,West,0.0
+ORD_001832,2024-06-12,Beauty,47.21,1,47.21,Regular,22,Online,South,0.0
+ORD_001833,2024-02-12,Home & Garden,451.44,2,902.87,Premium,60,Store,West,0.0
+ORD_001834,2024-10-16,Home & Garden,25.1,2,50.2,Regular,74,Online,North,0.0
+ORD_001835,2024-01-26,Beauty,105.87,1,105.87,Regular,48,Online,Central,0.1
+ORD_001836,2023-08-06,Books,44.93,1,44.93,Regular,20,Online,North,0.0
+ORD_001837,2025-03-07,Beauty,148.71,1,148.71,Regular,51,Online,Central,0.0
+ORD_001838,2024-01-23,Clothing,143.59,4,574.37,Premium,46,Store,West,0.1
+ORD_001839,2024-07-29,Sports,95.77,1,100.75,Premium,41,Mobile App,West,0.0
+ORD_001840,2024-07-31,Home & Garden,359.43,3,1078.28,Regular,67,Store,Central,0.0
+ORD_001841,2024-12-12,Electronics,576.38,3,1953.2,Regular,58,Store,North,0.0
+ORD_001842,2024-09-28,Clothing,117.88,1,117.88,Regular,19,Online,South,0.15
+ORD_001843,2025-03-18,Beauty,108.93,2,217.87,Regular,31,Online,North,0.0
+ORD_001844,2024-02-19,Books,35.55,1,35.55,Regular,74,Online,Central,0.0
+ORD_001845,2024-11-07,Sports,73.11,2,172.28,Premium,40,Online,East,0.0
+ORD_001846,2024-10-05,Home & Garden,132.02,1,132.02,Regular,62,Mobile App,East,0.2
+ORD_001847,2025-04-23,Electronics,895.25,2,1790.49,Regular,68,Online,East,0.0
+ORD_001848,2024-05-26,Electronics,1940.47,2,3880.93,Premium,61,Mobile App,South,0.0
+ORD_001849,2024-11-24,Beauty,35.28,2,86.99,Regular,57,Online,Central,0.0
+ORD_001850,2024-06-10,Books,21.53,1,21.53,Regular,18,Online,West,0.0
+ORD_001851,2023-09-15,Clothing,70.94,1,70.94,Regular,21,Mobile App,West,0.0
+ORD_001852,2024-06-13,Electronics,889.13,2,1778.26,Premium,18,Store,North,0.0
+ORD_001853,2024-04-18,Clothing,66.43,1,66.43,Premium,60,Online,Central,0.2
+ORD_001854,2024-01-10,Electronics,1368.7,2,2737.4,Regular,45,Mobile App,Central,0.05
+ORD_001855,2023-10-26,Home & Garden,121.15,1,121.15,Regular,40,Mobile App,South,0.0
+ORD_001856,2025-06-29,Beauty,67.14,1,67.14,Premium,75,Store,North,0.0
+ORD_001857,2024-04-28,Home & Garden,258.88,3,776.64,VIP,61,Mobile App,East,0.15
+ORD_001858,2025-03-19,Clothing,135.85,1,135.85,Premium,44,Store,Central,0.05
+ORD_001859,2024-02-25,Home & Garden,138.48,2,276.97,Regular,52,Store,South,0.15
+ORD_001860,2024-08-23,Books,13.84,5,69.21,VIP,62,Online,East,0.0
+ORD_001861,2025-01-01,Beauty,111.2,1,111.2,Regular,45,Mobile App,West,0.0
+ORD_001862,2024-10-08,Books,28.45,2,56.9,Regular,19,Online,West,0.0
+ORD_001863,2023-11-03,Clothing,130.74,1,157.2,Regular,33,Mobile App,Central,0.0
+ORD_001864,2023-12-13,Sports,174.4,2,436.37,Regular,36,Store,North,0.0
+ORD_001865,2024-09-10,Clothing,74.02,1,74.02,VIP,47,Online,North,0.2
+ORD_001866,2023-10-30,Electronics,576.84,1,576.84,Regular,24,Store,East,0.0
+ORD_001867,2025-04-04,Electronics,1652.78,2,3305.57,Premium,62,Online,East,0.0
+ORD_001868,2023-10-06,Electronics,1493.92,1,1493.92,Regular,65,Store,North,0.0
+ORD_001869,2025-07-23,Clothing,112.93,1,122.36,Regular,49,Mobile App,South,0.0
+ORD_001870,2025-06-26,Beauty,130.05,3,390.16,Regular,37,Store,North,0.0
+ORD_001871,2024-12-13,Sports,214.14,1,273.24,Premium,27,Mobile App,Central,0.0
+ORD_001872,2025-01-18,Electronics,532.05,1,532.05,Regular,71,Mobile App,Central,0.0
+ORD_001873,2024-11-01,Books,10.39,3,39.41,Regular,48,Store,South,0.15
+ORD_001874,2025-02-14,Home & Garden,413.52,1,413.52,Regular,72,Mobile App,Central,0.0
+ORD_001875,2023-12-09,Books,15.06,3,51.23,Premium,70,Online,South,0.05
+ORD_001876,2025-07-21,Sports,80.1,3,286.87,Regular,36,Online,North,0.0
+ORD_001877,2024-12-21,Home & Garden,338.83,2,808.32,Regular,62,Store,North,0.0
+ORD_001878,2024-10-13,Clothing,25.03,2,50.07,Regular,54,Online,West,0.0
+ORD_001879,2023-08-16,Sports,108.26,1,120.89,Regular,75,Store,Central,0.0
+ORD_001880,2024-08-02,Clothing,104.22,3,374.35,Regular,35,Online,North,0.0
+ORD_001881,2024-08-05,Sports,260.36,2,577.26,Premium,40,Online,Central,0.0
+ORD_001882,2023-10-08,Clothing,138.07,1,138.07,Regular,64,Online,Central,0.0
+ORD_001883,2024-07-17,Books,38.61,1,38.61,Premium,35,Store,East,0.0
+ORD_001884,2024-09-11,Electronics,1836.51,2,3673.02,Premium,42,Store,West,0.0
+ORD_001885,2025-04-16,Beauty,39.35,1,39.35,Regular,50,Online,Central,0.0
+ORD_001886,2024-04-26,Clothing,145.6,1,145.6,Premium,55,Mobile App,East,0.0
+ORD_001887,2025-03-25,Sports,253.22,4,1012.87,Premium,72,Online,South,0.0
+ORD_001888,2024-03-29,Electronics,1347.26,1,1347.26,Premium,61,Store,West,0.0
+ORD_001889,2024-07-01,Clothing,196.64,2,419.16,Premium,64,Store,South,0.0
+ORD_001890,2024-01-30,Beauty,135.48,3,406.45,Regular,44,Store,North,0.0
+ORD_001891,2023-10-07,Sports,93.88,3,281.65,Regular,46,Store,East,0.0
+ORD_001892,2025-04-17,Beauty,128.49,1,128.49,VIP,38,Online,North,0.0
+ORD_001893,2025-07-20,Books,25.11,2,50.21,Regular,54,Store,Central,0.0
+ORD_001894,2024-02-25,Clothing,65.45,1,65.45,Regular,36,Store,South,0.0
+ORD_001895,2024-02-27,Beauty,36.88,4,147.53,Regular,69,Online,South,0.0
+ORD_001896,2023-11-01,Sports,31.67,3,105.13,Regular,24,Mobile App,South,0.0
+ORD_001897,2023-12-26,Electronics,751.14,1,877.44,Premium,52,Online,North,0.0
+ORD_001898,2025-07-03,Beauty,144.3,1,144.3,Premium,51,Store,West,0.0
+ORD_001899,2024-02-15,Clothing,122.67,3,368.0,Regular,40,Online,East,0.0
+ORD_001900,2025-04-29,Sports,259.69,1,259.69,VIP,46,Online,West,0.0
+ORD_001901,2025-05-06,Books,44.96,1,44.96,Regular,26,Store,Central,0.0
+ORD_001902,2024-06-05,Electronics,223.97,1,223.97,VIP,52,Online,East,0.2
+ORD_001903,2023-08-28,Clothing,151.06,3,480.44,Regular,42,Store,East,0.1
+ORD_001904,2024-01-13,Home & Garden,51.27,4,205.07,Regular,72,Mobile App,Central,0.0
+ORD_001905,2025-04-21,Sports,110.87,1,110.87,VIP,52,Store,North,0.0
+ORD_001906,2025-03-23,Books,47.48,1,47.48,Regular,59,Online,North,0.0
+ORD_001907,2023-09-07,Home & Garden,219.38,1,219.38,Regular,26,Online,South,0.0
+ORD_001908,2025-02-15,Beauty,59.5,1,59.5,Premium,74,Online,North,0.0
+ORD_001909,2024-04-02,Books,12.92,1,12.92,Premium,75,Online,Central,0.0
+ORD_001910,2025-07-24,Electronics,615.74,1,615.74,Regular,56,Mobile App,Central,0.15
+ORD_001911,2023-10-26,Sports,156.66,3,469.99,Regular,24,Store,North,0.0
+ORD_001912,2024-12-25,Sports,86.94,2,218.45,Premium,48,Store,East,0.0
+ORD_001913,2024-03-25,Electronics,1772.63,2,3545.27,Regular,52,Online,Central,0.05
+ORD_001914,2024-08-27,Beauty,91.19,1,91.19,Premium,21,Store,West,0.15
+ORD_001915,2024-08-25,Beauty,31.91,3,95.72,VIP,53,Online,South,0.0
+ORD_001916,2023-12-01,Books,14.72,2,34.45,Premium,75,Mobile App,East,0.0
+ORD_001917,2024-07-21,Books,46.72,5,233.61,Premium,55,Online,North,0.0
+ORD_001918,2024-03-24,Books,39.9,3,119.7,Regular,68,Store,Central,0.0
+ORD_001919,2025-03-08,Electronics,1883.21,4,7532.86,Regular,70,Store,North,0.05
+ORD_001920,2023-10-22,Electronics,297.1,1,297.1,Regular,38,Online,East,0.0
+ORD_001921,2025-04-12,Beauty,135.21,3,405.62,VIP,26,Mobile App,Central,0.0
+ORD_001922,2024-09-15,Books,36.3,1,36.3,Premium,22,Store,East,0.0
+ORD_001923,2025-02-11,Clothing,109.09,1,109.09,Regular,40,Online,South,0.0
+ORD_001924,2024-11-01,Beauty,55.87,4,284.65,Premium,53,Store,East,0.0
+ORD_001925,2024-04-11,Sports,270.57,1,270.57,Premium,52,Online,Central,0.0
+ORD_001926,2023-11-19,Electronics,725.94,1,839.15,Premium,57,Online,West,0.0
+ORD_001927,2024-02-29,Clothing,171.46,3,514.37,Regular,37,Store,Central,0.0
+ORD_001928,2024-03-07,Electronics,776.16,1,776.16,Regular,27,Online,North,0.0
+ORD_001929,2024-04-01,Beauty,74.44,1,74.44,VIP,25,Online,North,0.0
+ORD_001930,2024-12-27,Electronics,577.08,3,1925.05,VIP,37,Online,North,0.0
+ORD_001931,2025-04-20,Books,29.81,1,29.81,Premium,42,Mobile App,West,0.0
+ORD_001932,2023-09-19,Clothing,48.48,4,193.91,Regular,52,Store,North,0.15
+ORD_001933,2025-06-11,Home & Garden,30.18,1,30.18,VIP,19,Mobile App,Central,0.0
+ORD_001934,2024-07-14,Home & Garden,407.97,1,407.97,Regular,66,Online,North,0.0
+ORD_001935,2024-07-19,Beauty,126.95,1,126.95,Premium,45,Online,North,0.0
+ORD_001936,2023-11-24,Sports,131.73,1,167.52,Regular,61,Mobile App,East,0.0
+ORD_001937,2025-02-02,Books,26.95,2,53.91,Regular,67,Online,Central,0.0
+ORD_001938,2024-04-27,Clothing,192.85,5,964.27,Premium,33,Online,South,0.0
+ORD_001939,2023-08-20,Home & Garden,402.8,1,402.8,Regular,23,Online,South,0.0
+ORD_001940,2025-02-10,Home & Garden,178.7,2,357.41,VIP,57,Store,East,0.0
+ORD_001941,2024-08-09,Home & Garden,334.73,3,1004.18,Regular,69,Store,Central,0.0
+ORD_001942,2023-08-17,Electronics,648.45,2,1296.89,Regular,71,Online,East,0.0
+ORD_001943,2024-02-04,Books,28.51,2,57.02,Regular,47,Online,North,0.0
+ORD_001944,2024-08-06,Books,35.51,2,71.02,VIP,44,Store,North,0.0
+ORD_001945,2025-03-20,Electronics,589.07,3,1767.21,Regular,38,Store,North,0.0
+ORD_001946,2024-10-29,Clothing,66.44,2,132.88,Premium,34,Online,West,0.0
+ORD_001947,2023-12-13,Clothing,106.77,2,244.83,Premium,59,Online,North,0.2
+ORD_001948,2025-06-05,Electronics,409.3,1,409.3,Regular,46,Online,Central,0.0
+ORD_001949,2024-06-24,Electronics,1016.23,3,3048.69,Regular,34,Online,North,0.1
+ORD_001950,2025-06-29,Home & Garden,263.26,2,526.52,Regular,40,Store,North,0.05
+ORD_001951,2023-10-23,Sports,147.05,1,147.05,VIP,33,Mobile App,South,0.0
+ORD_001952,2024-07-03,Sports,127.12,3,437.16,Regular,44,Store,North,0.0
+ORD_001953,2024-05-20,Clothing,24.45,1,24.45,Regular,41,Online,East,0.0
+ORD_001954,2024-09-25,Beauty,65.59,2,131.17,Regular,36,Store,Central,0.0
+ORD_001955,2023-09-05,Clothing,81.98,1,81.98,Regular,55,Store,North,0.05
+ORD_001956,2023-11-21,Sports,83.16,1,104.5,Premium,63,Online,Central,0.0
+ORD_001957,2025-08-03,Home & Garden,470.87,3,1412.61,Regular,55,Online,North,0.0
+ORD_001958,2025-06-07,Beauty,35.26,1,35.26,Premium,59,Mobile App,North,0.0
+ORD_001959,2023-10-23,Clothing,121.77,1,121.77,Regular,58,Mobile App,Central,0.0
+ORD_001960,2024-10-06,Sports,226.59,2,453.18,Regular,51,Store,North,0.0
+ORD_001961,2025-04-17,Books,36.37,1,36.37,Premium,38,Online,East,0.0
+ORD_001962,2024-02-20,Sports,100.31,5,501.57,Regular,69,Store,East,0.05
+ORD_001963,2024-03-28,Books,22.59,2,45.19,VIP,62,Mobile App,South,0.0
+ORD_001964,2024-11-02,Beauty,144.28,1,174.88,Premium,23,Store,East,0.0
+ORD_001965,2023-10-22,Home & Garden,331.87,1,331.87,Regular,46,Store,West,0.0
+ORD_001966,2024-03-27,Sports,252.65,1,252.65,VIP,52,Online,South,0.0
+ORD_001967,2024-09-25,Beauty,84.55,4,338.19,Regular,68,Store,East,0.1
+ORD_001968,2024-07-19,Home & Garden,72.21,2,144.43,Regular,50,Online,South,0.0
+ORD_001969,2025-03-16,Books,35.31,1,35.31,Premium,75,Online,South,0.0
+ORD_001970,2024-11-11,Electronics,375.2,3,1398.32,Regular,66,Online,Central,0.0
+ORD_001971,2024-11-28,Beauty,28.63,1,31.63,VIP,71,Store,West,0.0
+ORD_001972,2024-01-22,Electronics,308.14,1,308.14,Regular,42,Online,West,0.0
+ORD_001973,2024-08-01,Clothing,92.42,5,493.44,Premium,63,Online,East,0.0
+ORD_001974,2024-07-14,Sports,192.41,2,458.89,Regular,22,Mobile App,East,0.0
+ORD_001975,2024-09-26,Beauty,75.72,1,75.72,Premium,36,Online,West,0.0
+ORD_001976,2025-07-21,Clothing,152.02,2,323.06,Premium,55,Store,Central,0.0
+ORD_001977,2023-08-12,Sports,188.09,2,413.07,Premium,47,Online,West,0.0
+ORD_001978,2024-02-01,Sports,223.7,1,223.7,Regular,32,Mobile App,East,0.0
+ORD_001979,2024-12-22,Home & Garden,38.42,1,46.17,Premium,51,Store,Central,0.0
+ORD_001980,2024-10-14,Home & Garden,171.56,1,171.56,Regular,29,Online,South,0.0
+ORD_001981,2023-09-16,Beauty,134.12,1,134.12,Regular,45,Online,Central,0.0
+ORD_001982,2024-05-15,Sports,266.89,3,800.66,VIP,40,Online,East,0.0
+ORD_001983,2024-01-21,Electronics,611.29,1,611.29,Regular,32,Store,South,0.0
+ORD_001984,2024-05-26,Home & Garden,494.57,3,1483.71,Regular,32,Online,East,0.0
+ORD_001985,2023-12-27,Electronics,453.34,3,1503.47,Premium,66,Online,South,0.0
+ORD_001986,2023-09-14,Sports,146.99,2,293.98,Regular,71,Online,North,0.15
+ORD_001987,2024-08-17,Clothing,70.73,3,239.38,Premium,45,Online,West,0.0
+ORD_001988,2024-11-11,Home & Garden,460.23,4,2188.62,Regular,72,Store,North,0.0
+ORD_001989,2024-10-20,Books,20.52,1,20.52,Premium,35,Mobile App,North,0.0
+ORD_001990,2024-08-01,Electronics,1501.34,1,1501.34,VIP,38,Mobile App,South,0.0
+ORD_001991,2025-01-05,Home & Garden,148.91,3,446.74,Regular,50,Mobile App,North,0.0
+ORD_001992,2025-07-28,Beauty,57.5,3,172.5,Regular,45,Mobile App,North,0.0
+ORD_001993,2025-07-27,Sports,112.32,1,133.93,Regular,60,Store,North,0.0
+ORD_001994,2025-05-08,Electronics,529.53,2,1059.06,Premium,73,Online,South,0.0
+ORD_001995,2025-06-24,Clothing,64.36,4,281.24,Regular,64,Online,West,0.05
+ORD_001996,2024-02-24,Beauty,133.24,1,133.24,Regular,72,Mobile App,South,0.0
+ORD_001997,2023-08-08,Books,12.69,2,25.38,Premium,31,Online,South,0.0
+ORD_001998,2023-09-13,Books,37.52,2,75.04,Regular,58,Store,Central,0.0
+ORD_001999,2024-04-01,Beauty,62.08,1,62.08,Premium,29,Store,East,0.0
+ORD_002000,2024-03-29,Home & Garden,338.97,3,1016.9,Regular,58,Online,West,0.0
